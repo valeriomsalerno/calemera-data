@@ -1,8 +1,8 @@
 {
  "format": 1,
  "minimumAppVersion": "0.1.0",
- "version": 202611231910,
- "generated": "2026-11-23T19:10:17Z",
+ "version": 202611232047,
+ "generated": "2026-11-23T20:47:44Z",
  "calendars": [
   {
    "id": "national.AT",
@@ -4981,6 +4981,613 @@
      "title": {
       "it": "San Silvestro",
       "en": "New Year's Eve"
+     }
+    }
+   ]
+  },
+  {
+   "id": "national.US",
+   "block": "national",
+   "title": {
+    "it": "Stati Uniti",
+    "en": "United States"
+   },
+   "events": [
+    {
+     "date": "2026-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2026-01-19",
+     "title": {
+      "it": "Martin Luther King Jr. Day",
+      "en": "Birthday of Martin Luther King, Jr."
+     }
+    },
+    {
+     "date": "2026-02-16",
+     "title": {
+      "it": "Presidents' Day (compleanno di Washington)",
+      "en": "Washington’s Birthday"
+     }
+    },
+    {
+     "date": "2026-05-25",
+     "title": {
+      "it": "Memorial Day",
+      "en": "Memorial Day"
+     }
+    },
+    {
+     "date": "2026-06-19",
+     "title": {
+      "it": "Juneteenth",
+      "en": "Juneteenth National Independence Day"
+     }
+    },
+    {
+     "date": "2026-07-03",
+     "title": {
+      "it": "Giorno dell'Indipendenza (osservato)",
+      "en": "Independence Day (observed)"
+     }
+    },
+    {
+     "date": "2026-07-04",
+     "title": {
+      "it": "Giorno dell'Indipendenza",
+      "en": "Independence Day"
+     }
+    },
+    {
+     "date": "2026-09-07",
+     "title": {
+      "it": "Labor Day",
+      "en": "Labor Day"
+     }
+    },
+    {
+     "date": "2026-10-12",
+     "title": {
+      "it": "Columbus Day",
+      "en": "Columbus Day"
+     }
+    },
+    {
+     "date": "2026-11-11",
+     "title": {
+      "it": "Veterans Day",
+      "en": "Veterans Day"
+     }
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Giorno del Ringraziamento",
+      "en": "Thanksgiving Day"
+     }
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Natale",
+      "en": "Christmas Day"
+     }
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2027-01-18",
+     "title": {
+      "it": "Martin Luther King Jr. Day",
+      "en": "Birthday of Martin Luther King, Jr."
+     }
+    },
+    {
+     "date": "2027-02-15",
+     "title": {
+      "it": "Presidents' Day (compleanno di Washington)",
+      "en": "Washington’s Birthday"
+     }
+    },
+    {
+     "date": "2027-05-31",
+     "title": {
+      "it": "Memorial Day",
+      "en": "Memorial Day"
+     }
+    },
+    {
+     "date": "2027-06-18",
+     "title": {
+      "it": "Juneteenth (osservato)",
+      "en": "Juneteenth National Independence Day (observed)"
+     }
+    },
+    {
+     "date": "2027-06-19",
+     "title": {
+      "it": "Juneteenth",
+      "en": "Juneteenth National Independence Day"
+     }
+    },
+    {
+     "date": "2027-07-04",
+     "title": {
+      "it": "Giorno dell'Indipendenza",
+      "en": "Independence Day"
+     }
+    },
+    {
+     "date": "2027-07-05",
+     "title": {
+      "it": "Giorno dell'Indipendenza (osservato)",
+      "en": "Independence Day (observed)"
+     }
+    },
+    {
+     "date": "2027-09-06",
+     "title": {
+      "it": "Labor Day",
+      "en": "Labor Day"
+     }
+    },
+    {
+     "date": "2027-10-11",
+     "title": {
+      "it": "Columbus Day",
+      "en": "Columbus Day"
+     }
+    },
+    {
+     "date": "2027-11-11",
+     "title": {
+      "it": "Veterans Day",
+      "en": "Veterans Day"
+     }
+    },
+    {
+     "date": "2027-11-25",
+     "title": {
+      "it": "Giorno del Ringraziamento",
+      "en": "Thanksgiving Day"
+     }
+    },
+    {
+     "date": "2027-12-24",
+     "title": {
+      "it": "Natale (osservato)",
+      "en": "Christmas Day (observed)"
+     }
+    },
+    {
+     "date": "2027-12-25",
+     "title": {
+      "it": "Natale",
+      "en": "Christmas Day"
+     }
+    }
+   ]
+  },
+  {
+   "id": "national.GB",
+   "block": "national",
+   "title": {
+    "it": "Regno Unito: Inghilterra e Galles",
+    "en": "United Kingdom: England and Wales"
+   },
+   "events": [
+    {
+     "date": "2026-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2026-04-03",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2026-04-06",
+     "title": {
+      "it": "Lunedì di Pasqua",
+      "en": "Easter Monday"
+     }
+    },
+    {
+     "date": "2026-05-04",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2026-05-25",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2026-08-31",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Natale",
+      "en": "Christmas Day"
+     }
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2027-03-26",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2027-03-29",
+     "title": {
+      "it": "Lunedì di Pasqua",
+      "en": "Easter Monday"
+     }
+    },
+    {
+     "date": "2027-05-03",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2027-05-31",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2027-08-30",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2027-12-27",
+     "title": {
+      "it": "Natale (giorno sostitutivo)",
+      "en": "Christmas Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "national.GBSCT",
+   "block": "national",
+   "title": {
+    "it": "Regno Unito: Scozia",
+    "en": "United Kingdom: Scotland"
+   },
+   "events": [
+    {
+     "date": "2026-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2026-01-02",
+     "title": {
+      "it": "2 gennaio",
+      "en": "2nd January"
+     }
+    },
+    {
+     "date": "2026-04-03",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2026-05-04",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2026-05-25",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2026-06-15",
+     "title": {
+      "it": "Festa per i Mondiali di calcio",
+      "en": "World Cup bank holiday"
+     }
+    },
+    {
+     "date": "2026-08-03",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Sant'Andrea",
+      "en": "St Andrew’s Day"
+     }
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Natale",
+      "en": "Christmas Day"
+     }
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2027-01-04",
+     "title": {
+      "it": "2 gennaio (giorno sostitutivo)",
+      "en": "2nd January (substitute day)"
+     }
+    },
+    {
+     "date": "2027-03-26",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2027-05-03",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2027-05-31",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2027-08-02",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2027-11-30",
+     "title": {
+      "it": "Sant'Andrea",
+      "en": "St Andrew’s Day"
+     }
+    },
+    {
+     "date": "2027-12-27",
+     "title": {
+      "it": "Natale (giorno sostitutivo)",
+      "en": "Christmas Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "national.GBNIR",
+   "block": "national",
+   "title": {
+    "it": "Regno Unito: Irlanda del Nord",
+    "en": "United Kingdom: Northern Ireland"
+   },
+   "events": [
+    {
+     "date": "2026-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2026-03-17",
+     "title": {
+      "it": "San Patrizio",
+      "en": "St Patrick’s Day"
+     }
+    },
+    {
+     "date": "2026-04-03",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2026-04-06",
+     "title": {
+      "it": "Lunedì di Pasqua",
+      "en": "Easter Monday"
+     }
+    },
+    {
+     "date": "2026-05-04",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2026-05-25",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2026-07-13",
+     "title": {
+      "it": "Battaglia del Boyne (giorno sostitutivo)",
+      "en": "Battle of the Boyne (Orangemen’s Day) (substitute day)"
+     }
+    },
+    {
+     "date": "2026-08-31",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Natale",
+      "en": "Christmas Day"
+     }
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Capodanno",
+      "en": "New Year’s Day"
+     }
+    },
+    {
+     "date": "2027-03-17",
+     "title": {
+      "it": "San Patrizio",
+      "en": "St Patrick’s Day"
+     }
+    },
+    {
+     "date": "2027-03-26",
+     "title": {
+      "it": "Venerdì Santo",
+      "en": "Good Friday"
+     }
+    },
+    {
+     "date": "2027-03-29",
+     "title": {
+      "it": "Lunedì di Pasqua",
+      "en": "Easter Monday"
+     }
+    },
+    {
+     "date": "2027-05-03",
+     "title": {
+      "it": "Festa di inizio maggio",
+      "en": "Early May bank holiday"
+     }
+    },
+    {
+     "date": "2027-05-31",
+     "title": {
+      "it": "Festa di primavera",
+      "en": "Spring bank holiday"
+     }
+    },
+    {
+     "date": "2027-07-12",
+     "title": {
+      "it": "Battaglia del Boyne",
+      "en": "Battle of the Boyne (Orangemen’s Day)"
+     }
+    },
+    {
+     "date": "2027-08-30",
+     "title": {
+      "it": "Festa d'estate",
+      "en": "Summer bank holiday"
+     }
+    },
+    {
+     "date": "2027-12-27",
+     "title": {
+      "it": "Natale (giorno sostitutivo)",
+      "en": "Christmas Day (substitute day)"
+     }
+    },
+    {
+     "date": "2027-12-28",
+     "title": {
+      "it": "Santo Stefano (giorno sostitutivo)",
+      "en": "Boxing Day (substitute day)"
      }
     }
    ]
