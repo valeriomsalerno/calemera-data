@@ -1,8 +1,8 @@
 {
  "format": 1,
  "minimumAppVersion": "0.1.0",
- "version": 202611231715,
- "generated": "2026-11-23T17:15:07Z",
+ "version": 202611231814,
+ "generated": "2026-11-23T18:14:49Z",
  "calendars": [
   {
    "id": "national.AT",
@@ -10265,6 +10265,4228 @@
     "Sporting Lisbona": "Sporting CP",
     "Stoccarda": "Stuttgart"
    }
+  },
+  {
+   "id": "sports.premierleague",
+   "block": "sports",
+   "title": {
+    "it": "Premier League 2026/27",
+    "en": "Premier League 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Manchester City – Fulham",
+      "en": "Manchester City – Fulham"
+     },
+     "teams": [
+      "Manchester City",
+      "Fulham"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Bournemouth – Nottingham Forest",
+      "en": "Bournemouth – Nottingham Forest"
+     },
+     "teams": [
+      "Bournemouth",
+      "Nottingham Forest"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Aston Villa – Sunderland",
+      "en": "Aston Villa – Sunderland"
+     },
+     "teams": [
+      "Aston Villa",
+      "Sunderland"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Chelsea – Leeds",
+      "en": "Chelsea – Leeds"
+     },
+     "teams": [
+      "Chelsea",
+      "Leeds"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Coventry – Crystal Palace",
+      "en": "Coventry – Crystal Palace"
+     },
+     "teams": [
+      "Coventry",
+      "Crystal Palace"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Tottenham – Ipswich",
+      "en": "Tottenham – Ipswich"
+     },
+     "teams": [
+      "Tottenham",
+      "Ipswich"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Newcastle – Arsenal",
+      "en": "Newcastle – Arsenal"
+     },
+     "teams": [
+      "Newcastle",
+      "Arsenal"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Hull City – Brighton",
+      "en": "Hull City – Brighton"
+     },
+     "teams": [
+      "Hull City",
+      "Brighton"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Liverpool – Manchester United",
+      "en": "Liverpool – Manchester United"
+     },
+     "teams": [
+      "Liverpool",
+      "Manchester United"
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "title": {
+      "it": "Brentford – Everton",
+      "en": "Brentford – Everton"
+     },
+     "teams": [
+      "Brentford",
+      "Everton"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Nottingham Forest – Chelsea",
+      "en": "Nottingham Forest – Chelsea"
+     },
+     "teams": [
+      "Nottingham Forest",
+      "Chelsea"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Leeds – Coventry",
+      "en": "Leeds – Coventry"
+     },
+     "teams": [
+      "Leeds",
+      "Coventry"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Manchester United – Brentford",
+      "en": "Manchester United – Brentford"
+     },
+     "teams": [
+      "Manchester United",
+      "Brentford"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Ipswich – Aston Villa",
+      "en": "Ipswich – Aston Villa"
+     },
+     "teams": [
+      "Ipswich",
+      "Aston Villa"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Everton – Liverpool",
+      "en": "Everton – Liverpool"
+     },
+     "teams": [
+      "Everton",
+      "Liverpool"
+     ],
+     "time": "13:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Brighton – Newcastle",
+      "en": "Brighton – Newcastle"
+     },
+     "teams": [
+      "Brighton",
+      "Newcastle"
+     ],
+     "time": "15:05"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Crystal Palace – Hull City",
+      "en": "Crystal Palace – Hull City"
+     },
+     "teams": [
+      "Crystal Palace",
+      "Hull City"
+     ],
+     "time": "15:05"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Fulham – Bournemouth",
+      "en": "Fulham – Bournemouth"
+     },
+     "teams": [
+      "Fulham",
+      "Bournemouth"
+     ],
+     "time": "15:05"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Sunderland – Tottenham",
+      "en": "Sunderland – Tottenham"
+     },
+     "teams": [
+      "Sunderland",
+      "Tottenham"
+     ],
+     "time": "15:05"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Arsenal – Manchester City",
+      "en": "Arsenal – Manchester City"
+     },
+     "teams": [
+      "Arsenal",
+      "Manchester City"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Coventry – Ipswich",
+      "en": "Coventry – Ipswich"
+     },
+     "teams": [
+      "Coventry",
+      "Ipswich"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Chelsea – Crystal Palace",
+      "en": "Chelsea – Crystal Palace"
+     },
+     "teams": [
+      "Chelsea",
+      "Crystal Palace"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Hull City – Nottingham Forest",
+      "en": "Hull City – Nottingham Forest"
+     },
+     "teams": [
+      "Hull City",
+      "Nottingham Forest"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Liverpool – Sunderland",
+      "en": "Liverpool – Sunderland"
+     },
+     "teams": [
+      "Liverpool",
+      "Sunderland"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Manchester City – Leeds",
+      "en": "Manchester City – Leeds"
+     },
+     "teams": [
+      "Manchester City",
+      "Leeds"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Bournemouth – Brighton",
+      "en": "Bournemouth – Brighton"
+     },
+     "teams": [
+      "Bournemouth",
+      "Brighton"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Aston Villa – Everton",
+      "en": "Aston Villa – Everton"
+     },
+     "teams": [
+      "Aston Villa",
+      "Everton"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Brentford – Arsenal",
+      "en": "Brentford – Arsenal"
+     },
+     "teams": [
+      "Brentford",
+      "Arsenal"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Newcastle – Manchester United",
+      "en": "Newcastle – Manchester United"
+     },
+     "teams": [
+      "Newcastle",
+      "Manchester United"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Tottenham – Fulham",
+      "en": "Tottenham – Fulham"
+     },
+     "teams": [
+      "Tottenham",
+      "Fulham"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Chelsea – Liverpool",
+      "en": "Chelsea – Liverpool"
+     },
+     "teams": [
+      "Chelsea",
+      "Liverpool"
+     ],
+     "time": "13:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Bournemouth – Hull City",
+      "en": "Bournemouth – Hull City"
+     },
+     "teams": [
+      "Bournemouth",
+      "Hull City"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Aston Villa – Crystal Palace",
+      "en": "Aston Villa – Crystal Palace"
+     },
+     "teams": [
+      "Aston Villa",
+      "Crystal Palace"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Leeds – Ipswich",
+      "en": "Leeds – Ipswich"
+     },
+     "teams": [
+      "Leeds",
+      "Ipswich"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Manchester United – Coventry",
+      "en": "Manchester United – Coventry"
+     },
+     "teams": [
+      "Manchester United",
+      "Coventry"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Nottingham Forest – Brighton",
+      "en": "Nottingham Forest – Brighton"
+     },
+     "teams": [
+      "Nottingham Forest",
+      "Brighton"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Brentford – Manchester City",
+      "en": "Brentford – Manchester City"
+     },
+     "teams": [
+      "Brentford",
+      "Manchester City"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Everton – Fulham",
+      "en": "Everton – Fulham"
+     },
+     "teams": [
+      "Everton",
+      "Fulham"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Newcastle – Sunderland",
+      "en": "Newcastle – Sunderland"
+     },
+     "teams": [
+      "Newcastle",
+      "Sunderland"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Tottenham – Arsenal",
+      "en": "Tottenham – Arsenal"
+     },
+     "teams": [
+      "Tottenham",
+      "Arsenal"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Fulham – Brentford",
+      "en": "Fulham – Brentford"
+     },
+     "teams": [
+      "Fulham",
+      "Brentford"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Ipswich – Newcastle",
+      "en": "Ipswich – Newcastle"
+     },
+     "teams": [
+      "Ipswich",
+      "Newcastle"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Liverpool – Leeds",
+      "en": "Liverpool – Leeds"
+     },
+     "teams": [
+      "Liverpool",
+      "Leeds"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Manchester City – Chelsea",
+      "en": "Manchester City – Chelsea"
+     },
+     "teams": [
+      "Manchester City",
+      "Chelsea"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Arsenal – Bournemouth",
+      "en": "Arsenal – Bournemouth"
+     },
+     "teams": [
+      "Arsenal",
+      "Bournemouth"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Everton – Brighton",
+      "en": "Everton – Brighton"
+     },
+     "teams": [
+      "Everton",
+      "Brighton"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Sunderland – Nottingham Forest",
+      "en": "Sunderland – Nottingham Forest"
+     },
+     "teams": [
+      "Sunderland",
+      "Nottingham Forest"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Coventry – Aston Villa",
+      "en": "Coventry – Aston Villa"
+     },
+     "teams": [
+      "Coventry",
+      "Aston Villa"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Crystal Palace – Manchester United",
+      "en": "Crystal Palace – Manchester United"
+     },
+     "teams": [
+      "Crystal Palace",
+      "Manchester United"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Hull City – Tottenham",
+      "en": "Hull City – Tottenham"
+     },
+     "teams": [
+      "Hull City",
+      "Tottenham"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Brentford – Newcastle",
+      "en": "Brentford – Newcastle"
+     },
+     "teams": [
+      "Brentford",
+      "Newcastle"
+     ],
+     "time": "13:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Bournemouth – Coventry",
+      "en": "Bournemouth – Coventry"
+     },
+     "teams": [
+      "Bournemouth",
+      "Coventry"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Leeds – Fulham",
+      "en": "Leeds – Fulham"
+     },
+     "teams": [
+      "Leeds",
+      "Fulham"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Manchester City – Hull City",
+      "en": "Manchester City – Hull City"
+     },
+     "teams": [
+      "Manchester City",
+      "Hull City"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Liverpool – Tottenham",
+      "en": "Liverpool – Tottenham"
+     },
+     "teams": [
+      "Liverpool",
+      "Tottenham"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Brighton – Ipswich",
+      "en": "Brighton – Ipswich"
+     },
+     "teams": [
+      "Brighton",
+      "Ipswich"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Nottingham Forest – Everton",
+      "en": "Nottingham Forest – Everton"
+     },
+     "teams": [
+      "Nottingham Forest",
+      "Everton"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Sunderland – Crystal Palace",
+      "en": "Sunderland – Crystal Palace"
+     },
+     "teams": [
+      "Sunderland",
+      "Crystal Palace"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Arsenal – Manchester United",
+      "en": "Arsenal – Manchester United"
+     },
+     "teams": [
+      "Arsenal",
+      "Manchester United"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Chelsea – Aston Villa",
+      "en": "Chelsea – Aston Villa"
+     },
+     "teams": [
+      "Chelsea",
+      "Aston Villa"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Aston Villa – Leeds",
+      "en": "Aston Villa – Leeds"
+     },
+     "teams": [
+      "Aston Villa",
+      "Leeds"
+     ],
+     "time": "13:30"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Everton – Sunderland",
+      "en": "Everton – Sunderland"
+     },
+     "teams": [
+      "Everton",
+      "Sunderland"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Fulham – Brighton",
+      "en": "Fulham – Brighton"
+     },
+     "teams": [
+      "Fulham",
+      "Brighton"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Ipswich – Brentford",
+      "en": "Ipswich – Brentford"
+     },
+     "teams": [
+      "Ipswich",
+      "Brentford"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Tottenham – Bournemouth",
+      "en": "Tottenham – Bournemouth"
+     },
+     "teams": [
+      "Tottenham",
+      "Bournemouth"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Hull City – Liverpool",
+      "en": "Hull City – Liverpool"
+     },
+     "teams": [
+      "Hull City",
+      "Liverpool"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Newcastle – Manchester City",
+      "en": "Newcastle – Manchester City"
+     },
+     "teams": [
+      "Newcastle",
+      "Manchester City"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Coventry – Chelsea",
+      "en": "Coventry – Chelsea"
+     },
+     "teams": [
+      "Coventry",
+      "Chelsea"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Manchester United – Nottingham Forest",
+      "en": "Manchester United – Nottingham Forest"
+     },
+     "teams": [
+      "Manchester United",
+      "Nottingham Forest"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Crystal Palace – Arsenal",
+      "en": "Crystal Palace – Arsenal"
+     },
+     "teams": [
+      "Crystal Palace",
+      "Arsenal"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Hull City – Leeds",
+      "en": "Hull City – Leeds"
+     },
+     "teams": [
+      "Hull City",
+      "Leeds"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Tottenham – Brighton",
+      "en": "Tottenham – Brighton"
+     },
+     "teams": [
+      "Tottenham",
+      "Brighton"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Everton – Manchester City",
+      "en": "Everton – Manchester City"
+     },
+     "teams": [
+      "Everton",
+      "Manchester City"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Coventry – Brentford",
+      "en": "Coventry – Brentford"
+     },
+     "teams": [
+      "Coventry",
+      "Brentford"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Crystal Palace – Bournemouth",
+      "en": "Crystal Palace – Bournemouth"
+     },
+     "teams": [
+      "Crystal Palace",
+      "Bournemouth"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Fulham – Arsenal",
+      "en": "Fulham – Arsenal"
+     },
+     "teams": [
+      "Fulham",
+      "Arsenal"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Manchester United – Sunderland",
+      "en": "Manchester United – Sunderland"
+     },
+     "teams": [
+      "Manchester United",
+      "Sunderland"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Newcastle – Nottingham Forest",
+      "en": "Newcastle – Nottingham Forest"
+     },
+     "teams": [
+      "Newcastle",
+      "Nottingham Forest"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Aston Villa – Liverpool",
+      "en": "Aston Villa – Liverpool"
+     },
+     "teams": [
+      "Aston Villa",
+      "Liverpool"
+     ],
+     "time": "21:15"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Ipswich – Chelsea",
+      "en": "Ipswich – Chelsea"
+     },
+     "teams": [
+      "Ipswich",
+      "Chelsea"
+     ],
+     "time": "21:15"
+    }
+   ],
+   "teams": [
+    "Arsenal",
+    "Aston Villa",
+    "Bournemouth",
+    "Brentford",
+    "Brighton",
+    "Chelsea",
+    "Coventry",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Hull City",
+    "Ipswich",
+    "Leeds",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Newcastle",
+    "Nottingham Forest",
+    "Sunderland",
+    "Tottenham"
+   ]
+  },
+  {
+   "id": "sports.laliga",
+   "block": "sports",
+   "title": {
+    "it": "LaLiga 2026/27",
+    "en": "LaLiga 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Athletic Bilbao – Espanyol",
+      "en": "Athletic Club – Espanyol"
+     },
+     "teams": [
+      "Athletic Bilbao",
+      "Espanyol"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Alavés – Deportivo La Coruña",
+      "en": "Alavés – Deportivo"
+     },
+     "teams": [
+      "Alavés",
+      "Deportivo La Coruña"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Rayo Vallecano – Valencia",
+      "en": "Rayo Vallecano – Valencia"
+     },
+     "teams": [
+      "Rayo Vallecano",
+      "Valencia"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Siviglia – Real Betis",
+      "en": "Sevilla – Real Betis"
+     },
+     "teams": [
+      "Siviglia",
+      "Real Betis"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Real Madrid – Celta",
+      "en": "Real Madrid – Celta"
+     },
+     "teams": [
+      "Real Madrid",
+      "Celta"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Barcellona – Villarreal",
+      "en": "Barcelona – Villarreal"
+     },
+     "teams": [
+      "Barcellona",
+      "Villarreal"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Racing Santander – Real Sociedad",
+      "en": "Racing Santander – Real Sociedad"
+     },
+     "teams": [
+      "Racing Santander",
+      "Real Sociedad"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Osasuna – Málaga",
+      "en": "Osasuna – Málaga"
+     },
+     "teams": [
+      "Osasuna",
+      "Málaga"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Getafe – Atlético Madrid",
+      "en": "Getafe – Atlético Madrid"
+     },
+     "teams": [
+      "Getafe",
+      "Atlético Madrid"
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "title": {
+      "it": "Levante – Elche",
+      "en": "Levante – Elche"
+     },
+     "teams": [
+      "Levante",
+      "Elche"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Levante – Racing Santander",
+      "en": "Levante – Racing Santander"
+     },
+     "teams": [
+      "Levante",
+      "Racing Santander"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Real Betis – Rayo Vallecano",
+      "en": "Real Betis – Rayo Vallecano"
+     },
+     "teams": [
+      "Real Betis",
+      "Rayo Vallecano"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Málaga – Athletic Bilbao",
+      "en": "Málaga – Athletic Club"
+     },
+     "teams": [
+      "Málaga",
+      "Athletic Bilbao"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Elche – Atlético Madrid",
+      "en": "Elche – Atlético Madrid"
+     },
+     "teams": [
+      "Elche",
+      "Atlético Madrid"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Real Madrid – Alavés",
+      "en": "Real Madrid – Alavés"
+     },
+     "teams": [
+      "Real Madrid",
+      "Alavés"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Valencia – Osasuna",
+      "en": "Valencia – Osasuna"
+     },
+     "teams": [
+      "Valencia",
+      "Osasuna"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Deportivo La Coruña – Barcellona",
+      "en": "Deportivo – Barcelona"
+     },
+     "teams": [
+      "Deportivo La Coruña",
+      "Barcellona"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Celta – Villarreal",
+      "en": "Celta – Villarreal"
+     },
+     "teams": [
+      "Celta",
+      "Villarreal"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Real Sociedad – Siviglia",
+      "en": "Real Sociedad – Sevilla"
+     },
+     "teams": [
+      "Real Sociedad",
+      "Siviglia"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Espanyol – Getafe",
+      "en": "Espanyol – Getafe"
+     },
+     "teams": [
+      "Espanyol",
+      "Getafe"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Real Sociedad – Real Madrid",
+      "en": "Real Sociedad – Real Madrid"
+     },
+     "teams": [
+      "Real Sociedad",
+      "Real Madrid"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Atlético Madrid – Barcellona",
+      "en": "Atlético Madrid – Barcelona"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Barcellona"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Alavés – Espanyol",
+      "en": "Alavés – Espanyol"
+     },
+     "teams": [
+      "Alavés",
+      "Espanyol"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Racing Santander – Deportivo La Coruña",
+      "en": "Racing Santander – Deportivo"
+     },
+     "teams": [
+      "Racing Santander",
+      "Deportivo La Coruña"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Rayo Vallecano – Levante",
+      "en": "Rayo Vallecano – Levante"
+     },
+     "teams": [
+      "Rayo Vallecano",
+      "Levante"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Villarreal – Real Sociedad",
+      "en": "Villarreal – Real Sociedad"
+     },
+     "teams": [
+      "Villarreal",
+      "Real Sociedad"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Barcellona – Celta",
+      "en": "Barcelona – Celta"
+     },
+     "teams": [
+      "Barcellona",
+      "Celta"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Osasuna – Elche",
+      "en": "Osasuna – Elche"
+     },
+     "teams": [
+      "Osasuna",
+      "Elche"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Athletic Bilbao – Real Madrid",
+      "en": "Athletic Club – Real Madrid"
+     },
+     "teams": [
+      "Athletic Bilbao",
+      "Real Madrid"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Getafe – Valencia",
+      "en": "Getafe – Valencia"
+     },
+     "teams": [
+      "Getafe",
+      "Valencia"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Atlético Madrid – Real Betis",
+      "en": "Atlético Madrid – Real Betis"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Real Betis"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Siviglia – Málaga",
+      "en": "Sevilla – Málaga"
+     },
+     "teams": [
+      "Siviglia",
+      "Málaga"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Rayo Vallecano – Athletic Bilbao",
+      "en": "Rayo Vallecano – Athletic Club"
+     },
+     "teams": [
+      "Rayo Vallecano",
+      "Athletic Bilbao"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Elche – Siviglia",
+      "en": "Elche – Sevilla"
+     },
+     "teams": [
+      "Elche",
+      "Siviglia"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Levante – Alavés",
+      "en": "Levante – Alavés"
+     },
+     "teams": [
+      "Levante",
+      "Alavés"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Villarreal – Rayo Vallecano",
+      "en": "Villarreal – Rayo Vallecano"
+     },
+     "teams": [
+      "Villarreal",
+      "Rayo Vallecano"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Málaga – Barcellona",
+      "en": "Málaga – Barcelona"
+     },
+     "teams": [
+      "Málaga",
+      "Barcellona"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Real Betis – Racing Santander",
+      "en": "Real Betis – Racing Santander"
+     },
+     "teams": [
+      "Real Betis",
+      "Racing Santander"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Atlético Madrid – Valencia",
+      "en": "Atlético Madrid – Valencia"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Valencia"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Deportivo La Coruña – Athletic Bilbao",
+      "en": "Deportivo – Athletic Club"
+     },
+     "teams": [
+      "Deportivo La Coruña",
+      "Athletic Bilbao"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Real Sociedad – Getafe",
+      "en": "Real Sociedad – Getafe"
+     },
+     "teams": [
+      "Real Sociedad",
+      "Getafe"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Real Madrid – Osasuna",
+      "en": "Real Madrid – Osasuna"
+     },
+     "teams": [
+      "Real Madrid",
+      "Osasuna"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Espanyol – Celta",
+      "en": "Espanyol – Celta"
+     },
+     "teams": [
+      "Espanyol",
+      "Celta"
+     ],
+     "time": "21:00"
+    }
+   ],
+   "teams": [
+    "Alavés",
+    "Athletic Bilbao",
+    "Atlético Madrid",
+    "Barcellona",
+    "Celta",
+    "Deportivo La Coruña",
+    "Elche",
+    "Espanyol",
+    "Getafe",
+    "Levante",
+    "Málaga",
+    "Osasuna",
+    "Racing Santander",
+    "Rayo Vallecano",
+    "Real Betis",
+    "Real Madrid",
+    "Real Sociedad",
+    "Siviglia",
+    "Valencia",
+    "Villarreal"
+   ],
+   "teamNamesEN": {
+    "Athletic Bilbao": "Athletic Club",
+    "Barcellona": "Barcelona",
+    "Deportivo La Coruña": "Deportivo",
+    "Siviglia": "Sevilla"
+   }
+  },
+  {
+   "id": "sports.bundesliga",
+   "block": "sports",
+   "title": {
+    "it": "Bundesliga 2026/27",
+    "en": "Bundesliga 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Bayern Monaco – Colonia",
+      "en": "Bayern Munich – FC Cologne"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Colonia"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Union Berlino – Lipsia",
+      "en": "Union Berlin – RB Leipzig"
+     },
+     "teams": [
+      "Union Berlino",
+      "Lipsia"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Leverkusen – Paderborn",
+      "en": "Leverkusen – Paderborn"
+     },
+     "teams": [
+      "Leverkusen",
+      "Paderborn"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Borussia Mönchengladbach – Borussia Dortmund",
+      "en": "Borussia Mönchengladbach – Borussia Dortmund"
+     },
+     "teams": [
+      "Borussia Mönchengladbach",
+      "Borussia Dortmund"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Eintracht Frankfurt – Hoffenheim",
+      "en": "Eintracht Frankfurt – Hoffenheim"
+     },
+     "teams": [
+      "Eintracht Frankfurt",
+      "Hoffenheim"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Elversberg – Friburgo",
+      "en": "Elversberg – SC Freiburg"
+     },
+     "teams": [
+      "Elversberg",
+      "Friburgo"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Schalke 04 – Stoccarda",
+      "en": "Schalke 04 – Stuttgart"
+     },
+     "teams": [
+      "Schalke 04",
+      "Stoccarda"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Augusta – Magonza",
+      "en": "FC Augsburg – Mainz"
+     },
+     "teams": [
+      "Augusta",
+      "Magonza"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Werder Bremen – Amburgo",
+      "en": "Werder Bremen – Hamburger SV"
+     },
+     "teams": [
+      "Werder Bremen",
+      "Amburgo"
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Werder Bremen – Borussia Mönchengladbach",
+      "en": "Werder Bremen – Borussia Mönchengladbach"
+     },
+     "teams": [
+      "Werder Bremen",
+      "Borussia Mönchengladbach"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Colonia – Elversberg",
+      "en": "FC Cologne – Elversberg"
+     },
+     "teams": [
+      "Colonia",
+      "Elversberg"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Amburgo – Bayern Monaco",
+      "en": "Hamburger SV – Bayern Munich"
+     },
+     "teams": [
+      "Amburgo",
+      "Bayern Monaco"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Magonza – Union Berlino",
+      "en": "Mainz – Union Berlin"
+     },
+     "teams": [
+      "Magonza",
+      "Union Berlino"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Paderborn – Schalke 04",
+      "en": "Paderborn – Schalke 04"
+     },
+     "teams": [
+      "Paderborn",
+      "Schalke 04"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Stoccarda – Eintracht Frankfurt",
+      "en": "Stuttgart – Eintracht Frankfurt"
+     },
+     "teams": [
+      "Stoccarda",
+      "Eintracht Frankfurt"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Friburgo – Lipsia",
+      "en": "SC Freiburg – RB Leipzig"
+     },
+     "teams": [
+      "Friburgo",
+      "Lipsia"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Hoffenheim – Augusta",
+      "en": "Hoffenheim – FC Augsburg"
+     },
+     "teams": [
+      "Hoffenheim",
+      "Augusta"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Borussia Dortmund – Leverkusen",
+      "en": "Borussia Dortmund – Leverkusen"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "Leverkusen"
+     ],
+     "time": "19:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Bayern Monaco – Paderborn",
+      "en": "Bayern Munich – Paderborn"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Paderborn"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Union Berlino – Amburgo",
+      "en": "Union Berlin – Hamburger SV"
+     },
+     "teams": [
+      "Union Berlino",
+      "Amburgo"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Leverkusen – Borussia Mönchengladbach",
+      "en": "Leverkusen – Borussia Mönchengladbach"
+     },
+     "teams": [
+      "Leverkusen",
+      "Borussia Mönchengladbach"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Augusta – Colonia",
+      "en": "FC Augsburg – FC Cologne"
+     },
+     "teams": [
+      "Augusta",
+      "Colonia"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Lipsia – Magonza",
+      "en": "RB Leipzig – Mainz"
+     },
+     "teams": [
+      "Lipsia",
+      "Magonza"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Friburgo – Hoffenheim",
+      "en": "SC Freiburg – Hoffenheim"
+     },
+     "teams": [
+      "Friburgo",
+      "Hoffenheim"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Eintracht Frankfurt – Werder Bremen",
+      "en": "Eintracht Frankfurt – Werder Bremen"
+     },
+     "teams": [
+      "Eintracht Frankfurt",
+      "Werder Bremen"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Schalke 04 – Borussia Dortmund",
+      "en": "Schalke 04 – Borussia Dortmund"
+     },
+     "teams": [
+      "Schalke 04",
+      "Borussia Dortmund"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Elversberg – Stoccarda",
+      "en": "Elversberg – Stuttgart"
+     },
+     "teams": [
+      "Elversberg",
+      "Stoccarda"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Amburgo – Schalke 04",
+      "en": "Hamburger SV – Schalke 04"
+     },
+     "teams": [
+      "Amburgo",
+      "Schalke 04"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Borussia Dortmund – Augusta",
+      "en": "Borussia Dortmund – FC Augsburg"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "Augusta"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Colonia – Lipsia",
+      "en": "FC Cologne – RB Leipzig"
+     },
+     "teams": [
+      "Colonia",
+      "Lipsia"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Paderborn – Elversberg",
+      "en": "Paderborn – Elversberg"
+     },
+     "teams": [
+      "Paderborn",
+      "Elversberg"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Stoccarda – Union Berlino",
+      "en": "Stuttgart – Union Berlin"
+     },
+     "teams": [
+      "Stoccarda",
+      "Union Berlino"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Borussia Mönchengladbach – Eintracht Frankfurt",
+      "en": "Borussia Mönchengladbach – Eintracht Frankfurt"
+     },
+     "teams": [
+      "Borussia Mönchengladbach",
+      "Eintracht Frankfurt"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Magonza – Friburgo",
+      "en": "Mainz – SC Freiburg"
+     },
+     "teams": [
+      "Magonza",
+      "Friburgo"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Hoffenheim – Bayern Monaco",
+      "en": "Hoffenheim – Bayern Munich"
+     },
+     "teams": [
+      "Hoffenheim",
+      "Bayern Monaco"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Werder Bremen – Leverkusen",
+      "en": "Werder Bremen – Leverkusen"
+     },
+     "teams": [
+      "Werder Bremen",
+      "Leverkusen"
+     ],
+     "time": "19:30"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Bayern Monaco – Werder Bremen",
+      "en": "Bayern Munich – Werder Bremen"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Werder Bremen"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Leverkusen – Eintracht Frankfurt",
+      "en": "Leverkusen – Eintracht Frankfurt"
+     },
+     "teams": [
+      "Leverkusen",
+      "Eintracht Frankfurt"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Augusta – Paderborn",
+      "en": "FC Augsburg – Paderborn"
+     },
+     "teams": [
+      "Augusta",
+      "Paderborn"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Magonza – Colonia",
+      "en": "Mainz – FC Cologne"
+     },
+     "teams": [
+      "Magonza",
+      "Colonia"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Elversberg – Amburgo",
+      "en": "Elversberg – Hamburger SV"
+     },
+     "teams": [
+      "Elversberg",
+      "Amburgo"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Lipsia – Borussia Dortmund",
+      "en": "RB Leipzig – Borussia Dortmund"
+     },
+     "teams": [
+      "Lipsia",
+      "Borussia Dortmund"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Friburgo – Stoccarda",
+      "en": "SC Freiburg – Stuttgart"
+     },
+     "teams": [
+      "Friburgo",
+      "Stoccarda"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Union Berlino – Hoffenheim",
+      "en": "Union Berlin – Hoffenheim"
+     },
+     "teams": [
+      "Union Berlino",
+      "Hoffenheim"
+     ],
+     "time": "17:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Schalke 04 – Borussia Mönchengladbach",
+      "en": "Schalke 04 – Borussia Mönchengladbach"
+     },
+     "teams": [
+      "Schalke 04",
+      "Borussia Mönchengladbach"
+     ],
+     "time": "19:30"
+    }
+   ],
+   "teams": [
+    "Amburgo",
+    "Augusta",
+    "Bayern Monaco",
+    "Borussia Dortmund",
+    "Borussia Mönchengladbach",
+    "Colonia",
+    "Eintracht Frankfurt",
+    "Elversberg",
+    "Friburgo",
+    "Hoffenheim",
+    "Leverkusen",
+    "Lipsia",
+    "Magonza",
+    "Paderborn",
+    "Schalke 04",
+    "Stoccarda",
+    "Union Berlino",
+    "Werder Bremen"
+   ],
+   "teamNamesEN": {
+    "Amburgo": "Hamburger SV",
+    "Augusta": "FC Augsburg",
+    "Bayern Monaco": "Bayern Munich",
+    "Colonia": "FC Cologne",
+    "Friburgo": "SC Freiburg",
+    "Lipsia": "RB Leipzig",
+    "Magonza": "Mainz",
+    "Stoccarda": "Stuttgart",
+    "Union Berlino": "Union Berlin"
+   }
+  },
+  {
+   "id": "sports.ligueone",
+   "block": "sports",
+   "title": {
+    "it": "Ligue 1 2026/27",
+    "en": "Ligue 1 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Troyes – Le Havre",
+      "en": "Troyes – Le Havre"
+     },
+     "teams": [
+      "Troyes",
+      "Le Havre"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Nizza – Paris Saint-Germain",
+      "en": "Nice – Paris Saint-Germain"
+     },
+     "teams": [
+      "Nizza",
+      "Paris Saint-Germain"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Monaco – Auxerre",
+      "en": "Monaco – Auxerre"
+     },
+     "teams": [
+      "Monaco",
+      "Auxerre"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Lens – Tolosa",
+      "en": "Lens – Toulouse"
+     },
+     "teams": [
+      "Lens",
+      "Tolosa"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Lille – Lione",
+      "en": "Lille – Lyon"
+     },
+     "teams": [
+      "Lille",
+      "Lione"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Strasburgo – Brest",
+      "en": "Strasbourg – Brest"
+     },
+     "teams": [
+      "Strasburgo",
+      "Brest"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Paris FC – Angers",
+      "en": "Paris FC – Angers"
+     },
+     "teams": [
+      "Paris FC",
+      "Angers"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Lorient – Rennes",
+      "en": "Lorient – Rennes"
+     },
+     "teams": [
+      "Lorient",
+      "Rennes"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Marsiglia – Le Mans",
+      "en": "Marseille – Le Mans"
+     },
+     "teams": [
+      "Marsiglia",
+      "Le Mans"
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Brest – Paris FC",
+      "en": "Brest – Paris FC"
+     },
+     "teams": [
+      "Brest",
+      "Paris FC"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Angers – Lens",
+      "en": "Angers – Lens"
+     },
+     "teams": [
+      "Angers",
+      "Lens"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Le Havre – Strasburgo",
+      "en": "Le Havre – Strasbourg"
+     },
+     "teams": [
+      "Le Havre",
+      "Strasburgo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Le Mans – Lille",
+      "en": "Le Mans – Lille"
+     },
+     "teams": [
+      "Le Mans",
+      "Lille"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Nizza – Troyes",
+      "en": "Nice – Troyes"
+     },
+     "teams": [
+      "Nizza",
+      "Troyes"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Paris Saint-Germain – Lorient",
+      "en": "Paris Saint-Germain – Lorient"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Lorient"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Auxerre – Marsiglia",
+      "en": "Auxerre – Marseille"
+     },
+     "teams": [
+      "Auxerre",
+      "Marsiglia"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Tolosa – Rennes",
+      "en": "Toulouse – Rennes"
+     },
+     "teams": [
+      "Tolosa",
+      "Rennes"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Lione – Monaco",
+      "en": "Lyon – Monaco"
+     },
+     "teams": [
+      "Lione",
+      "Monaco"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Tolosa – Paris Saint-Germain",
+      "en": "Toulouse – Paris Saint-Germain"
+     },
+     "teams": [
+      "Tolosa",
+      "Paris Saint-Germain"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Lille – Auxerre",
+      "en": "Lille – Auxerre"
+     },
+     "teams": [
+      "Lille",
+      "Auxerre"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Monaco – Angers",
+      "en": "Monaco – Angers"
+     },
+     "teams": [
+      "Monaco",
+      "Angers"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Lens – Le Havre",
+      "en": "Lens – Le Havre"
+     },
+     "teams": [
+      "Lens",
+      "Le Havre"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Paris FC – Le Mans",
+      "en": "Paris FC – Le Mans"
+     },
+     "teams": [
+      "Paris FC",
+      "Le Mans"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Strasburgo – Lorient",
+      "en": "Strasbourg – Lorient"
+     },
+     "teams": [
+      "Strasburgo",
+      "Lorient"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Troyes – Lione",
+      "en": "Troyes – Lyon"
+     },
+     "teams": [
+      "Troyes",
+      "Lione"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Rennes – Brest",
+      "en": "Rennes – Brest"
+     },
+     "teams": [
+      "Rennes",
+      "Brest"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Marsiglia – Nizza",
+      "en": "Marseille – Nice"
+     },
+     "teams": [
+      "Marsiglia",
+      "Nizza"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Auxerre – Tolosa",
+      "en": "Auxerre – Toulouse"
+     },
+     "teams": [
+      "Auxerre",
+      "Tolosa"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Paris Saint-Germain – Paris FC",
+      "en": "Paris Saint-Germain – Paris FC"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Paris FC"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Angers – Strasburgo",
+      "en": "Angers – Strasbourg"
+     },
+     "teams": [
+      "Angers",
+      "Strasburgo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Brest – Troyes",
+      "en": "Brest – Troyes"
+     },
+     "teams": [
+      "Brest",
+      "Troyes"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Le Havre – Le Mans",
+      "en": "Le Havre – Le Mans"
+     },
+     "teams": [
+      "Le Havre",
+      "Le Mans"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Nizza – Lens",
+      "en": "Nice – Lens"
+     },
+     "teams": [
+      "Nizza",
+      "Lens"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Lorient – Lille",
+      "en": "Lorient – Lille"
+     },
+     "teams": [
+      "Lorient",
+      "Lille"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Rennes – Monaco",
+      "en": "Rennes – Monaco"
+     },
+     "teams": [
+      "Rennes",
+      "Monaco"
+     ],
+     "time": "17:15"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Lione – Marsiglia",
+      "en": "Lyon – Marseille"
+     },
+     "teams": [
+      "Lione",
+      "Marsiglia"
+     ],
+     "time": "20:45"
+    }
+   ],
+   "teams": [
+    "Angers",
+    "Auxerre",
+    "Brest",
+    "Le Havre",
+    "Le Mans",
+    "Lens",
+    "Lille",
+    "Lione",
+    "Lorient",
+    "Marsiglia",
+    "Monaco",
+    "Nizza",
+    "Paris FC",
+    "Paris Saint-Germain",
+    "Rennes",
+    "Strasburgo",
+    "Tolosa",
+    "Troyes"
+   ],
+   "teamNamesEN": {
+    "Lione": "Lyon",
+    "Marsiglia": "Marseille",
+    "Nizza": "Nice",
+    "Strasburgo": "Strasbourg",
+    "Tolosa": "Toulouse"
+   }
+  },
+  {
+   "id": "sports.eredivisie",
+   "block": "sports",
+   "title": {
+    "it": "Eredivisie 2026/27",
+    "en": "Eredivisie 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "N.E.C. – PSV Eindhoven",
+      "en": "N.E.C. – PSV Eindhoven"
+     },
+     "teams": [
+      "N.E.C.",
+      "PSV Eindhoven"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Utrecht – Cambuur",
+      "en": "Utrecht – Cambuur"
+     },
+     "teams": [
+      "Utrecht",
+      "Cambuur"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Feyenoord – Excelsior",
+      "en": "Feyenoord – Excelsior"
+     },
+     "teams": [
+      "Feyenoord",
+      "Excelsior"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Groningen – Heerenveen",
+      "en": "Groningen – Heerenveen"
+     },
+     "teams": [
+      "Groningen",
+      "Heerenveen"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Telstar – PEC Zwolle",
+      "en": "Telstar – PEC Zwolle"
+     },
+     "teams": [
+      "Telstar",
+      "PEC Zwolle"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Twente – Willem II",
+      "en": "Twente – Willem II"
+     },
+     "teams": [
+      "Twente",
+      "Willem II"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Ajax – ADO Den Haag",
+      "en": "Ajax – ADO Den Haag"
+     },
+     "teams": [
+      "Ajax",
+      "ADO Den Haag"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Sparta Rotterdam – AZ Alkmaar",
+      "en": "Sparta Rotterdam – AZ Alkmaar"
+     },
+     "teams": [
+      "Sparta Rotterdam",
+      "AZ Alkmaar"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Go Ahead Eagles – Fortuna Sittard",
+      "en": "Go Ahead Eagles – Fortuna Sittard"
+     },
+     "teams": [
+      "Go Ahead Eagles",
+      "Fortuna Sittard"
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Groningen – Willem II",
+      "en": "Groningen – Willem II"
+     },
+     "teams": [
+      "Groningen",
+      "Willem II"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Excelsior – Telstar",
+      "en": "Excelsior – Telstar"
+     },
+     "teams": [
+      "Excelsior",
+      "Telstar"
+     ],
+     "time": "16:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "PSV Eindhoven – Go Ahead Eagles",
+      "en": "PSV Eindhoven – Go Ahead Eagles"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Go Ahead Eagles"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Cambuur – Sparta Rotterdam",
+      "en": "Cambuur – Sparta Rotterdam"
+     },
+     "teams": [
+      "Cambuur",
+      "Sparta Rotterdam"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "ADO Den Haag – Utrecht",
+      "en": "ADO Den Haag – Utrecht"
+     },
+     "teams": [
+      "ADO Den Haag",
+      "Utrecht"
+     ],
+     "time": "12:15"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Feyenoord – Ajax",
+      "en": "Feyenoord – Ajax"
+     },
+     "teams": [
+      "Feyenoord",
+      "Ajax"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Fortuna Sittard – Heerenveen",
+      "en": "Fortuna Sittard – Heerenveen"
+     },
+     "teams": [
+      "Fortuna Sittard",
+      "Heerenveen"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "PEC Zwolle – AZ Alkmaar",
+      "en": "PEC Zwolle – AZ Alkmaar"
+     },
+     "teams": [
+      "PEC Zwolle",
+      "AZ Alkmaar"
+     ],
+     "time": "16:45"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "N.E.C. – Twente",
+      "en": "N.E.C. – Twente"
+     },
+     "teams": [
+      "N.E.C.",
+      "Twente"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Telstar – Groningen",
+      "en": "Telstar – Groningen"
+     },
+     "teams": [
+      "Telstar",
+      "Groningen"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Willem II – Feyenoord",
+      "en": "Willem II – Feyenoord"
+     },
+     "teams": [
+      "Willem II",
+      "Feyenoord"
+     ],
+     "time": "16:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Sparta Rotterdam – N.E.C.",
+      "en": "Sparta Rotterdam – N.E.C."
+     },
+     "teams": [
+      "Sparta Rotterdam",
+      "N.E.C."
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "AZ Alkmaar – PSV Eindhoven",
+      "en": "AZ Alkmaar – PSV Eindhoven"
+     },
+     "teams": [
+      "AZ Alkmaar",
+      "PSV Eindhoven"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Fortuna Sittard – PEC Zwolle",
+      "en": "Fortuna Sittard – PEC Zwolle"
+     },
+     "teams": [
+      "Fortuna Sittard",
+      "PEC Zwolle"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Heerenveen – Cambuur",
+      "en": "Heerenveen – Cambuur"
+     },
+     "teams": [
+      "Heerenveen",
+      "Cambuur"
+     ],
+     "time": "12:15"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Ajax – Utrecht",
+      "en": "Ajax – Utrecht"
+     },
+     "teams": [
+      "Ajax",
+      "Utrecht"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Go Ahead Eagles – Twente",
+      "en": "Go Ahead Eagles – Twente"
+     },
+     "teams": [
+      "Go Ahead Eagles",
+      "Twente"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "ADO Den Haag – Excelsior",
+      "en": "ADO Den Haag – Excelsior"
+     },
+     "teams": [
+      "ADO Den Haag",
+      "Excelsior"
+     ],
+     "time": "16:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Utrecht – Fortuna Sittard",
+      "en": "Utrecht – Fortuna Sittard"
+     },
+     "teams": [
+      "Utrecht",
+      "Fortuna Sittard"
+     ],
+     "time": "16:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Heerenveen – Go Ahead Eagles",
+      "en": "Heerenveen – Go Ahead Eagles"
+     },
+     "teams": [
+      "Heerenveen",
+      "Go Ahead Eagles"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "PEC Zwolle – Excelsior",
+      "en": "PEC Zwolle – Excelsior"
+     },
+     "teams": [
+      "PEC Zwolle",
+      "Excelsior"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "PSV Eindhoven – Telstar",
+      "en": "PSV Eindhoven – Telstar"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Telstar"
+     ],
+     "time": "12:15"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Groningen – Feyenoord",
+      "en": "Groningen – Feyenoord"
+     },
+     "teams": [
+      "Groningen",
+      "Feyenoord"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Willem II – ADO Den Haag",
+      "en": "Willem II – ADO Den Haag"
+     },
+     "teams": [
+      "Willem II",
+      "ADO Den Haag"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "AZ Alkmaar – N.E.C.",
+      "en": "AZ Alkmaar – N.E.C."
+     },
+     "teams": [
+      "AZ Alkmaar",
+      "N.E.C."
+     ],
+     "time": "16:45"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Ajax – Cambuur",
+      "en": "Ajax – Cambuur"
+     },
+     "teams": [
+      "Ajax",
+      "Cambuur"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Telstar – Willem II",
+      "en": "Telstar – Willem II"
+     },
+     "teams": [
+      "Telstar",
+      "Willem II"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Excelsior – AZ Alkmaar",
+      "en": "Excelsior – AZ Alkmaar"
+     },
+     "teams": [
+      "Excelsior",
+      "AZ Alkmaar"
+     ],
+     "time": "16:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Fortuna Sittard – Sparta Rotterdam",
+      "en": "Fortuna Sittard – Sparta Rotterdam"
+     },
+     "teams": [
+      "Fortuna Sittard",
+      "Sparta Rotterdam"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Utrecht – Heerenveen",
+      "en": "Utrecht – Heerenveen"
+     },
+     "teams": [
+      "Utrecht",
+      "Heerenveen"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "N.E.C. – ADO Den Haag",
+      "en": "N.E.C. – ADO Den Haag"
+     },
+     "teams": [
+      "N.E.C.",
+      "ADO Den Haag"
+     ],
+     "time": "12:15"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Feyenoord – Twente",
+      "en": "Feyenoord – Twente"
+     },
+     "teams": [
+      "Feyenoord",
+      "Twente"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Cambuur – Groningen",
+      "en": "Cambuur – Groningen"
+     },
+     "teams": [
+      "Cambuur",
+      "Groningen"
+     ],
+     "time": "14:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Go Ahead Eagles – Ajax",
+      "en": "Go Ahead Eagles – Ajax"
+     },
+     "teams": [
+      "Go Ahead Eagles",
+      "Ajax"
+     ],
+     "time": "16:45"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "PSV Eindhoven – PEC Zwolle",
+      "en": "PSV Eindhoven – PEC Zwolle"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "PEC Zwolle"
+     ],
+     "time": "20:00"
+    }
+   ],
+   "teams": [
+    "ADO Den Haag",
+    "AZ Alkmaar",
+    "Ajax",
+    "Cambuur",
+    "Excelsior",
+    "Feyenoord",
+    "Fortuna Sittard",
+    "Go Ahead Eagles",
+    "Groningen",
+    "Heerenveen",
+    "N.E.C.",
+    "PEC Zwolle",
+    "PSV Eindhoven",
+    "Sparta Rotterdam",
+    "Telstar",
+    "Twente",
+    "Utrecht",
+    "Willem II"
+   ]
+  },
+  {
+   "id": "sports.primeiraliga",
+   "block": "sports",
+   "title": {
+    "it": "Primeira Liga 2026/27",
+    "en": "Primeira Liga 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Marítimo – Nacional",
+      "en": "Marítimo – Nacional"
+     },
+     "teams": [
+      "Marítimo",
+      "Nacional"
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Arouca – Rio Ave",
+      "en": "Arouca – Rio Ave"
+     },
+     "teams": [
+      "Arouca",
+      "Rio Ave"
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Moreirense – Santa Clara",
+      "en": "Moreirense – Santa Clara"
+     },
+     "teams": [
+      "Moreirense",
+      "Santa Clara"
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Académico de Viseu – Alverca",
+      "en": "Académico de Viseu – Alverca"
+     },
+     "teams": [
+      "Académico de Viseu",
+      "Alverca"
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Vitória Guimarães – Estrela da Amadora",
+      "en": "Vitória Guimarães – Estrela da Amadora"
+     },
+     "teams": [
+      "Vitória Guimarães",
+      "Estrela da Amadora"
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Gil Vicente – Estoril",
+      "en": "Gil Vicente – Estoril"
+     },
+     "teams": [
+      "Gil Vicente",
+      "Estoril"
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Porto – Sporting Lisbona",
+      "en": "Porto – Sporting CP"
+     },
+     "teams": [
+      "Porto",
+      "Sporting Lisbona"
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Benfica – Famalicão",
+      "en": "Benfica – Famalicão"
+     },
+     "teams": [
+      "Benfica",
+      "Famalicão"
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Casa Pia – Braga",
+      "en": "Casa Pia – Braga"
+     },
+     "teams": [
+      "Casa Pia",
+      "Braga"
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Sporting Lisbona – Marítimo",
+      "en": "Sporting CP – Marítimo"
+     },
+     "teams": [
+      "Sporting Lisbona",
+      "Marítimo"
+     ]
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Nacional – Benfica",
+      "en": "Nacional – Benfica"
+     },
+     "teams": [
+      "Nacional",
+      "Benfica"
+     ]
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Santa Clara – Porto",
+      "en": "Santa Clara – Porto"
+     },
+     "teams": [
+      "Santa Clara",
+      "Porto"
+     ]
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Braga – Arouca",
+      "en": "Braga – Arouca"
+     },
+     "teams": [
+      "Braga",
+      "Arouca"
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Estrela da Amadora – Gil Vicente",
+      "en": "Estrela da Amadora – Gil Vicente"
+     },
+     "teams": [
+      "Estrela da Amadora",
+      "Gil Vicente"
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Rio Ave – Casa Pia",
+      "en": "Rio Ave – Casa Pia"
+     },
+     "teams": [
+      "Rio Ave",
+      "Casa Pia"
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Estoril – Vitória Guimarães",
+      "en": "Estoril – Vitória Guimarães"
+     },
+     "teams": [
+      "Estoril",
+      "Vitória Guimarães"
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Famalicão – Académico de Viseu",
+      "en": "Famalicão – Académico de Viseu"
+     },
+     "teams": [
+      "Famalicão",
+      "Académico de Viseu"
+     ]
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Alverca – Moreirense",
+      "en": "Alverca – Moreirense"
+     },
+     "teams": [
+      "Alverca",
+      "Moreirense"
+     ]
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Académico de Viseu – Arouca",
+      "en": "Académico de Viseu – Arouca"
+     },
+     "teams": [
+      "Académico de Viseu",
+      "Arouca"
+     ]
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Estoril – Santa Clara",
+      "en": "Estoril – Santa Clara"
+     },
+     "teams": [
+      "Estoril",
+      "Santa Clara"
+     ]
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Marítimo – Rio Ave",
+      "en": "Marítimo – Rio Ave"
+     },
+     "teams": [
+      "Marítimo",
+      "Rio Ave"
+     ]
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Gil Vicente – Sporting Lisbona",
+      "en": "Gil Vicente – Sporting CP"
+     },
+     "teams": [
+      "Gil Vicente",
+      "Sporting Lisbona"
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Casa Pia – Nacional",
+      "en": "Casa Pia – Nacional"
+     },
+     "teams": [
+      "Casa Pia",
+      "Nacional"
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Moreirense – Famalicão",
+      "en": "Moreirense – Famalicão"
+     },
+     "teams": [
+      "Moreirense",
+      "Famalicão"
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Vitória Guimarães – Alverca",
+      "en": "Vitória Guimarães – Alverca"
+     },
+     "teams": [
+      "Vitória Guimarães",
+      "Alverca"
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Porto – Estrela da Amadora",
+      "en": "Porto – Estrela da Amadora"
+     },
+     "teams": [
+      "Porto",
+      "Estrela da Amadora"
+     ]
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Benfica – Braga",
+      "en": "Benfica – Braga"
+     },
+     "teams": [
+      "Benfica",
+      "Braga"
+     ]
+    }
+   ],
+   "teams": [
+    "Académico de Viseu",
+    "Alverca",
+    "Arouca",
+    "Benfica",
+    "Braga",
+    "Casa Pia",
+    "Estoril",
+    "Estrela da Amadora",
+    "Famalicão",
+    "Gil Vicente",
+    "Marítimo",
+    "Moreirense",
+    "Nacional",
+    "Porto",
+    "Rio Ave",
+    "Santa Clara",
+    "Sporting Lisbona",
+    "Vitória Guimarães"
+   ],
+   "teamNamesEN": {
+    "Sporting Lisbona": "Sporting CP"
+   }
+  },
+  {
+   "id": "sports.saudiproleague",
+   "block": "sports",
+   "title": {
+    "it": "Saudi Pro League 2026/27",
+    "en": "Saudi Pro League 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Al Ahli – Al Nassr",
+      "en": "Al Ahli – Al Nassr"
+     },
+     "teams": [
+      "Al Ahli",
+      "Al Nassr"
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Al Fateh – Al Riyadh",
+      "en": "Al Fateh – Al Riyadh"
+     },
+     "teams": [
+      "Al Fateh",
+      "Al Riyadh"
+     ],
+     "time": "15:25"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Abha – Al Shabab",
+      "en": "Abha – Al Shabab"
+     },
+     "teams": [
+      "Abha",
+      "Al Shabab"
+     ],
+     "time": "16:05"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Al Faisaly – Al Diriyah",
+      "en": "Al Faisaly – Al Diriyah"
+     },
+     "teams": [
+      "Al Faisaly",
+      "Al Diriyah"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Al Kholood – Al Khaleej",
+      "en": "Al Kholood – Al Khaleej"
+     },
+     "teams": [
+      "Al Kholood",
+      "Al Khaleej"
+     ],
+     "time": "13:15"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Al Qadsiah – Al Fayha",
+      "en": "Al Qadsiah – Al Fayha"
+     },
+     "teams": [
+      "Al Qadsiah",
+      "Al Fayha"
+     ],
+     "time": "15:20"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Al Ittihad – Neom SC",
+      "en": "Al Ittihad – Neom SC"
+     },
+     "teams": [
+      "Al Ittihad",
+      "Neom SC"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Al Hazem – Al Nassr",
+      "en": "Al Hazem – Al Nassr"
+     },
+     "teams": [
+      "Al Hazem",
+      "Al Nassr"
+     ],
+     "time": "13:15"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Al Ettifaq – Al Hilal",
+      "en": "Al Ettifaq – Al Hilal"
+     },
+     "teams": [
+      "Al Ettifaq",
+      "Al Hilal"
+     ],
+     "time": "15:20"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Al Ahli – Al Taawoun",
+      "en": "Al Ahli – Al Taawoun"
+     },
+     "teams": [
+      "Al Ahli",
+      "Al Taawoun"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Al Shabab – Al Ettifaq",
+      "en": "Al Shabab – Al Ettifaq"
+     },
+     "teams": [
+      "Al Shabab",
+      "Al Ettifaq"
+     ],
+     "time": "15:40"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Al Taawoun – Abha",
+      "en": "Al Taawoun – Abha"
+     },
+     "teams": [
+      "Al Taawoun",
+      "Abha"
+     ],
+     "time": "15:45"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Al Hilal – Al Diriyah",
+      "en": "Al Hilal – Al Diriyah"
+     },
+     "teams": [
+      "Al Hilal",
+      "Al Diriyah"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Neom SC – Al Kholood",
+      "en": "Neom SC – Al Kholood"
+     },
+     "teams": [
+      "Neom SC",
+      "Al Kholood"
+     ],
+     "time": "13:40"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Al Khaleej – Al Ittihad",
+      "en": "Al Khaleej – Al Ittihad"
+     },
+     "teams": [
+      "Al Khaleej",
+      "Al Ittihad"
+     ],
+     "time": "13:55"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Al Ahli – Al Faisaly",
+      "en": "Al Ahli – Al Faisaly"
+     },
+     "teams": [
+      "Al Ahli",
+      "Al Faisaly"
+     ],
+     "time": "16:15"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Al Nassr – Al Qadsiah",
+      "en": "Al Nassr – Al Qadsiah"
+     },
+     "teams": [
+      "Al Nassr",
+      "Al Qadsiah"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Al Fayha – Al Fateh",
+      "en": "Al Fayha – Al Fateh"
+     },
+     "teams": [
+      "Al Fayha",
+      "Al Fateh"
+     ],
+     "time": "13:15"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Al Riyadh – Al Hazem",
+      "en": "Al Riyadh – Al Hazem"
+     },
+     "teams": [
+      "Al Riyadh",
+      "Al Hazem"
+     ],
+     "time": "15:40"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Abha – Al Kholood",
+      "en": "Abha – Al Kholood"
+     },
+     "teams": [
+      "Abha",
+      "Al Kholood"
+     ],
+     "time": "14:40"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "Abha – Al Riyadh",
+      "en": "Abha – Al Riyadh"
+     },
+     "teams": [
+      "Abha",
+      "Al Riyadh"
+     ],
+     "time": "13:30"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "Al Faisaly – Al Khaleej",
+      "en": "Al Faisaly – Al Khaleej"
+     },
+     "teams": [
+      "Al Faisaly",
+      "Al Khaleej"
+     ],
+     "time": "15:45"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "Al Diriyah – Al Fayha",
+      "en": "Al Diriyah – Al Fayha"
+     },
+     "teams": [
+      "Al Diriyah",
+      "Al Fayha"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Al Qadsiah – Al Fateh",
+      "en": "Al Qadsiah – Al Fateh"
+     },
+     "teams": [
+      "Al Qadsiah",
+      "Al Fateh"
+     ],
+     "time": "12:40"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Al Kholood – Al Hilal",
+      "en": "Al Kholood – Al Hilal"
+     },
+     "teams": [
+      "Al Kholood",
+      "Al Hilal"
+     ],
+     "time": "15:50"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Al Ittihad – Al Ahli",
+      "en": "Al Ittihad – Al Ahli"
+     },
+     "teams": [
+      "Al Ittihad",
+      "Al Ahli"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Neom SC – Al Taawoun",
+      "en": "Neom SC – Al Taawoun"
+     },
+     "teams": [
+      "Neom SC",
+      "Al Taawoun"
+     ],
+     "time": "13:40"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Al Ettifaq – Al Hazem",
+      "en": "Al Ettifaq – Al Hazem"
+     },
+     "teams": [
+      "Al Ettifaq",
+      "Al Hazem"
+     ],
+     "time": "15:25"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Al Nassr – Al Shabab",
+      "en": "Al Nassr – Al Shabab"
+     },
+     "teams": [
+      "Al Nassr",
+      "Al Shabab"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Al Hazem – Al Qadsiah",
+      "en": "Al Hazem – Al Qadsiah"
+     },
+     "teams": [
+      "Al Hazem",
+      "Al Qadsiah"
+     ],
+     "time": "15:50"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Al Ahli – Al Ettifaq",
+      "en": "Al Ahli – Al Ettifaq"
+     },
+     "teams": [
+      "Al Ahli",
+      "Al Ettifaq"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Al Fateh – Al Kholood",
+      "en": "Al Fateh – Al Kholood"
+     },
+     "teams": [
+      "Al Fateh",
+      "Al Kholood"
+     ],
+     "time": "15:30"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Al Shabab – Neom SC",
+      "en": "Al Shabab – Neom SC"
+     },
+     "teams": [
+      "Al Shabab",
+      "Neom SC"
+     ],
+     "time": "15:45"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Al Fayha – Al Nassr",
+      "en": "Al Fayha – Al Nassr"
+     },
+     "teams": [
+      "Al Fayha",
+      "Al Nassr"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Al Riyadh – Al Ittihad",
+      "en": "Al Riyadh – Al Ittihad"
+     },
+     "teams": [
+      "Al Riyadh",
+      "Al Ittihad"
+     ],
+     "time": "15:45"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Al Hilal – Abha",
+      "en": "Al Hilal – Abha"
+     },
+     "teams": [
+      "Al Hilal",
+      "Abha"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Al Khaleej – Al Diriyah",
+      "en": "Al Khaleej – Al Diriyah"
+     },
+     "teams": [
+      "Al Khaleej",
+      "Al Diriyah"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Al Taawoun – Al Faisaly",
+      "en": "Al Taawoun – Al Faisaly"
+     },
+     "teams": [
+      "Al Taawoun",
+      "Al Faisaly"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Al Riyadh – Al Hilal",
+      "en": "Al Riyadh – Al Hilal"
+     },
+     "teams": [
+      "Al Riyadh",
+      "Al Hilal"
+     ],
+     "time": "15:45"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Al Ittihad – Al Shabab",
+      "en": "Al Ittihad – Al Shabab"
+     },
+     "teams": [
+      "Al Ittihad",
+      "Al Shabab"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Al Ettifaq – Al Fayha",
+      "en": "Al Ettifaq – Al Fayha"
+     },
+     "teams": [
+      "Al Ettifaq",
+      "Al Fayha"
+     ],
+     "time": "14:10"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Al Kholood – Al Hazem",
+      "en": "Al Kholood – Al Hazem"
+     },
+     "teams": [
+      "Al Kholood",
+      "Al Hazem"
+     ],
+     "time": "16:10"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Al Ittihad – Al Taawoun",
+      "en": "Al Ittihad – Al Taawoun"
+     },
+     "teams": [
+      "Al Ittihad",
+      "Al Taawoun"
+     ],
+     "time": "18:30"
+    }
+   ],
+   "teams": [
+    "Abha",
+    "Al Ahli",
+    "Al Diriyah",
+    "Al Ettifaq",
+    "Al Faisaly",
+    "Al Fateh",
+    "Al Fayha",
+    "Al Hazem",
+    "Al Hilal",
+    "Al Ittihad",
+    "Al Khaleej",
+    "Al Kholood",
+    "Al Nassr",
+    "Al Qadsiah",
+    "Al Riyadh",
+    "Al Shabab",
+    "Al Taawoun",
+    "Neom SC"
+   ]
+  },
+  {
+   "id": "sports.mls",
+   "block": "sports",
+   "title": {
+    "it": "MLS 2026",
+    "en": "MLS 2026"
+   },
+   "events": [
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Seattle Sounders FC – Real Salt Lake",
+      "en": "Seattle Sounders FC – Real Salt Lake"
+     },
+     "teams": [
+      "Seattle Sounders FC",
+      "Real Salt Lake"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Orlando City SC – FC Cincinnati",
+      "en": "Orlando City SC – FC Cincinnati"
+     },
+     "teams": [
+      "Orlando City SC",
+      "FC Cincinnati"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "FC Dallas – Portland Timbers",
+      "en": "FC Dallas – Portland Timbers"
+     },
+     "teams": [
+      "FC Dallas",
+      "Portland Timbers"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Inter Miami CF – Columbus Crew",
+      "en": "Inter Miami CF – Columbus Crew"
+     },
+     "teams": [
+      "Inter Miami CF",
+      "Columbus Crew"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "New England Revolution – Philadelphia Union",
+      "en": "New England Revolution – Philadelphia Union"
+     },
+     "teams": [
+      "New England Revolution",
+      "Philadelphia Union"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Vancouver Whitecaps – Real Salt Lake",
+      "en": "Vancouver Whitecaps – Real Salt Lake"
+     },
+     "teams": [
+      "Vancouver Whitecaps",
+      "Real Salt Lake"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Nashville SC – FC Cincinnati",
+      "en": "Nashville SC – FC Cincinnati"
+     },
+     "teams": [
+      "Nashville SC",
+      "FC Cincinnati"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Chicago Fire FC – Charlotte FC",
+      "en": "Chicago Fire FC – Charlotte FC"
+     },
+     "teams": [
+      "Chicago Fire FC",
+      "Charlotte FC"
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "St. Louis CITY SC – LAFC",
+      "en": "St. Louis CITY SC – LAFC"
+     },
+     "teams": [
+      "St. Louis CITY SC",
+      "LAFC"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "San Jose Earthquakes – Houston Dynamo FC",
+      "en": "San Jose Earthquakes – Houston Dynamo FC"
+     },
+     "teams": [
+      "San Jose Earthquakes",
+      "Houston Dynamo FC"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Real Salt Lake – Vancouver Whitecaps",
+      "en": "Real Salt Lake – Vancouver Whitecaps"
+     },
+     "teams": [
+      "Real Salt Lake",
+      "Vancouver Whitecaps"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Columbus Crew – Inter Miami CF",
+      "en": "Columbus Crew – Inter Miami CF"
+     },
+     "teams": [
+      "Columbus Crew",
+      "Inter Miami CF"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Houston Dynamo FC – San Jose Earthquakes",
+      "en": "Houston Dynamo FC – San Jose Earthquakes"
+     },
+     "teams": [
+      "Houston Dynamo FC",
+      "San Jose Earthquakes"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "LAFC – St. Louis CITY SC",
+      "en": "LAFC – St. Louis CITY SC"
+     },
+     "teams": [
+      "LAFC",
+      "St. Louis CITY SC"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Portland Timbers – FC Dallas",
+      "en": "Portland Timbers – FC Dallas"
+     },
+     "teams": [
+      "Portland Timbers",
+      "FC Dallas"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "FC Cincinnati – Nashville SC",
+      "en": "FC Cincinnati – Nashville SC"
+     },
+     "teams": [
+      "FC Cincinnati",
+      "Nashville SC"
+     ],
+     "time": "00:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Charlotte FC – Chicago Fire FC",
+      "en": "Charlotte FC – Chicago Fire FC"
+     },
+     "teams": [
+      "Charlotte FC",
+      "Chicago Fire FC"
+     ],
+     "time": "18:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Philadelphia Union – New England Revolution",
+      "en": "Philadelphia Union – New England Revolution"
+     },
+     "teams": [
+      "Philadelphia Union",
+      "New England Revolution"
+     ],
+     "time": "22:30"
+    }
+   ],
+   "teams": [
+    "Charlotte FC",
+    "Chicago Fire FC",
+    "Columbus Crew",
+    "FC Cincinnati",
+    "FC Dallas",
+    "Houston Dynamo FC",
+    "Inter Miami CF",
+    "LAFC",
+    "Nashville SC",
+    "New England Revolution",
+    "Orlando City SC",
+    "Philadelphia Union",
+    "Portland Timbers",
+    "Real Salt Lake",
+    "San Jose Earthquakes",
+    "Seattle Sounders FC",
+    "St. Louis CITY SC",
+    "Vancouver Whitecaps"
+   ]
   },
   {
    "id": "sports.nazionali",
