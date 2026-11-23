@@ -1,8 +1,8 @@
 {
  "format": 1,
  "minimumAppVersion": "0.1.0",
- "version": 202611231814,
- "generated": "2026-11-23T18:14:49Z",
+ "version": 202611231859,
+ "generated": "2026-11-23T18:59:49Z",
  "calendars": [
   {
    "id": "national.AT",
@@ -14486,6 +14486,7917 @@
     "Seattle Sounders FC",
     "St. Louis CITY SC",
     "Vancouver Whitecaps"
+   ]
+  },
+  {
+   "id": "sports.nwsl",
+   "block": "sports",
+   "title": {
+    "it": "NWSL (calcio femminile USA)",
+    "en": "NWSL (US women's soccer)"
+   },
+   "events": [
+    {
+     "date": "2026-11-06",
+     "title": {
+      "it": "San Diego Wave FC – Utah Royals",
+      "en": "San Diego Wave FC – Utah Royals"
+     },
+     "teams": [
+      "San Diego Wave FC",
+      "Utah Royals"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "title": {
+      "it": "Kansas City Current – Angel City FC",
+      "en": "Kansas City Current – Angel City FC"
+     },
+     "teams": [
+      "Kansas City Current",
+      "Angel City FC"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "title": {
+      "it": "Gotham FC – Seattle Reign FC",
+      "en": "Gotham FC – Seattle Reign FC"
+     },
+     "teams": [
+      "Gotham FC",
+      "Seattle Reign FC"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "title": {
+      "it": "Washington Spirit – Portland Thorns FC",
+      "en": "Washington Spirit – Portland Thorns FC"
+     },
+     "teams": [
+      "Washington Spirit",
+      "Portland Thorns FC"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Washington Spirit – Utah Royals",
+      "en": "Washington Spirit – Utah Royals"
+     },
+     "teams": [
+      "Washington Spirit",
+      "Utah Royals"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Gotham FC – Kansas City Current",
+      "en": "Gotham FC – Kansas City Current"
+     },
+     "teams": [
+      "Gotham FC",
+      "Kansas City Current"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Washington Spirit – Kansas City Current",
+      "en": "Washington Spirit – Kansas City Current"
+     },
+     "teams": [
+      "Washington Spirit",
+      "Kansas City Current"
+     ]
+    }
+   ],
+   "teams": [
+    "Angel City FC",
+    "Bay FC",
+    "Boston Legacy FC",
+    "Chicago Stars FC",
+    "Denver Summit FC",
+    "Gotham FC",
+    "Houston Dash",
+    "Kansas City Current",
+    "North Carolina Courage",
+    "Orlando Pride",
+    "Portland Thorns FC",
+    "Racing Louisville FC",
+    "San Diego Wave FC",
+    "Seattle Reign FC",
+    "Utah Royals",
+    "Washington Spirit"
+   ]
+  },
+  {
+   "id": "sports.nfl",
+   "block": "sports",
+   "title": {
+    "it": "NFL 2026",
+    "en": "NFL 2026"
+   },
+   "events": [
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Houston Texans – Indianapolis Colts",
+      "en": "Houston Texans – Indianapolis Colts"
+     },
+     "teams": [
+      "Houston Texans",
+      "Indianapolis Colts"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Buffalo Bills – Miami Dolphins",
+      "en": "Buffalo Bills – Miami Dolphins"
+     },
+     "teams": [
+      "Buffalo Bills",
+      "Miami Dolphins"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Chicago Bears – New Orleans Saints",
+      "en": "Chicago Bears – New Orleans Saints"
+     },
+     "teams": [
+      "Chicago Bears",
+      "New Orleans Saints"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Dallas Cowboys – Tennessee Titans",
+      "en": "Dallas Cowboys – Tennessee Titans"
+     },
+     "teams": [
+      "Dallas Cowboys",
+      "Tennessee Titans"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Detroit Lions – Tampa Bay Buccaneers",
+      "en": "Detroit Lions – Tampa Bay Buccaneers"
+     },
+     "teams": [
+      "Detroit Lions",
+      "Tampa Bay Buccaneers"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Kansas City Chiefs – Arizona Cardinals",
+      "en": "Kansas City Chiefs – Arizona Cardinals"
+     },
+     "teams": [
+      "Kansas City Chiefs",
+      "Arizona Cardinals"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Philadelphia Eagles – Pittsburgh Steelers",
+      "en": "Philadelphia Eagles – Pittsburgh Steelers"
+     },
+     "teams": [
+      "Philadelphia Eagles",
+      "Pittsburgh Steelers"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Carolina Panthers – Baltimore Ravens",
+      "en": "Carolina Panthers – Baltimore Ravens"
+     },
+     "teams": [
+      "Carolina Panthers",
+      "Baltimore Ravens"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Los Angeles Chargers – New York Jets",
+      "en": "Los Angeles Chargers – New York Jets"
+     },
+     "teams": [
+      "Los Angeles Chargers",
+      "New York Jets"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Denver Broncos – Las Vegas Raiders",
+      "en": "Denver Broncos – Las Vegas Raiders"
+     },
+     "teams": [
+      "Denver Broncos",
+      "Las Vegas Raiders"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "New York Giants – Jacksonville Jaguars",
+      "en": "New York Giants – Jacksonville Jaguars"
+     },
+     "teams": [
+      "New York Giants",
+      "Jacksonville Jaguars"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "San Francisco 49ers – Minnesota Vikings",
+      "en": "San Francisco 49ers – Minnesota Vikings"
+     },
+     "teams": [
+      "San Francisco 49ers",
+      "Minnesota Vikings"
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Washington Commanders – Cincinnati Bengals",
+      "en": "Washington Commanders – Cincinnati Bengals"
+     },
+     "teams": [
+      "Washington Commanders",
+      "Cincinnati Bengals"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Los Angeles Rams – Green Bay Packers",
+      "en": "Los Angeles Rams – Green Bay Packers"
+     },
+     "teams": [
+      "Los Angeles Rams",
+      "Green Bay Packers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Detroit Lions – Chicago Bears",
+      "en": "Detroit Lions – Chicago Bears"
+     },
+     "teams": [
+      "Detroit Lions",
+      "Chicago Bears"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Dallas Cowboys – Philadelphia Eagles",
+      "en": "Dallas Cowboys – Philadelphia Eagles"
+     },
+     "teams": [
+      "Dallas Cowboys",
+      "Philadelphia Eagles"
+     ],
+     "time": "22:30"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Buffalo Bills – Kansas City Chiefs",
+      "en": "Buffalo Bills – Kansas City Chiefs"
+     },
+     "teams": [
+      "Buffalo Bills",
+      "Kansas City Chiefs"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Pittsburgh Steelers – Denver Broncos",
+      "en": "Pittsburgh Steelers – Denver Broncos"
+     },
+     "teams": [
+      "Pittsburgh Steelers",
+      "Denver Broncos"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Cincinnati Bengals – New Orleans Saints",
+      "en": "Cincinnati Bengals – New Orleans Saints"
+     },
+     "teams": [
+      "Cincinnati Bengals",
+      "New Orleans Saints"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Indianapolis Colts – New York Giants",
+      "en": "Indianapolis Colts – New York Giants"
+     },
+     "teams": [
+      "Indianapolis Colts",
+      "New York Giants"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Miami Dolphins – New York Jets",
+      "en": "Miami Dolphins – New York Jets"
+     },
+     "teams": [
+      "Miami Dolphins",
+      "New York Jets"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Minnesota Vikings – Atlanta Falcons",
+      "en": "Minnesota Vikings – Atlanta Falcons"
+     },
+     "teams": [
+      "Minnesota Vikings",
+      "Atlanta Falcons"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Jacksonville Jaguars – Tennessee Titans",
+      "en": "Jacksonville Jaguars – Tennessee Titans"
+     },
+     "teams": [
+      "Jacksonville Jaguars",
+      "Tennessee Titans"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Houston Texans – Baltimore Ravens",
+      "en": "Houston Texans – Baltimore Ravens"
+     },
+     "teams": [
+      "Houston Texans",
+      "Baltimore Ravens"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Los Angeles Chargers – New England Patriots",
+      "en": "Los Angeles Chargers – New England Patriots"
+     },
+     "teams": [
+      "Los Angeles Chargers",
+      "New England Patriots"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Arizona Cardinals – Washington Commanders",
+      "en": "Arizona Cardinals – Washington Commanders"
+     },
+     "teams": [
+      "Arizona Cardinals",
+      "Washington Commanders"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "San Francisco 49ers – Seattle Seahawks",
+      "en": "San Francisco 49ers – Seattle Seahawks"
+     },
+     "teams": [
+      "San Francisco 49ers",
+      "Seattle Seahawks"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Cleveland Browns – Las Vegas Raiders",
+      "en": "Cleveland Browns – Las Vegas Raiders"
+     },
+     "teams": [
+      "Cleveland Browns",
+      "Las Vegas Raiders"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Tampa Bay Buccaneers – Carolina Panthers",
+      "en": "Tampa Bay Buccaneers – Carolina Panthers"
+     },
+     "teams": [
+      "Tampa Bay Buccaneers",
+      "Carolina Panthers"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Los Angeles Rams – Kansas City Chiefs",
+      "en": "Los Angeles Rams – Kansas City Chiefs"
+     },
+     "teams": [
+      "Los Angeles Rams",
+      "Kansas City Chiefs"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Atlanta Falcons – Detroit Lions",
+      "en": "Atlanta Falcons – Detroit Lions"
+     },
+     "teams": [
+      "Atlanta Falcons",
+      "Detroit Lions"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Chicago Bears – Jacksonville Jaguars",
+      "en": "Chicago Bears – Jacksonville Jaguars"
+     },
+     "teams": [
+      "Chicago Bears",
+      "Jacksonville Jaguars"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Cleveland Browns – Cincinnati Bengals",
+      "en": "Cleveland Browns – Cincinnati Bengals"
+     },
+     "teams": [
+      "Cleveland Browns",
+      "Cincinnati Bengals"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Tennessee Titans – Washington Commanders",
+      "en": "Tennessee Titans – Washington Commanders"
+     },
+     "teams": [
+      "Tennessee Titans",
+      "Washington Commanders"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "New Orleans Saints – Green Bay Packers",
+      "en": "New Orleans Saints – Green Bay Packers"
+     },
+     "teams": [
+      "New Orleans Saints",
+      "Green Bay Packers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "New York Giants – San Francisco 49ers",
+      "en": "New York Giants – San Francisco 49ers"
+     },
+     "teams": [
+      "New York Giants",
+      "San Francisco 49ers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Tampa Bay Buccaneers – Los Angeles Chargers",
+      "en": "Tampa Bay Buccaneers – Los Angeles Chargers"
+     },
+     "teams": [
+      "Tampa Bay Buccaneers",
+      "Los Angeles Chargers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Denver Broncos – Miami Dolphins",
+      "en": "Denver Broncos – Miami Dolphins"
+     },
+     "teams": [
+      "Denver Broncos",
+      "Miami Dolphins"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Arizona Cardinals – Philadelphia Eagles",
+      "en": "Arizona Cardinals – Philadelphia Eagles"
+     },
+     "teams": [
+      "Arizona Cardinals",
+      "Philadelphia Eagles"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Minnesota Vikings – Carolina Panthers",
+      "en": "Minnesota Vikings – Carolina Panthers"
+     },
+     "teams": [
+      "Minnesota Vikings",
+      "Carolina Panthers"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "New England Patriots – Buffalo Bills",
+      "en": "New England Patriots – Buffalo Bills"
+     },
+     "teams": [
+      "New England Patriots",
+      "Buffalo Bills"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Pittsburgh Steelers – Houston Texans",
+      "en": "Pittsburgh Steelers – Houston Texans"
+     },
+     "teams": [
+      "Pittsburgh Steelers",
+      "Houston Texans"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Seattle Seahawks – Dallas Cowboys",
+      "en": "Seattle Seahawks – Dallas Cowboys"
+     },
+     "teams": [
+      "Seattle Seahawks",
+      "Dallas Cowboys"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "New England Patriots – Minnesota Vikings",
+      "en": "New England Patriots – Minnesota Vikings"
+     },
+     "teams": [
+      "New England Patriots",
+      "Minnesota Vikings"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Cleveland Browns – Atlanta Falcons",
+      "en": "Cleveland Browns – Atlanta Falcons"
+     },
+     "teams": [
+      "Cleveland Browns",
+      "Atlanta Falcons"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Detroit Lions – Tennessee Titans",
+      "en": "Detroit Lions – Tennessee Titans"
+     },
+     "teams": [
+      "Detroit Lions",
+      "Tennessee Titans"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Miami Dolphins – Chicago Bears",
+      "en": "Miami Dolphins – Chicago Bears"
+     },
+     "teams": [
+      "Miami Dolphins",
+      "Chicago Bears"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "New York Jets – Denver Broncos",
+      "en": "New York Jets – Denver Broncos"
+     },
+     "teams": [
+      "New York Jets",
+      "Denver Broncos"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Philadelphia Eagles – Indianapolis Colts",
+      "en": "Philadelphia Eagles – Indianapolis Colts"
+     },
+     "teams": [
+      "Philadelphia Eagles",
+      "Indianapolis Colts"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Washington Commanders – Houston Texans",
+      "en": "Washington Commanders – Houston Texans"
+     },
+     "teams": [
+      "Washington Commanders",
+      "Houston Texans"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Carolina Panthers – New Orleans Saints",
+      "en": "Carolina Panthers – New Orleans Saints"
+     },
+     "teams": [
+      "Carolina Panthers",
+      "New Orleans Saints"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Baltimore Ravens – Tampa Bay Buccaneers",
+      "en": "Baltimore Ravens – Tampa Bay Buccaneers"
+     },
+     "teams": [
+      "Baltimore Ravens",
+      "Tampa Bay Buccaneers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Las Vegas Raiders – Los Angeles Chargers",
+      "en": "Las Vegas Raiders – Los Angeles Chargers"
+     },
+     "teams": [
+      "Las Vegas Raiders",
+      "Los Angeles Chargers"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Cincinnati Bengals – Kansas City Chiefs",
+      "en": "Cincinnati Bengals – Kansas City Chiefs"
+     },
+     "teams": [
+      "Cincinnati Bengals",
+      "Kansas City Chiefs"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "San Francisco 49ers – Los Angeles Rams",
+      "en": "San Francisco 49ers – Los Angeles Rams"
+     },
+     "teams": [
+      "San Francisco 49ers",
+      "Los Angeles Rams"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Seattle Seahawks – New York Giants",
+      "en": "Seattle Seahawks – New York Giants"
+     },
+     "teams": [
+      "Seattle Seahawks",
+      "New York Giants"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Green Bay Packers – Buffalo Bills",
+      "en": "Green Bay Packers – Buffalo Bills"
+     },
+     "teams": [
+      "Green Bay Packers",
+      "Buffalo Bills"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Jacksonville Jaguars – Pittsburgh Steelers",
+      "en": "Jacksonville Jaguars – Pittsburgh Steelers"
+     },
+     "teams": [
+      "Jacksonville Jaguars",
+      "Pittsburgh Steelers"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Los Angeles Chargers – San Francisco 49ers",
+      "en": "Los Angeles Chargers – San Francisco 49ers"
+     },
+     "teams": [
+      "Los Angeles Chargers",
+      "San Francisco 49ers"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Philadelphia Eagles – Seattle Seahawks",
+      "en": "Philadelphia Eagles – Seattle Seahawks"
+     },
+     "teams": [
+      "Philadelphia Eagles",
+      "Seattle Seahawks"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Buffalo Bills – Chicago Bears",
+      "en": "Buffalo Bills – Chicago Bears"
+     },
+     "teams": [
+      "Buffalo Bills",
+      "Chicago Bears"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Green Bay Packers – Miami Dolphins",
+      "en": "Green Bay Packers – Miami Dolphins"
+     },
+     "teams": [
+      "Green Bay Packers",
+      "Miami Dolphins"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Tennessee Titans – Indianapolis Colts",
+      "en": "Tennessee Titans – Indianapolis Colts"
+     },
+     "teams": [
+      "Tennessee Titans",
+      "Indianapolis Colts"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "New York Giants – Cleveland Browns",
+      "en": "New York Giants – Cleveland Browns"
+     },
+     "teams": [
+      "New York Giants",
+      "Cleveland Browns"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Pittsburgh Steelers – Baltimore Ravens",
+      "en": "Pittsburgh Steelers – Baltimore Ravens"
+     },
+     "teams": [
+      "Pittsburgh Steelers",
+      "Baltimore Ravens"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Tampa Bay Buccaneers – New Orleans Saints",
+      "en": "Tampa Bay Buccaneers – New Orleans Saints"
+     },
+     "teams": [
+      "Tampa Bay Buccaneers",
+      "New Orleans Saints"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Washington Commanders – Atlanta Falcons",
+      "en": "Washington Commanders – Atlanta Falcons"
+     },
+     "teams": [
+      "Washington Commanders",
+      "Atlanta Falcons"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Carolina Panthers – Cincinnati Bengals",
+      "en": "Carolina Panthers – Cincinnati Bengals"
+     },
+     "teams": [
+      "Carolina Panthers",
+      "Cincinnati Bengals"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Houston Texans – Jacksonville Jaguars",
+      "en": "Houston Texans – Jacksonville Jaguars"
+     },
+     "teams": [
+      "Houston Texans",
+      "Jacksonville Jaguars"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Arizona Cardinals – New York Jets",
+      "en": "Arizona Cardinals – New York Jets"
+     },
+     "teams": [
+      "Arizona Cardinals",
+      "New York Jets"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Las Vegas Raiders – Denver Broncos",
+      "en": "Las Vegas Raiders – Denver Broncos"
+     },
+     "teams": [
+      "Las Vegas Raiders",
+      "Denver Broncos"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Los Angeles Rams – Dallas Cowboys",
+      "en": "Los Angeles Rams – Dallas Cowboys"
+     },
+     "teams": [
+      "Los Angeles Rams",
+      "Dallas Cowboys"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Minnesota Vikings – Detroit Lions",
+      "en": "Minnesota Vikings – Detroit Lions"
+     },
+     "teams": [
+      "Minnesota Vikings",
+      "Detroit Lions"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Kansas City Chiefs – New England Patriots",
+      "en": "Kansas City Chiefs – New England Patriots"
+     },
+     "teams": [
+      "Kansas City Chiefs",
+      "New England Patriots"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Philadelphia Eagles – Houston Texans",
+      "en": "Philadelphia Eagles – Houston Texans"
+     },
+     "teams": [
+      "Philadelphia Eagles",
+      "Houston Texans"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Chicago Bears – Green Bay Packers",
+      "en": "Chicago Bears – Green Bay Packers"
+     },
+     "teams": [
+      "Chicago Bears",
+      "Green Bay Packers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Denver Broncos – Buffalo Bills",
+      "en": "Denver Broncos – Buffalo Bills"
+     },
+     "teams": [
+      "Denver Broncos",
+      "Buffalo Bills"
+     ],
+     "time": "22:30"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Seattle Seahawks – Los Angeles Rams",
+      "en": "Seattle Seahawks – Los Angeles Rams"
+     },
+     "teams": [
+      "Seattle Seahawks",
+      "Los Angeles Rams"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Miami Dolphins – Los Angeles Chargers",
+      "en": "Miami Dolphins – Los Angeles Chargers"
+     },
+     "teams": [
+      "Miami Dolphins",
+      "Los Angeles Chargers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "New Orleans Saints – Arizona Cardinals",
+      "en": "New Orleans Saints – Arizona Cardinals"
+     },
+     "teams": [
+      "New Orleans Saints",
+      "Arizona Cardinals"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "New York Jets – New England Patriots",
+      "en": "New York Jets – New England Patriots"
+     },
+     "teams": [
+      "New York Jets",
+      "New England Patriots"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Baltimore Ravens – Cleveland Browns",
+      "en": "Baltimore Ravens – Cleveland Browns"
+     },
+     "teams": [
+      "Baltimore Ravens",
+      "Cleveland Browns"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Las Vegas Raiders – Tennessee Titans",
+      "en": "Las Vegas Raiders – Tennessee Titans"
+     },
+     "teams": [
+      "Las Vegas Raiders",
+      "Tennessee Titans"
+     ],
+     "time": "22:05"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Kansas City Chiefs – San Francisco 49ers",
+      "en": "Kansas City Chiefs – San Francisco 49ers"
+     },
+     "teams": [
+      "Kansas City Chiefs",
+      "San Francisco 49ers"
+     ],
+     "time": "22:25"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Dallas Cowboys – Jacksonville Jaguars",
+      "en": "Dallas Cowboys – Jacksonville Jaguars"
+     },
+     "teams": [
+      "Dallas Cowboys",
+      "Jacksonville Jaguars"
+     ],
+     "time": "02:20"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Detroit Lions – New York Giants",
+      "en": "Detroit Lions – New York Giants"
+     },
+     "teams": [
+      "Detroit Lions",
+      "New York Giants"
+     ],
+     "time": "02:15"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Cincinnati Bengals – Baltimore Ravens",
+      "en": "Cincinnati Bengals – Baltimore Ravens"
+     },
+     "teams": [
+      "Cincinnati Bengals",
+      "Baltimore Ravens"
+     ],
+     "time": "02:15"
+    }
+   ],
+   "teams": [
+    "Arizona Cardinals",
+    "Atlanta Falcons",
+    "Baltimore Ravens",
+    "Buffalo Bills",
+    "Carolina Panthers",
+    "Chicago Bears",
+    "Cincinnati Bengals",
+    "Cleveland Browns",
+    "Dallas Cowboys",
+    "Denver Broncos",
+    "Detroit Lions",
+    "Green Bay Packers",
+    "Houston Texans",
+    "Indianapolis Colts",
+    "Jacksonville Jaguars",
+    "Kansas City Chiefs",
+    "Las Vegas Raiders",
+    "Los Angeles Chargers",
+    "Los Angeles Rams",
+    "Miami Dolphins",
+    "Minnesota Vikings",
+    "New England Patriots",
+    "New Orleans Saints",
+    "New York Giants",
+    "New York Jets",
+    "Philadelphia Eagles",
+    "Pittsburgh Steelers",
+    "San Francisco 49ers",
+    "Seattle Seahawks",
+    "Tampa Bay Buccaneers",
+    "Tennessee Titans",
+    "Washington Commanders"
+   ]
+  },
+  {
+   "id": "sports.nba",
+   "block": "sports",
+   "title": {
+    "it": "NBA 2026/27",
+    "en": "NBA 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Memphis Grizzlies – Golden State Warriors",
+      "en": "Memphis Grizzlies – Golden State Warriors"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Golden State Warriors"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Milwaukee Bucks – Portland Trail Blazers",
+      "en": "Milwaukee Bucks – Portland Trail Blazers"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Portland Trail Blazers"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Minnesota Timberwolves – New York Knicks",
+      "en": "Minnesota Timberwolves – New York Knicks"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "New York Knicks"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "San Antonio Spurs – LA Clippers",
+      "en": "San Antonio Spurs – LA Clippers"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "LA Clippers"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Atlanta Hawks – Charlotte Hornets",
+      "en": "Atlanta Hawks – Charlotte Hornets"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Charlotte Hornets"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Brooklyn Nets – Orlando Magic",
+      "en": "Brooklyn Nets – Orlando Magic"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Orlando Magic"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Cleveland Cavaliers – Indiana Pacers",
+      "en": "Cleveland Cavaliers – Indiana Pacers"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Indiana Pacers"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Detroit Pistons – Toronto Raptors",
+      "en": "Detroit Pistons – Toronto Raptors"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Toronto Raptors"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Chicago Bulls – Washington Wizards",
+      "en": "Chicago Bulls – Washington Wizards"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Washington Wizards"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Oklahoma City Thunder – New Orleans Pelicans",
+      "en": "Oklahoma City Thunder – New Orleans Pelicans"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "New Orleans Pelicans"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Utah Jazz – Phoenix Suns",
+      "en": "Utah Jazz – Phoenix Suns"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Phoenix Suns"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Denver Nuggets – Houston Rockets",
+      "en": "Denver Nuggets – Houston Rockets"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Houston Rockets"
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "title": {
+      "it": "Los Angeles Lakers – Sacramento Kings",
+      "en": "Los Angeles Lakers – Sacramento Kings"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Sacramento Kings"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Philadelphia 76ers – Milwaukee Bucks",
+      "en": "Philadelphia 76ers – Milwaukee Bucks"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Milwaukee Bucks"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "New York Knicks – Portland Trail Blazers",
+      "en": "New York Knicks – Portland Trail Blazers"
+     },
+     "teams": [
+      "New York Knicks",
+      "Portland Trail Blazers"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Dallas Mavericks – LA Clippers",
+      "en": "Dallas Mavericks – LA Clippers"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "LA Clippers"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Minnesota Timberwolves – Memphis Grizzlies",
+      "en": "Minnesota Timberwolves – Memphis Grizzlies"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Memphis Grizzlies"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "San Antonio Spurs – New Orleans Pelicans",
+      "en": "San Antonio Spurs – New Orleans Pelicans"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "New Orleans Pelicans"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Sacramento Kings – Boston Celtics",
+      "en": "Sacramento Kings – Boston Celtics"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Boston Celtics"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Atlanta Hawks – Detroit Pistons",
+      "en": "Atlanta Hawks – Detroit Pistons"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Detroit Pistons"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Miami Heat – Oklahoma City Thunder",
+      "en": "Miami Heat – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Miami Heat",
+      "Oklahoma City Thunder"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Washington Wizards – Orlando Magic",
+      "en": "Washington Wizards – Orlando Magic"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Orlando Magic"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Chicago Bulls – Denver Nuggets",
+      "en": "Chicago Bulls – Denver Nuggets"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Denver Nuggets"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Utah Jazz – Dallas Mavericks",
+      "en": "Utah Jazz – Dallas Mavericks"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Dallas Mavericks"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "New York Knicks – Indiana Pacers",
+      "en": "New York Knicks – Indiana Pacers"
+     },
+     "teams": [
+      "New York Knicks",
+      "Indiana Pacers"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Golden State Warriors – Boston Celtics",
+      "en": "Golden State Warriors – Boston Celtics"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Boston Celtics"
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Charlotte Hornets – Memphis Grizzlies",
+      "en": "Charlotte Hornets – Memphis Grizzlies"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Memphis Grizzlies"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Philadelphia 76ers – Portland Trail Blazers",
+      "en": "Philadelphia 76ers – Portland Trail Blazers"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Portland Trail Blazers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Indiana Pacers – Oklahoma City Thunder",
+      "en": "Indiana Pacers – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Oklahoma City Thunder"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Toronto Raptors – Milwaukee Bucks",
+      "en": "Toronto Raptors – Milwaukee Bucks"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Milwaukee Bucks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Minnesota Timberwolves – Brooklyn Nets",
+      "en": "Minnesota Timberwolves – Brooklyn Nets"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Brooklyn Nets"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Chicago Bulls – Cleveland Cavaliers",
+      "en": "Chicago Bulls – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Cleveland Cavaliers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "New Orleans Pelicans – Phoenix Suns",
+      "en": "New Orleans Pelicans – Phoenix Suns"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Phoenix Suns"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Houston Rockets – LA Clippers",
+      "en": "Houston Rockets – LA Clippers"
+     },
+     "teams": [
+      "Houston Rockets",
+      "LA Clippers"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Los Angeles Lakers – Utah Jazz",
+      "en": "Los Angeles Lakers – Utah Jazz"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Utah Jazz"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Sacramento Kings – San Antonio Spurs",
+      "en": "Sacramento Kings – San Antonio Spurs"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "San Antonio Spurs"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Orlando Magic – Detroit Pistons",
+      "en": "Orlando Magic – Detroit Pistons"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Detroit Pistons"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Washington Wizards – Boston Celtics",
+      "en": "Washington Wizards – Boston Celtics"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Boston Celtics"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Denver Nuggets – Dallas Mavericks",
+      "en": "Denver Nuggets – Dallas Mavericks"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Dallas Mavericks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Philadelphia 76ers – Miami Heat",
+      "en": "Philadelphia 76ers – Miami Heat"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Miami Heat"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Charlotte Hornets – Chicago Bulls",
+      "en": "Charlotte Hornets – Chicago Bulls"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Chicago Bulls"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "New York Knicks – Cleveland Cavaliers",
+      "en": "New York Knicks – Cleveland Cavaliers"
+     },
+     "teams": [
+      "New York Knicks",
+      "Cleveland Cavaliers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Oklahoma City Thunder – Minnesota Timberwolves",
+      "en": "Oklahoma City Thunder – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Minnesota Timberwolves"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Memphis Grizzlies – LA Clippers",
+      "en": "Memphis Grizzlies – LA Clippers"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "LA Clippers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Milwaukee Bucks – Brooklyn Nets",
+      "en": "Milwaukee Bucks – Brooklyn Nets"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Brooklyn Nets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Houston Rockets – Phoenix Suns",
+      "en": "Houston Rockets – Phoenix Suns"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Phoenix Suns"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Golden State Warriors – Sacramento Kings",
+      "en": "Golden State Warriors – Sacramento Kings"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Sacramento Kings"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Portland Trail Blazers – San Antonio Spurs",
+      "en": "Portland Trail Blazers – San Antonio Spurs"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "San Antonio Spurs"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "New York Knicks – Miami Heat",
+      "en": "New York Knicks – Miami Heat"
+     },
+     "teams": [
+      "New York Knicks",
+      "Miami Heat"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Detroit Pistons – Milwaukee Bucks",
+      "en": "Detroit Pistons – Milwaukee Bucks"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Milwaukee Bucks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Indiana Pacers – Philadelphia 76ers",
+      "en": "Indiana Pacers – Philadelphia 76ers"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Philadelphia 76ers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Toronto Raptors – Brooklyn Nets",
+      "en": "Toronto Raptors – Brooklyn Nets"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Brooklyn Nets"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Boston Celtics – Atlanta Hawks",
+      "en": "Boston Celtics – Atlanta Hawks"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Atlanta Hawks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Minnesota Timberwolves – Memphis Grizzlies",
+      "en": "Minnesota Timberwolves – Memphis Grizzlies"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Memphis Grizzlies"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Phoenix Suns – Dallas Mavericks",
+      "en": "Phoenix Suns – Dallas Mavericks"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Dallas Mavericks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "San Antonio Spurs – Los Angeles Lakers",
+      "en": "San Antonio Spurs – Los Angeles Lakers"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Los Angeles Lakers"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Utah Jazz – Denver Nuggets",
+      "en": "Utah Jazz – Denver Nuggets"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Denver Nuggets"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "LA Clippers – New Orleans Pelicans",
+      "en": "LA Clippers – New Orleans Pelicans"
+     },
+     "teams": [
+      "LA Clippers",
+      "New Orleans Pelicans"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Portland Trail Blazers – Golden State Warriors",
+      "en": "Portland Trail Blazers – Golden State Warriors"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Golden State Warriors"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Washington Wizards – Orlando Magic",
+      "en": "Washington Wizards – Orlando Magic"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Orlando Magic"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Charlotte Hornets – Brooklyn Nets",
+      "en": "Charlotte Hornets – Brooklyn Nets"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Brooklyn Nets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Chicago Bulls – Indiana Pacers",
+      "en": "Chicago Bulls – Indiana Pacers"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Indiana Pacers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Milwaukee Bucks – Oklahoma City Thunder",
+      "en": "Milwaukee Bucks – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Oklahoma City Thunder"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Houston Rockets – Philadelphia 76ers",
+      "en": "Houston Rockets – Philadelphia 76ers"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Philadelphia 76ers"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Cleveland Cavaliers – Miami Heat",
+      "en": "Cleveland Cavaliers – Miami Heat"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Miami Heat"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Memphis Grizzlies – Los Angeles Lakers",
+      "en": "Memphis Grizzlies – Los Angeles Lakers"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Los Angeles Lakers"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "San Antonio Spurs – Boston Celtics",
+      "en": "San Antonio Spurs – Boston Celtics"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Boston Celtics"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Utah Jazz – Phoenix Suns",
+      "en": "Utah Jazz – Phoenix Suns"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Phoenix Suns"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Detroit Pistons – Orlando Magic",
+      "en": "Detroit Pistons – Orlando Magic"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Orlando Magic"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "New York Knicks – Atlanta Hawks",
+      "en": "New York Knicks – Atlanta Hawks"
+     },
+     "teams": [
+      "New York Knicks",
+      "Atlanta Hawks"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Toronto Raptors – Denver Nuggets",
+      "en": "Toronto Raptors – Denver Nuggets"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Denver Nuggets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Portland Trail Blazers – New Orleans Pelicans",
+      "en": "Portland Trail Blazers – New Orleans Pelicans"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "New Orleans Pelicans"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Golden State Warriors – LA Clippers",
+      "en": "Golden State Warriors – LA Clippers"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "LA Clippers"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Sacramento Kings – Minnesota Timberwolves",
+      "en": "Sacramento Kings – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Minnesota Timberwolves"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Charlotte Hornets – Washington Wizards",
+      "en": "Charlotte Hornets – Washington Wizards"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Washington Wizards"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Detroit Pistons – Denver Nuggets",
+      "en": "Detroit Pistons – Denver Nuggets"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Denver Nuggets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Brooklyn Nets – Oklahoma City Thunder",
+      "en": "Brooklyn Nets – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Oklahoma City Thunder"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Houston Rockets – Los Angeles Lakers",
+      "en": "Houston Rockets – Los Angeles Lakers"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Los Angeles Lakers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Dallas Mavericks – Boston Celtics",
+      "en": "Dallas Mavericks – Boston Celtics"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Boston Celtics"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Milwaukee Bucks – San Antonio Spurs",
+      "en": "Milwaukee Bucks – San Antonio Spurs"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "San Antonio Spurs"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Sacramento Kings – New Orleans Pelicans",
+      "en": "Sacramento Kings – New Orleans Pelicans"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "New Orleans Pelicans"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Cleveland Cavaliers – Indiana Pacers",
+      "en": "Cleveland Cavaliers – Indiana Pacers"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Indiana Pacers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Philadelphia 76ers – Memphis Grizzlies",
+      "en": "Philadelphia 76ers – Memphis Grizzlies"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Memphis Grizzlies"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Miami Heat – Atlanta Hawks",
+      "en": "Miami Heat – Atlanta Hawks"
+     },
+     "teams": [
+      "Miami Heat",
+      "Atlanta Hawks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Chicago Bulls – New York Knicks",
+      "en": "Chicago Bulls – New York Knicks"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "New York Knicks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Houston Rockets – Toronto Raptors",
+      "en": "Houston Rockets – Toronto Raptors"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Toronto Raptors"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Phoenix Suns – LA Clippers",
+      "en": "Phoenix Suns – LA Clippers"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "LA Clippers"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Golden State Warriors – Utah Jazz",
+      "en": "Golden State Warriors – Utah Jazz"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Utah Jazz"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Portland Trail Blazers – Minnesota Timberwolves",
+      "en": "Portland Trail Blazers – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Minnesota Timberwolves"
+     ],
+     "time": "05:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Detroit Pistons – Memphis Grizzlies",
+      "en": "Detroit Pistons – Memphis Grizzlies"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Memphis Grizzlies"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Philadelphia 76ers – Denver Nuggets",
+      "en": "Philadelphia 76ers – Denver Nuggets"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Denver Nuggets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Boston Celtics – Charlotte Hornets",
+      "en": "Boston Celtics – Charlotte Hornets"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Charlotte Hornets"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Dallas Mavericks – Orlando Magic",
+      "en": "Dallas Mavericks – Orlando Magic"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Orlando Magic"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Milwaukee Bucks – New York Knicks",
+      "en": "Milwaukee Bucks – New York Knicks"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "New York Knicks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "New Orleans Pelicans – Los Angeles Lakers",
+      "en": "New Orleans Pelicans – Los Angeles Lakers"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Los Angeles Lakers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Oklahoma City Thunder – Brooklyn Nets",
+      "en": "Oklahoma City Thunder – Brooklyn Nets"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Brooklyn Nets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Phoenix Suns – Sacramento Kings",
+      "en": "Phoenix Suns – Sacramento Kings"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Sacramento Kings"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "LA Clippers – Minnesota Timberwolves",
+      "en": "LA Clippers – Minnesota Timberwolves"
+     },
+     "teams": [
+      "LA Clippers",
+      "Minnesota Timberwolves"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Atlanta Hawks – Indiana Pacers",
+      "en": "Atlanta Hawks – Indiana Pacers"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Indiana Pacers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Miami Heat – Washington Wizards",
+      "en": "Miami Heat – Washington Wizards"
+     },
+     "teams": [
+      "Miami Heat",
+      "Washington Wizards"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Chicago Bulls – Cleveland Cavaliers",
+      "en": "Chicago Bulls – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Cleveland Cavaliers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "San Antonio Spurs – Toronto Raptors",
+      "en": "San Antonio Spurs – Toronto Raptors"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Toronto Raptors"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Portland Trail Blazers – Utah Jazz",
+      "en": "Portland Trail Blazers – Utah Jazz"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Utah Jazz"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Memphis Grizzlies – Milwaukee Bucks",
+      "en": "Memphis Grizzlies – Milwaukee Bucks"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Milwaukee Bucks"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Washington Wizards – Charlotte Hornets",
+      "en": "Washington Wizards – Charlotte Hornets"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Charlotte Hornets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Philadelphia 76ers – Orlando Magic",
+      "en": "Philadelphia 76ers – Orlando Magic"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Orlando Magic"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Cleveland Cavaliers – Golden State Warriors",
+      "en": "Cleveland Cavaliers – Golden State Warriors"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Golden State Warriors"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Miami Heat – New York Knicks",
+      "en": "Miami Heat – New York Knicks"
+     },
+     "teams": [
+      "Miami Heat",
+      "New York Knicks"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Phoenix Suns – Minnesota Timberwolves",
+      "en": "Phoenix Suns – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Minnesota Timberwolves"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Utah Jazz – Denver Nuggets",
+      "en": "Utah Jazz – Denver Nuggets"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Denver Nuggets"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Portland Trail Blazers – Atlanta Hawks",
+      "en": "Portland Trail Blazers – Atlanta Hawks"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Atlanta Hawks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Brooklyn Nets – Boston Celtics",
+      "en": "Brooklyn Nets – Boston Celtics"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Boston Celtics"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Oklahoma City Thunder – Toronto Raptors",
+      "en": "Oklahoma City Thunder – Toronto Raptors"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Toronto Raptors"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Indiana Pacers – Detroit Pistons",
+      "en": "Indiana Pacers – Detroit Pistons"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Detroit Pistons"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Chicago Bulls – Houston Rockets",
+      "en": "Chicago Bulls – Houston Rockets"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Houston Rockets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "San Antonio Spurs – LA Clippers",
+      "en": "San Antonio Spurs – LA Clippers"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "LA Clippers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Sacramento Kings – New Orleans Pelicans",
+      "en": "Sacramento Kings – New Orleans Pelicans"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "New Orleans Pelicans"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Charlotte Hornets – Toronto Raptors",
+      "en": "Charlotte Hornets – Toronto Raptors"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Toronto Raptors"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Detroit Pistons – Brooklyn Nets",
+      "en": "Detroit Pistons – Brooklyn Nets"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Brooklyn Nets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Orlando Magic – Philadelphia 76ers",
+      "en": "Orlando Magic – Philadelphia 76ers"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Philadelphia 76ers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Boston Celtics – Washington Wizards",
+      "en": "Boston Celtics – Washington Wizards"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Washington Wizards"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Chicago Bulls – Miami Heat",
+      "en": "Chicago Bulls – Miami Heat"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Miami Heat"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Dallas Mavericks – Milwaukee Bucks",
+      "en": "Dallas Mavericks – Milwaukee Bucks"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Milwaukee Bucks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Memphis Grizzlies – Golden State Warriors",
+      "en": "Memphis Grizzlies – Golden State Warriors"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Golden State Warriors"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Houston Rockets – New York Knicks",
+      "en": "Houston Rockets – New York Knicks"
+     },
+     "teams": [
+      "Houston Rockets",
+      "New York Knicks"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Phoenix Suns – Atlanta Hawks",
+      "en": "Phoenix Suns – Atlanta Hawks"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Atlanta Hawks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Utah Jazz – Minnesota Timberwolves",
+      "en": "Utah Jazz – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Minnesota Timberwolves"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Los Angeles Lakers – New Orleans Pelicans",
+      "en": "Los Angeles Lakers – New Orleans Pelicans"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "New Orleans Pelicans"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Cleveland Cavaliers – San Antonio Spurs",
+      "en": "Cleveland Cavaliers – San Antonio Spurs"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "San Antonio Spurs"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Portland Trail Blazers – Denver Nuggets",
+      "en": "Portland Trail Blazers – Denver Nuggets"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Denver Nuggets"
+     ],
+     "time": "05:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Boston Celtics – Washington Wizards",
+      "en": "Boston Celtics – Washington Wizards"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Washington Wizards"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Charlotte Hornets – LA Clippers",
+      "en": "Charlotte Hornets – LA Clippers"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "LA Clippers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Detroit Pistons – Phoenix Suns",
+      "en": "Detroit Pistons – Phoenix Suns"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Phoenix Suns"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Indiana Pacers – Golden State Warriors",
+      "en": "Indiana Pacers – Golden State Warriors"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Golden State Warriors"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Orlando Magic – Cleveland Cavaliers",
+      "en": "Orlando Magic – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Cleveland Cavaliers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Brooklyn Nets – Dallas Mavericks",
+      "en": "Brooklyn Nets – Dallas Mavericks"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Dallas Mavericks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Toronto Raptors – San Antonio Spurs",
+      "en": "Toronto Raptors – San Antonio Spurs"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "San Antonio Spurs"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Chicago Bulls – Utah Jazz",
+      "en": "Chicago Bulls – Utah Jazz"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Utah Jazz"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Memphis Grizzlies – Miami Heat",
+      "en": "Memphis Grizzlies – Miami Heat"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Miami Heat"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "New Orleans Pelicans – New York Knicks",
+      "en": "New Orleans Pelicans – New York Knicks"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "New York Knicks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Oklahoma City Thunder – Sacramento Kings",
+      "en": "Oklahoma City Thunder – Sacramento Kings"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Sacramento Kings"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Houston Rockets – Milwaukee Bucks",
+      "en": "Houston Rockets – Milwaukee Bucks"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Milwaukee Bucks"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Minnesota Timberwolves – Los Angeles Lakers",
+      "en": "Minnesota Timberwolves – Los Angeles Lakers"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Los Angeles Lakers"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Indiana Pacers – Portland Trail Blazers",
+      "en": "Indiana Pacers – Portland Trail Blazers"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Portland Trail Blazers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Philadelphia 76ers – Dallas Mavericks",
+      "en": "Philadelphia 76ers – Dallas Mavericks"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Dallas Mavericks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Denver Nuggets – Atlanta Hawks",
+      "en": "Denver Nuggets – Atlanta Hawks"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Atlanta Hawks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Charlotte Hornets – Oklahoma City Thunder",
+      "en": "Charlotte Hornets – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Oklahoma City Thunder"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Miami Heat – LA Clippers",
+      "en": "Miami Heat – LA Clippers"
+     },
+     "teams": [
+      "Miami Heat",
+      "LA Clippers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Washington Wizards – New York Knicks",
+      "en": "Washington Wizards – New York Knicks"
+     },
+     "teams": [
+      "Washington Wizards",
+      "New York Knicks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Boston Celtics – Utah Jazz",
+      "en": "Boston Celtics – Utah Jazz"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Utah Jazz"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Brooklyn Nets – Orlando Magic",
+      "en": "Brooklyn Nets – Orlando Magic"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Orlando Magic"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Detroit Pistons – Cleveland Cavaliers",
+      "en": "Detroit Pistons – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Cleveland Cavaliers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Toronto Raptors – Golden State Warriors",
+      "en": "Toronto Raptors – Golden State Warriors"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Golden State Warriors"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Memphis Grizzlies – Houston Rockets",
+      "en": "Memphis Grizzlies – Houston Rockets"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Houston Rockets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Milwaukee Bucks – Phoenix Suns",
+      "en": "Milwaukee Bucks – Phoenix Suns"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Phoenix Suns"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Minnesota Timberwolves – Los Angeles Lakers",
+      "en": "Minnesota Timberwolves – Los Angeles Lakers"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Los Angeles Lakers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "New Orleans Pelicans – Sacramento Kings",
+      "en": "New Orleans Pelicans – Sacramento Kings"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Sacramento Kings"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "San Antonio Spurs – Chicago Bulls",
+      "en": "San Antonio Spurs – Chicago Bulls"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Chicago Bulls"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Charlotte Hornets – Portland Trail Blazers",
+      "en": "Charlotte Hornets – Portland Trail Blazers"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Portland Trail Blazers"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Atlanta Hawks – Orlando Magic",
+      "en": "Atlanta Hawks – Orlando Magic"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Orlando Magic"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Dallas Mavericks – Chicago Bulls",
+      "en": "Dallas Mavericks – Chicago Bulls"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Chicago Bulls"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Denver Nuggets – Los Angeles Lakers",
+      "en": "Denver Nuggets – Los Angeles Lakers"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Los Angeles Lakers"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Brooklyn Nets – Washington Wizards",
+      "en": "Brooklyn Nets – Washington Wizards"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Washington Wizards"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Toronto Raptors – Houston Rockets",
+      "en": "Toronto Raptors – Houston Rockets"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Houston Rockets"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Memphis Grizzlies – Phoenix Suns",
+      "en": "Memphis Grizzlies – Phoenix Suns"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Phoenix Suns"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Cleveland Cavaliers – Utah Jazz",
+      "en": "Cleveland Cavaliers – Utah Jazz"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Utah Jazz"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Miami Heat – Sacramento Kings",
+      "en": "Miami Heat – Sacramento Kings"
+     },
+     "teams": [
+      "Miami Heat",
+      "Sacramento Kings"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Atlanta Hawks – Oklahoma City Thunder",
+      "en": "Atlanta Hawks – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Oklahoma City Thunder"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "New Orleans Pelicans – San Antonio Spurs",
+      "en": "New Orleans Pelicans – San Antonio Spurs"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "San Antonio Spurs"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Boston Celtics – Detroit Pistons",
+      "en": "Boston Celtics – Detroit Pistons"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Detroit Pistons"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Milwaukee Bucks – Golden State Warriors",
+      "en": "Milwaukee Bucks – Golden State Warriors"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Golden State Warriors"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "LA Clippers – Indiana Pacers",
+      "en": "LA Clippers – Indiana Pacers"
+     },
+     "teams": [
+      "LA Clippers",
+      "Indiana Pacers"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Charlotte Hornets – Philadelphia 76ers",
+      "en": "Charlotte Hornets – Philadelphia 76ers"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Philadelphia 76ers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Cleveland Cavaliers – New York Knicks",
+      "en": "Cleveland Cavaliers – New York Knicks"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "New York Knicks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Orlando Magic – Sacramento Kings",
+      "en": "Orlando Magic – Sacramento Kings"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Sacramento Kings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Brooklyn Nets – Portland Trail Blazers",
+      "en": "Brooklyn Nets – Portland Trail Blazers"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "Portland Trail Blazers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Miami Heat – Chicago Bulls",
+      "en": "Miami Heat – Chicago Bulls"
+     },
+     "teams": [
+      "Miami Heat",
+      "Chicago Bulls"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Minnesota Timberwolves – Phoenix Suns",
+      "en": "Minnesota Timberwolves – Phoenix Suns"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Phoenix Suns"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "New Orleans Pelicans – Memphis Grizzlies",
+      "en": "New Orleans Pelicans – Memphis Grizzlies"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Memphis Grizzlies"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "San Antonio Spurs – Milwaukee Bucks",
+      "en": "San Antonio Spurs – Milwaukee Bucks"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Milwaukee Bucks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Los Angeles Lakers – Indiana Pacers",
+      "en": "Los Angeles Lakers – Indiana Pacers"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Indiana Pacers"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "LA Clippers – Denver Nuggets",
+      "en": "LA Clippers – Denver Nuggets"
+     },
+     "teams": [
+      "LA Clippers",
+      "Denver Nuggets"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Washington Wizards – Toronto Raptors",
+      "en": "Washington Wizards – Toronto Raptors"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Toronto Raptors"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Oklahoma City Thunder – Detroit Pistons",
+      "en": "Oklahoma City Thunder – Detroit Pistons"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Detroit Pistons"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Golden State Warriors – Dallas Mavericks",
+      "en": "Golden State Warriors – Dallas Mavericks"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Dallas Mavericks"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Atlanta Hawks – Detroit Pistons",
+      "en": "Atlanta Hawks – Detroit Pistons"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Detroit Pistons"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Orlando Magic – Charlotte Hornets",
+      "en": "Orlando Magic – Charlotte Hornets"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Charlotte Hornets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Washington Wizards – Cleveland Cavaliers",
+      "en": "Washington Wizards – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Cleveland Cavaliers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Boston Celtics – Portland Trail Blazers",
+      "en": "Boston Celtics – Portland Trail Blazers"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Portland Trail Blazers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Brooklyn Nets – San Antonio Spurs",
+      "en": "Brooklyn Nets – San Antonio Spurs"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "San Antonio Spurs"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Miami Heat – Chicago Bulls",
+      "en": "Miami Heat – Chicago Bulls"
+     },
+     "teams": [
+      "Miami Heat",
+      "Chicago Bulls"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "New York Knicks – Utah Jazz",
+      "en": "New York Knicks – Utah Jazz"
+     },
+     "teams": [
+      "New York Knicks",
+      "Utah Jazz"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Philadelphia 76ers – Houston Rockets",
+      "en": "Philadelphia 76ers – Houston Rockets"
+     },
+     "teams": [
+      "Philadelphia 76ers",
+      "Houston Rockets"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Memphis Grizzlies – Toronto Raptors",
+      "en": "Memphis Grizzlies – Toronto Raptors"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "Toronto Raptors"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Milwaukee Bucks – Minnesota Timberwolves",
+      "en": "Milwaukee Bucks – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Milwaukee Bucks",
+      "Minnesota Timberwolves"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "New Orleans Pelicans – Oklahoma City Thunder",
+      "en": "New Orleans Pelicans – Oklahoma City Thunder"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Oklahoma City Thunder"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Phoenix Suns – Indiana Pacers",
+      "en": "Phoenix Suns – Indiana Pacers"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Indiana Pacers"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Los Angeles Lakers – Denver Nuggets",
+      "en": "Los Angeles Lakers – Denver Nuggets"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Denver Nuggets"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "Sacramento Kings – Dallas Mavericks",
+      "en": "Sacramento Kings – Dallas Mavericks"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Dallas Mavericks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-24",
+     "title": {
+      "it": "LA Clippers – Golden State Warriors",
+      "en": "LA Clippers – Golden State Warriors"
+     },
+     "teams": [
+      "LA Clippers",
+      "Golden State Warriors"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "New York Knicks – San Antonio Spurs",
+      "en": "New York Knicks – San Antonio Spurs"
+     },
+     "teams": [
+      "New York Knicks",
+      "San Antonio Spurs"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Boston Celtics – Miami Heat",
+      "en": "Boston Celtics – Miami Heat"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Miami Heat"
+     ],
+     "time": "20:30"
+    },
+    {
+     "date": "2026-12-25",
+     "title": {
+      "it": "Los Angeles Lakers – Philadelphia 76ers",
+      "en": "Los Angeles Lakers – Philadelphia 76ers"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Philadelphia 76ers"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Minnesota Timberwolves – Oklahoma City Thunder",
+      "en": "Minnesota Timberwolves – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Oklahoma City Thunder"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Golden State Warriors – Denver Nuggets",
+      "en": "Golden State Warriors – Denver Nuggets"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Denver Nuggets"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Washington Wizards – Portland Trail Blazers",
+      "en": "Washington Wizards – Portland Trail Blazers"
+     },
+     "teams": [
+      "Washington Wizards",
+      "Portland Trail Blazers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Atlanta Hawks – Charlotte Hornets",
+      "en": "Atlanta Hawks – Charlotte Hornets"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Charlotte Hornets"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-26",
+     "title": {
+      "it": "Utah Jazz – Indiana Pacers",
+      "en": "Utah Jazz – Indiana Pacers"
+     },
+     "teams": [
+      "Utah Jazz",
+      "Indiana Pacers"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Brooklyn Nets – New Orleans Pelicans",
+      "en": "Brooklyn Nets – New Orleans Pelicans"
+     },
+     "teams": [
+      "Brooklyn Nets",
+      "New Orleans Pelicans"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Orlando Magic – Toronto Raptors",
+      "en": "Orlando Magic – Toronto Raptors"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Toronto Raptors"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Chicago Bulls – Detroit Pistons",
+      "en": "Chicago Bulls – Detroit Pistons"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Detroit Pistons"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Dallas Mavericks – Phoenix Suns",
+      "en": "Dallas Mavericks – Phoenix Suns"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Phoenix Suns"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "LA Clippers – Memphis Grizzlies",
+      "en": "LA Clippers – Memphis Grizzlies"
+     },
+     "teams": [
+      "LA Clippers",
+      "Memphis Grizzlies"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Houston Rockets – Oklahoma City Thunder",
+      "en": "Houston Rockets – Oklahoma City Thunder"
+     },
+     "teams": [
+      "Houston Rockets",
+      "Oklahoma City Thunder"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Cleveland Cavaliers – Washington Wizards",
+      "en": "Cleveland Cavaliers – Washington Wizards"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "Washington Wizards"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Miami Heat – Charlotte Hornets",
+      "en": "Miami Heat – Charlotte Hornets"
+     },
+     "teams": [
+      "Miami Heat",
+      "Charlotte Hornets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "New York Knicks – Brooklyn Nets",
+      "en": "New York Knicks – Brooklyn Nets"
+     },
+     "teams": [
+      "New York Knicks",
+      "Brooklyn Nets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Orlando Magic – Milwaukee Bucks",
+      "en": "Orlando Magic – Milwaukee Bucks"
+     },
+     "teams": [
+      "Orlando Magic",
+      "Milwaukee Bucks"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Sacramento Kings – Utah Jazz",
+      "en": "Sacramento Kings – Utah Jazz"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Utah Jazz"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Detroit Pistons – Portland Trail Blazers",
+      "en": "Detroit Pistons – Portland Trail Blazers"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "Portland Trail Blazers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "San Antonio Spurs – Atlanta Hawks",
+      "en": "San Antonio Spurs – Atlanta Hawks"
+     },
+     "teams": [
+      "San Antonio Spurs",
+      "Atlanta Hawks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Denver Nuggets – Indiana Pacers",
+      "en": "Denver Nuggets – Indiana Pacers"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Indiana Pacers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Golden State Warriors – Minnesota Timberwolves",
+      "en": "Golden State Warriors – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Minnesota Timberwolves"
+     ],
+     "time": "02:30"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "LA Clippers – Philadelphia 76ers",
+      "en": "LA Clippers – Philadelphia 76ers"
+     },
+     "teams": [
+      "LA Clippers",
+      "Philadelphia 76ers"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Los Angeles Lakers – Memphis Grizzlies",
+      "en": "Los Angeles Lakers – Memphis Grizzlies"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Memphis Grizzlies"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Toronto Raptors – New Orleans Pelicans",
+      "en": "Toronto Raptors – New Orleans Pelicans"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "New Orleans Pelicans"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Boston Celtics – Cleveland Cavaliers",
+      "en": "Boston Celtics – Cleveland Cavaliers"
+     },
+     "teams": [
+      "Boston Celtics",
+      "Cleveland Cavaliers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Phoenix Suns – Golden State Warriors",
+      "en": "Phoenix Suns – Golden State Warriors"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Golden State Warriors"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Denver Nuggets – Minnesota Timberwolves",
+      "en": "Denver Nuggets – Minnesota Timberwolves"
+     },
+     "teams": [
+      "Denver Nuggets",
+      "Minnesota Timberwolves"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Atlanta Hawks – Chicago Bulls",
+      "en": "Atlanta Hawks – Chicago Bulls"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Chicago Bulls"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Charlotte Hornets – Orlando Magic",
+      "en": "Charlotte Hornets – Orlando Magic"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "Orlando Magic"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Indiana Pacers – LA Clippers",
+      "en": "Indiana Pacers – LA Clippers"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "LA Clippers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Dallas Mavericks – Miami Heat",
+      "en": "Dallas Mavericks – Miami Heat"
+     },
+     "teams": [
+      "Dallas Mavericks",
+      "Miami Heat"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Memphis Grizzlies – San Antonio Spurs",
+      "en": "Memphis Grizzlies – San Antonio Spurs"
+     },
+     "teams": [
+      "Memphis Grizzlies",
+      "San Antonio Spurs"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Oklahoma City Thunder – Milwaukee Bucks",
+      "en": "Oklahoma City Thunder – Milwaukee Bucks"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Milwaukee Bucks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Portland Trail Blazers – Brooklyn Nets",
+      "en": "Portland Trail Blazers – Brooklyn Nets"
+     },
+     "teams": [
+      "Portland Trail Blazers",
+      "Brooklyn Nets"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Sacramento Kings – Philadelphia 76ers",
+      "en": "Sacramento Kings – Philadelphia 76ers"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Philadelphia 76ers"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Los Angeles Lakers – Houston Rockets",
+      "en": "Los Angeles Lakers – Houston Rockets"
+     },
+     "teams": [
+      "Los Angeles Lakers",
+      "Houston Rockets"
+     ],
+     "time": "04:30"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Detroit Pistons – New Orleans Pelicans",
+      "en": "Detroit Pistons – New Orleans Pelicans"
+     },
+     "teams": [
+      "Detroit Pistons",
+      "New Orleans Pelicans"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Toronto Raptors – Washington Wizards",
+      "en": "Toronto Raptors – Washington Wizards"
+     },
+     "teams": [
+      "Toronto Raptors",
+      "Washington Wizards"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Chicago Bulls – Boston Celtics",
+      "en": "Chicago Bulls – Boston Celtics"
+     },
+     "teams": [
+      "Chicago Bulls",
+      "Boston Celtics"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Phoenix Suns – Philadelphia 76ers",
+      "en": "Phoenix Suns – Philadelphia 76ers"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "Philadelphia 76ers"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Utah Jazz – New York Knicks",
+      "en": "Utah Jazz – New York Knicks"
+     },
+     "teams": [
+      "Utah Jazz",
+      "New York Knicks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Golden State Warriors – Houston Rockets",
+      "en": "Golden State Warriors – Houston Rockets"
+     },
+     "teams": [
+      "Golden State Warriors",
+      "Houston Rockets"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Charlotte Hornets – San Antonio Spurs",
+      "en": "Charlotte Hornets – San Antonio Spurs"
+     },
+     "teams": [
+      "Charlotte Hornets",
+      "San Antonio Spurs"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Atlanta Hawks – Milwaukee Bucks",
+      "en": "Atlanta Hawks – Milwaukee Bucks"
+     },
+     "teams": [
+      "Atlanta Hawks",
+      "Milwaukee Bucks"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Cleveland Cavaliers – LA Clippers",
+      "en": "Cleveland Cavaliers – LA Clippers"
+     },
+     "teams": [
+      "Cleveland Cavaliers",
+      "LA Clippers"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Indiana Pacers – Orlando Magic",
+      "en": "Indiana Pacers – Orlando Magic"
+     },
+     "teams": [
+      "Indiana Pacers",
+      "Orlando Magic"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Minnesota Timberwolves – Denver Nuggets",
+      "en": "Minnesota Timberwolves – Denver Nuggets"
+     },
+     "teams": [
+      "Minnesota Timberwolves",
+      "Denver Nuggets"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Sacramento Kings – Brooklyn Nets",
+      "en": "Sacramento Kings – Brooklyn Nets"
+     },
+     "teams": [
+      "Sacramento Kings",
+      "Brooklyn Nets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "New Orleans Pelicans – Los Angeles Lakers",
+      "en": "New Orleans Pelicans – Los Angeles Lakers"
+     },
+     "teams": [
+      "New Orleans Pelicans",
+      "Los Angeles Lakers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Oklahoma City Thunder – Miami Heat",
+      "en": "Oklahoma City Thunder – Miami Heat"
+     },
+     "teams": [
+      "Oklahoma City Thunder",
+      "Miami Heat"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Phoenix Suns – New York Knicks",
+      "en": "Phoenix Suns – New York Knicks"
+     },
+     "teams": [
+      "Phoenix Suns",
+      "New York Knicks"
+     ],
+     "time": "03:00"
+    }
+   ],
+   "teams": [
+    "Atlanta Hawks",
+    "Boston Celtics",
+    "Brooklyn Nets",
+    "Charlotte Hornets",
+    "Chicago Bulls",
+    "Cleveland Cavaliers",
+    "Dallas Mavericks",
+    "Denver Nuggets",
+    "Detroit Pistons",
+    "Golden State Warriors",
+    "Houston Rockets",
+    "Indiana Pacers",
+    "LA Clippers",
+    "Los Angeles Lakers",
+    "Memphis Grizzlies",
+    "Miami Heat",
+    "Milwaukee Bucks",
+    "Minnesota Timberwolves",
+    "New Orleans Pelicans",
+    "New York Knicks",
+    "Oklahoma City Thunder",
+    "Orlando Magic",
+    "Philadelphia 76ers",
+    "Phoenix Suns",
+    "Portland Trail Blazers",
+    "Sacramento Kings",
+    "San Antonio Spurs",
+    "Toronto Raptors",
+    "Utah Jazz",
+    "Washington Wizards"
+   ]
+  },
+  {
+   "id": "sports.nhl",
+   "block": "sports",
+   "title": {
+    "it": "NHL 2026/27",
+    "en": "NHL 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Toronto Maple Leafs – Los Angeles Kings",
+      "en": "Toronto Maple Leafs – Los Angeles Kings"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Los Angeles Kings"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Ottawa Senators – Philadelphia Flyers",
+      "en": "Ottawa Senators – Philadelphia Flyers"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Philadelphia Flyers"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Pittsburgh Penguins – St. Louis Blues",
+      "en": "Pittsburgh Penguins – St. Louis Blues"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "St. Louis Blues"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Washington Capitals – Buffalo Sabres",
+      "en": "Washington Capitals – Buffalo Sabres"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Buffalo Sabres"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Carolina Hurricanes – Montreal Canadiens",
+      "en": "Carolina Hurricanes – Montreal Canadiens"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Montreal Canadiens"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Winnipeg Jets – New York Islanders",
+      "en": "Winnipeg Jets – New York Islanders"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "New York Islanders"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Tampa Bay Lightning – Edmonton Oilers",
+      "en": "Tampa Bay Lightning – Edmonton Oilers"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Edmonton Oilers"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Chicago Blackhawks – Columbus Blue Jackets",
+      "en": "Chicago Blackhawks – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Columbus Blue Jackets"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Calgary Flames – Minnesota Wild",
+      "en": "Calgary Flames – Minnesota Wild"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Minnesota Wild"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Colorado Avalanche – Anaheim Ducks",
+      "en": "Colorado Avalanche – Anaheim Ducks"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Anaheim Ducks"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Seattle Kraken – Vancouver Canucks",
+      "en": "Seattle Kraken – Vancouver Canucks"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Vancouver Canucks"
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "title": {
+      "it": "Vegas Golden Knights – Dallas Stars",
+      "en": "Vegas Golden Knights – Dallas Stars"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "Dallas Stars"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Carolina Hurricanes – Edmonton Oilers",
+      "en": "Carolina Hurricanes – Edmonton Oilers"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Edmonton Oilers"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Calgary Flames – Chicago Blackhawks",
+      "en": "Calgary Flames – Chicago Blackhawks"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Chicago Blackhawks"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Florida Panthers – Buffalo Sabres",
+      "en": "Florida Panthers – Buffalo Sabres"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Buffalo Sabres"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Nashville Predators – Pittsburgh Penguins",
+      "en": "Nashville Predators – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Pittsburgh Penguins"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Boston Bruins – Washington Capitals",
+      "en": "Boston Bruins – Washington Capitals"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Washington Capitals"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Toronto Maple Leafs – Columbus Blue Jackets",
+      "en": "Toronto Maple Leafs – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Columbus Blue Jackets"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Montreal Canadiens – Philadelphia Flyers",
+      "en": "Montreal Canadiens – Philadelphia Flyers"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Philadelphia Flyers"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Ottawa Senators – Los Angeles Kings",
+      "en": "Ottawa Senators – Los Angeles Kings"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Los Angeles Kings"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Detroit Red Wings – New York Islanders",
+      "en": "Detroit Red Wings – New York Islanders"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "New York Islanders"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "St. Louis Blues – New Jersey Devils",
+      "en": "St. Louis Blues – New Jersey Devils"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "New Jersey Devils"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Winnipeg Jets – Vegas Golden Knights",
+      "en": "Winnipeg Jets – Vegas Golden Knights"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Vegas Golden Knights"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Utah Mammoth – Anaheim Ducks",
+      "en": "Utah Mammoth – Anaheim Ducks"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "Anaheim Ducks"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "Vancouver Canucks – Minnesota Wild",
+      "en": "Vancouver Canucks – Minnesota Wild"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Minnesota Wild"
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "title": {
+      "it": "San Jose Sharks – Seattle Kraken",
+      "en": "San Jose Sharks – Seattle Kraken"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Seattle Kraken"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "New York Rangers – Carolina Hurricanes",
+      "en": "New York Rangers – Carolina Hurricanes"
+     },
+     "teams": [
+      "New York Rangers",
+      "Carolina Hurricanes"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Tampa Bay Lightning – Buffalo Sabres",
+      "en": "Tampa Bay Lightning – Buffalo Sabres"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Buffalo Sabres"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "St. Louis Blues – Edmonton Oilers",
+      "en": "St. Louis Blues – Edmonton Oilers"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Edmonton Oilers"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Dallas Stars – Pittsburgh Penguins",
+      "en": "Dallas Stars – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Pittsburgh Penguins"
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "title": {
+      "it": "Vancouver Canucks – Chicago Blackhawks",
+      "en": "Vancouver Canucks – Chicago Blackhawks"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Chicago Blackhawks"
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "New Jersey Devils – Columbus Blue Jackets",
+      "en": "New Jersey Devils – Columbus Blue Jackets"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Montreal Canadiens – Los Angeles Kings",
+      "en": "Montreal Canadiens – Los Angeles Kings"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Los Angeles Kings"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Ottawa Senators – Calgary Flames",
+      "en": "Ottawa Senators – Calgary Flames"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Calgary Flames"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "New York Islanders – Toronto Maple Leafs",
+      "en": "New York Islanders – Toronto Maple Leafs"
+     },
+     "teams": [
+      "New York Islanders",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Winnipeg Jets – Utah Mammoth",
+      "en": "Winnipeg Jets – Utah Mammoth"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Utah Mammoth"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Seattle Kraken – Anaheim Ducks",
+      "en": "Seattle Kraken – Anaheim Ducks"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Anaheim Ducks"
+     ],
+     "time": "03:40"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "San Jose Sharks – Minnesota Wild",
+      "en": "San Jose Sharks – Minnesota Wild"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Minnesota Wild"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Edmonton Oilers – Vegas Golden Knights",
+      "en": "Edmonton Oilers – Vegas Golden Knights"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Vegas Golden Knights"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Boston Bruins – Winnipeg Jets",
+      "en": "Boston Bruins – Winnipeg Jets"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Winnipeg Jets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Buffalo Sabres – New York Rangers",
+      "en": "Buffalo Sabres – New York Rangers"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "New York Rangers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Tampa Bay Lightning – Carolina Hurricanes",
+      "en": "Tampa Bay Lightning – Carolina Hurricanes"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Carolina Hurricanes"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Florida Panthers – Ottawa Senators",
+      "en": "Florida Panthers – Ottawa Senators"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Ottawa Senators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "New York Islanders – St. Louis Blues",
+      "en": "New York Islanders – St. Louis Blues"
+     },
+     "teams": [
+      "New York Islanders",
+      "St. Louis Blues"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Pittsburgh Penguins – Calgary Flames",
+      "en": "Pittsburgh Penguins – Calgary Flames"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Washington Capitals – Philadelphia Flyers",
+      "en": "Washington Capitals – Philadelphia Flyers"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Philadelphia Flyers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Columbus Blue Jackets – New Jersey Devils",
+      "en": "Columbus Blue Jackets – New Jersey Devils"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "New Jersey Devils"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Detroit Red Wings – Vancouver Canucks",
+      "en": "Detroit Red Wings – Vancouver Canucks"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Vancouver Canucks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Dallas Stars – Nashville Predators",
+      "en": "Dallas Stars – Nashville Predators"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Nashville Predators"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Minnesota Wild – Utah Mammoth",
+      "en": "Minnesota Wild – Utah Mammoth"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Utah Mammoth"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Colorado Avalanche – Montreal Canadiens",
+      "en": "Colorado Avalanche – Montreal Canadiens"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Montreal Canadiens"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Seattle Kraken – Chicago Blackhawks",
+      "en": "Seattle Kraken – Chicago Blackhawks"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Chicago Blackhawks"
+     ],
+     "time": "03:40"
+    },
+    {
+     "date": "2026-11-26",
+     "title": {
+      "it": "Anaheim Ducks – San Jose Sharks",
+      "en": "Anaheim Ducks – San Jose Sharks"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "San Jose Sharks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Boston Bruins – Toronto Maple Leafs",
+      "en": "Boston Bruins – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Toronto Maple Leafs"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "New Jersey Devils – Calgary Flames",
+      "en": "New Jersey Devils – Calgary Flames"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Calgary Flames"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Nashville Predators – Utah Mammoth",
+      "en": "Nashville Predators – Utah Mammoth"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Utah Mammoth"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "St. Louis Blues – Dallas Stars",
+      "en": "St. Louis Blues – Dallas Stars"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Dallas Stars"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Tampa Bay Lightning – Ottawa Senators",
+      "en": "Tampa Bay Lightning – Ottawa Senators"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Ottawa Senators"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Philadelphia Flyers – Vancouver Canucks",
+      "en": "Philadelphia Flyers – Vancouver Canucks"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "Vancouver Canucks"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Washington Capitals – Florida Panthers",
+      "en": "Washington Capitals – Florida Panthers"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Florida Panthers"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Columbus Blue Jackets – Detroit Red Wings",
+      "en": "Columbus Blue Jackets – Detroit Red Wings"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Detroit Red Wings"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Minnesota Wild – Colorado Avalanche",
+      "en": "Minnesota Wild – Colorado Avalanche"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Colorado Avalanche"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Anaheim Ducks – Los Angeles Kings",
+      "en": "Anaheim Ducks – Los Angeles Kings"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Los Angeles Kings"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "San Jose Sharks – Vegas Golden Knights",
+      "en": "San Jose Sharks – Vegas Golden Knights"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Vegas Golden Knights"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-27",
+     "title": {
+      "it": "Chicago Blackhawks – New York Rangers",
+      "en": "Chicago Blackhawks – New York Rangers"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "New York Rangers"
+     ],
+     "time": "23:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "New York Islanders – Winnipeg Jets",
+      "en": "New York Islanders – Winnipeg Jets"
+     },
+     "teams": [
+      "New York Islanders",
+      "Winnipeg Jets"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Buffalo Sabres – Pittsburgh Penguins",
+      "en": "Buffalo Sabres – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Pittsburgh Penguins"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Edmonton Oilers – Seattle Kraken",
+      "en": "Edmonton Oilers – Seattle Kraken"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Seattle Kraken"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-28",
+     "title": {
+      "it": "Vegas Golden Knights – Montreal Canadiens",
+      "en": "Vegas Golden Knights – Montreal Canadiens"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "Montreal Canadiens"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Florida Panthers – Tampa Bay Lightning",
+      "en": "Florida Panthers – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Tampa Bay Lightning"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Detroit Red Wings – Nashville Predators",
+      "en": "Detroit Red Wings – Nashville Predators"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Nashville Predators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "New Jersey Devils – Winnipeg Jets",
+      "en": "New Jersey Devils – Winnipeg Jets"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Winnipeg Jets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "New York Rangers – Calgary Flames",
+      "en": "New York Rangers – Calgary Flames"
+     },
+     "teams": [
+      "New York Rangers",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Pittsburgh Penguins – Toronto Maple Leafs",
+      "en": "Pittsburgh Penguins – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Carolina Hurricanes – Ottawa Senators",
+      "en": "Carolina Hurricanes – Ottawa Senators"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Ottawa Senators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "St. Louis Blues – Washington Capitals",
+      "en": "St. Louis Blues – Washington Capitals"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Washington Capitals"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Philadelphia Flyers – New York Islanders",
+      "en": "Philadelphia Flyers – New York Islanders"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "New York Islanders"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Dallas Stars – Utah Mammoth",
+      "en": "Dallas Stars – Utah Mammoth"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Utah Mammoth"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Colorado Avalanche – San Jose Sharks",
+      "en": "Colorado Avalanche – San Jose Sharks"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "San Jose Sharks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Los Angeles Kings – Anaheim Ducks",
+      "en": "Los Angeles Kings – Anaheim Ducks"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Anaheim Ducks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Seattle Kraken – Edmonton Oilers",
+      "en": "Seattle Kraken – Edmonton Oilers"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Edmonton Oilers"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Chicago Blackhawks – Minnesota Wild",
+      "en": "Chicago Blackhawks – Minnesota Wild"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Minnesota Wild"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-11-29",
+     "title": {
+      "it": "Boston Bruins – Vancouver Canucks",
+      "en": "Boston Bruins – Vancouver Canucks"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Vancouver Canucks"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-11-30",
+     "title": {
+      "it": "Nashville Predators – Ottawa Senators",
+      "en": "Nashville Predators – Ottawa Senators"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Ottawa Senators"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "New York Rangers – Carolina Hurricanes",
+      "en": "New York Rangers – Carolina Hurricanes"
+     },
+     "teams": [
+      "New York Rangers",
+      "Carolina Hurricanes"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Pittsburgh Penguins – Columbus Blue Jackets",
+      "en": "Pittsburgh Penguins – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Toronto Maple Leafs – Philadelphia Flyers",
+      "en": "Toronto Maple Leafs – Philadelphia Flyers"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Philadelphia Flyers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Winnipeg Jets – Chicago Blackhawks",
+      "en": "Winnipeg Jets – Chicago Blackhawks"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Chicago Blackhawks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-01",
+     "title": {
+      "it": "Utah Mammoth – Montreal Canadiens",
+      "en": "Utah Mammoth – Montreal Canadiens"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "Montreal Canadiens"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Detroit Red Wings – Calgary Flames",
+      "en": "Detroit Red Wings – Calgary Flames"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "New York Islanders – Florida Panthers",
+      "en": "New York Islanders – Florida Panthers"
+     },
+     "teams": [
+      "New York Islanders",
+      "Florida Panthers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Washington Capitals – Vancouver Canucks",
+      "en": "Washington Capitals – Vancouver Canucks"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Vancouver Canucks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "New Jersey Devils – San Jose Sharks",
+      "en": "New Jersey Devils – San Jose Sharks"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "San Jose Sharks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Boston Bruins – Colorado Avalanche",
+      "en": "Boston Bruins – Colorado Avalanche"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Colorado Avalanche"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Edmonton Oilers – Buffalo Sabres",
+      "en": "Edmonton Oilers – Buffalo Sabres"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Buffalo Sabres"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Seattle Kraken – Dallas Stars",
+      "en": "Seattle Kraken – Dallas Stars"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Dallas Stars"
+     ],
+     "time": "03:40"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Anaheim Ducks – Minnesota Wild",
+      "en": "Anaheim Ducks – Minnesota Wild"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Minnesota Wild"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-02",
+     "title": {
+      "it": "Los Angeles Kings – Vegas Golden Knights",
+      "en": "Los Angeles Kings – Vegas Golden Knights"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Vegas Golden Knights"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Montreal Canadiens – Tampa Bay Lightning",
+      "en": "Montreal Canadiens – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Tampa Bay Lightning"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "St. Louis Blues – Pittsburgh Penguins",
+      "en": "St. Louis Blues – Pittsburgh Penguins"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Pittsburgh Penguins"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-03",
+     "title": {
+      "it": "Utah Mammoth – Winnipeg Jets",
+      "en": "Utah Mammoth – Winnipeg Jets"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "Winnipeg Jets"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Toronto Maple Leafs – Florida Panthers",
+      "en": "Toronto Maple Leafs – Florida Panthers"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Florida Panthers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Ottawa Senators – New Jersey Devils",
+      "en": "Ottawa Senators – New Jersey Devils"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "New Jersey Devils"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Detroit Red Wings – Colorado Avalanche",
+      "en": "Detroit Red Wings – Colorado Avalanche"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Colorado Avalanche"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "New York Rangers – San Jose Sharks",
+      "en": "New York Rangers – San Jose Sharks"
+     },
+     "teams": [
+      "New York Rangers",
+      "San Jose Sharks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Carolina Hurricanes – Columbus Blue Jackets",
+      "en": "Carolina Hurricanes – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Philadelphia Flyers – New York Islanders",
+      "en": "Philadelphia Flyers – New York Islanders"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "New York Islanders"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Nashville Predators – Chicago Blackhawks",
+      "en": "Nashville Predators – Chicago Blackhawks"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Chicago Blackhawks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Calgary Flames – Buffalo Sabres",
+      "en": "Calgary Flames – Buffalo Sabres"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Buffalo Sabres"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Edmonton Oilers – Washington Capitals",
+      "en": "Edmonton Oilers – Washington Capitals"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Washington Capitals"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Seattle Kraken – Dallas Stars",
+      "en": "Seattle Kraken – Dallas Stars"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Dallas Stars"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Vegas Golden Knights – Utah Mammoth",
+      "en": "Vegas Golden Knights – Utah Mammoth"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "Utah Mammoth"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-04",
+     "title": {
+      "it": "Los Angeles Kings – Minnesota Wild",
+      "en": "Los Angeles Kings – Minnesota Wild"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Minnesota Wild"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "New York Islanders – San Jose Sharks",
+      "en": "New York Islanders – San Jose Sharks"
+     },
+     "teams": [
+      "New York Islanders",
+      "San Jose Sharks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "St. Louis Blues – Chicago Blackhawks",
+      "en": "St. Louis Blues – Chicago Blackhawks"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Chicago Blackhawks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Vancouver Canucks – Buffalo Sabres",
+      "en": "Vancouver Canucks – Buffalo Sabres"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Buffalo Sabres"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Anaheim Ducks – Seattle Kraken",
+      "en": "Anaheim Ducks – Seattle Kraken"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Seattle Kraken"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Boston Bruins – Detroit Red Wings",
+      "en": "Boston Bruins – Detroit Red Wings"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Detroit Red Wings"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Montreal Canadiens – Florida Panthers",
+      "en": "Montreal Canadiens – Florida Panthers"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Florida Panthers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Nashville Predators – Columbus Blue Jackets",
+      "en": "Nashville Predators – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Columbus Blue Jackets"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Pittsburgh Penguins – New Jersey Devils",
+      "en": "Pittsburgh Penguins – New Jersey Devils"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "New Jersey Devils"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-05",
+     "title": {
+      "it": "Calgary Flames – Washington Capitals",
+      "en": "Calgary Flames – Washington Capitals"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Washington Capitals"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Ottawa Senators – Tampa Bay Lightning",
+      "en": "Ottawa Senators – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Tampa Bay Lightning"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "New York Rangers – Colorado Avalanche",
+      "en": "New York Rangers – Colorado Avalanche"
+     },
+     "teams": [
+      "New York Rangers",
+      "Colorado Avalanche"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Carolina Hurricanes – Toronto Maple Leafs",
+      "en": "Carolina Hurricanes – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Vegas Golden Knights – Winnipeg Jets",
+      "en": "Vegas Golden Knights – Winnipeg Jets"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "Winnipeg Jets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Minnesota Wild – Philadelphia Flyers",
+      "en": "Minnesota Wild – Philadelphia Flyers"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Philadelphia Flyers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Los Angeles Kings – Utah Mammoth",
+      "en": "Los Angeles Kings – Utah Mammoth"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Utah Mammoth"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Vancouver Canucks – Dallas Stars",
+      "en": "Vancouver Canucks – Dallas Stars"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Dallas Stars"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "Pittsburgh Penguins – San Jose Sharks",
+      "en": "Pittsburgh Penguins – San Jose Sharks"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "San Jose Sharks"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-06",
+     "title": {
+      "it": "St. Louis Blues – Nashville Predators",
+      "en": "St. Louis Blues – Nashville Predators"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Nashville Predators"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Montreal Canadiens – Ottawa Senators",
+      "en": "Montreal Canadiens – Ottawa Senators"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Ottawa Senators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Chicago Blackhawks – Edmonton Oilers",
+      "en": "Chicago Blackhawks – Edmonton Oilers"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Edmonton Oilers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Anaheim Ducks – Winnipeg Jets",
+      "en": "Anaheim Ducks – Winnipeg Jets"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Winnipeg Jets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "Seattle Kraken – Buffalo Sabres",
+      "en": "Seattle Kraken – Buffalo Sabres"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Buffalo Sabres"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-07",
+     "title": {
+      "it": "New York Islanders – Colorado Avalanche",
+      "en": "New York Islanders – Colorado Avalanche"
+     },
+     "teams": [
+      "New York Islanders",
+      "Colorado Avalanche"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Tampa Bay Lightning – Columbus Blue Jackets",
+      "en": "Tampa Bay Lightning – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "New York Rangers – New Jersey Devils",
+      "en": "New York Rangers – New Jersey Devils"
+     },
+     "teams": [
+      "New York Rangers",
+      "New Jersey Devils"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Vancouver Canucks – Washington Capitals",
+      "en": "Vancouver Canucks – Washington Capitals"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Washington Capitals"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Montreal Canadiens – Vegas Golden Knights",
+      "en": "Montreal Canadiens – Vegas Golden Knights"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Vegas Golden Knights"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Ottawa Senators – Anaheim Ducks",
+      "en": "Ottawa Senators – Anaheim Ducks"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Anaheim Ducks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Florida Panthers – Boston Bruins",
+      "en": "Florida Panthers – Boston Bruins"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Boston Bruins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Carolina Hurricanes – New York Rangers",
+      "en": "Carolina Hurricanes – New York Rangers"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "New York Rangers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Winnipeg Jets – Philadelphia Flyers",
+      "en": "Winnipeg Jets – Philadelphia Flyers"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Philadelphia Flyers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Pittsburgh Penguins – Chicago Blackhawks",
+      "en": "Pittsburgh Penguins – Chicago Blackhawks"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Chicago Blackhawks"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "St. Louis Blues – Colorado Avalanche",
+      "en": "St. Louis Blues – Colorado Avalanche"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Colorado Avalanche"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Calgary Flames – Nashville Predators",
+      "en": "Calgary Flames – Nashville Predators"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Nashville Predators"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Minnesota Wild – Edmonton Oilers",
+      "en": "Minnesota Wild – Edmonton Oilers"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Edmonton Oilers"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "San Jose Sharks – Seattle Kraken",
+      "en": "San Jose Sharks – Seattle Kraken"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Seattle Kraken"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "New Jersey Devils – Detroit Red Wings",
+      "en": "New Jersey Devils – Detroit Red Wings"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "Dallas Stars – Toronto Maple Leafs",
+      "en": "Dallas Stars – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-10",
+     "title": {
+      "it": "Los Angeles Kings – San Jose Sharks",
+      "en": "Los Angeles Kings – San Jose Sharks"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "San Jose Sharks"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Buffalo Sabres – Edmonton Oilers",
+      "en": "Buffalo Sabres – Edmonton Oilers"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Edmonton Oilers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Montreal Canadiens – Anaheim Ducks",
+      "en": "Montreal Canadiens – Anaheim Ducks"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Anaheim Ducks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Ottawa Senators – Vegas Golden Knights",
+      "en": "Ottawa Senators – Vegas Golden Knights"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Vegas Golden Knights"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Tampa Bay Lightning – Boston Bruins",
+      "en": "Tampa Bay Lightning – Boston Bruins"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Boston Bruins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Florida Panthers – Pittsburgh Penguins",
+      "en": "Florida Panthers – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Pittsburgh Penguins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "New York Islanders – Calgary Flames",
+      "en": "New York Islanders – Calgary Flames"
+     },
+     "teams": [
+      "New York Islanders",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Columbus Blue Jackets – Minnesota Wild",
+      "en": "Columbus Blue Jackets – Minnesota Wild"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Minnesota Wild"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Winnipeg Jets – Chicago Blackhawks",
+      "en": "Winnipeg Jets – Chicago Blackhawks"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Chicago Blackhawks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Utah Mammoth – St. Louis Blues",
+      "en": "Utah Mammoth – St. Louis Blues"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "St. Louis Blues"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Vancouver Canucks – Nashville Predators",
+      "en": "Vancouver Canucks – Nashville Predators"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Nashville Predators"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-11",
+     "title": {
+      "it": "Seattle Kraken – Washington Capitals",
+      "en": "Seattle Kraken – Washington Capitals"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Washington Capitals"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Detroit Red Wings – New York Rangers",
+      "en": "Detroit Red Wings – New York Rangers"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "New York Rangers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Philadelphia Flyers – Calgary Flames",
+      "en": "Philadelphia Flyers – Calgary Flames"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Carolina Hurricanes – New York Islanders",
+      "en": "Carolina Hurricanes – New York Islanders"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "New York Islanders"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "San Jose Sharks – Los Angeles Kings",
+      "en": "San Jose Sharks – Los Angeles Kings"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Los Angeles Kings"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Boston Bruins – New Jersey Devils",
+      "en": "Boston Bruins – New Jersey Devils"
+     },
+     "teams": [
+      "Boston Bruins",
+      "New Jersey Devils"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Columbus Blue Jackets – Montreal Canadiens",
+      "en": "Columbus Blue Jackets – Montreal Canadiens"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Montreal Canadiens"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Tampa Bay Lightning – Pittsburgh Penguins",
+      "en": "Tampa Bay Lightning – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Pittsburgh Penguins"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-12",
+     "title": {
+      "it": "Minnesota Wild – Winnipeg Jets",
+      "en": "Minnesota Wild – Winnipeg Jets"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Winnipeg Jets"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Buffalo Sabres – Anaheim Ducks",
+      "en": "Buffalo Sabres – Anaheim Ducks"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Anaheim Ducks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Toronto Maple Leafs – Vegas Golden Knights",
+      "en": "Toronto Maple Leafs – Vegas Golden Knights"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Vegas Golden Knights"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Ottawa Senators – Edmonton Oilers",
+      "en": "Ottawa Senators – Edmonton Oilers"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Edmonton Oilers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Detroit Red Wings – Florida Panthers",
+      "en": "Detroit Red Wings – Florida Panthers"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Florida Panthers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Chicago Blackhawks – Utah Mammoth",
+      "en": "Chicago Blackhawks – Utah Mammoth"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Utah Mammoth"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Dallas Stars – St. Louis Blues",
+      "en": "Dallas Stars – St. Louis Blues"
+     },
+     "teams": [
+      "Dallas Stars",
+      "St. Louis Blues"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Colorado Avalanche – Washington Capitals",
+      "en": "Colorado Avalanche – Washington Capitals"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Washington Capitals"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Los Angeles Kings – Vancouver Canucks",
+      "en": "Los Angeles Kings – Vancouver Canucks"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Vancouver Canucks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Seattle Kraken – Nashville Predators",
+      "en": "Seattle Kraken – Nashville Predators"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Nashville Predators"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-13",
+     "title": {
+      "it": "Carolina Hurricanes – Boston Bruins",
+      "en": "Carolina Hurricanes – Boston Bruins"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Boston Bruins"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "New York Rangers – Columbus Blue Jackets",
+      "en": "New York Rangers – Columbus Blue Jackets"
+     },
+     "teams": [
+      "New York Rangers",
+      "Columbus Blue Jackets"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Toronto Maple Leafs – Anaheim Ducks",
+      "en": "Toronto Maple Leafs – Anaheim Ducks"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Anaheim Ducks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "St. Louis Blues – Tampa Bay Lightning",
+      "en": "St. Louis Blues – Tampa Bay Lightning"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Tampa Bay Lightning"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-14",
+     "title": {
+      "it": "Ottawa Senators – Buffalo Sabres",
+      "en": "Ottawa Senators – Buffalo Sabres"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Buffalo Sabres"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Philadelphia Flyers – Florida Panthers",
+      "en": "Philadelphia Flyers – Florida Panthers"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "Florida Panthers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Montreal Canadiens – Edmonton Oilers",
+      "en": "Montreal Canadiens – Edmonton Oilers"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Edmonton Oilers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "Colorado Avalanche – Utah Mammoth",
+      "en": "Colorado Avalanche – Utah Mammoth"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Utah Mammoth"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-15",
+     "title": {
+      "it": "San Jose Sharks – Vancouver Canucks",
+      "en": "San Jose Sharks – Vancouver Canucks"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Vancouver Canucks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Boston Bruins – Florida Panthers",
+      "en": "Boston Bruins – Florida Panthers"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Florida Panthers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Buffalo Sabres – Calgary Flames",
+      "en": "Buffalo Sabres – Calgary Flames"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "New Jersey Devils – New York Rangers",
+      "en": "New Jersey Devils – New York Rangers"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "New York Rangers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Pittsburgh Penguins – Tampa Bay Lightning",
+      "en": "Pittsburgh Penguins – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Tampa Bay Lightning"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Columbus Blue Jackets – Carolina Hurricanes",
+      "en": "Columbus Blue Jackets – Carolina Hurricanes"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Carolina Hurricanes"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Detroit Red Wings – Los Angeles Kings",
+      "en": "Detroit Red Wings – Los Angeles Kings"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Los Angeles Kings"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "St. Louis Blues – Winnipeg Jets",
+      "en": "St. Louis Blues – Winnipeg Jets"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "Winnipeg Jets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Nashville Predators – Seattle Kraken",
+      "en": "Nashville Predators – Seattle Kraken"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Seattle Kraken"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Minnesota Wild – Toronto Maple Leafs",
+      "en": "Minnesota Wild – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Toronto Maple Leafs"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Utah Mammoth – New York Islanders",
+      "en": "Utah Mammoth – New York Islanders"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "New York Islanders"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-16",
+     "title": {
+      "it": "Dallas Stars – Washington Capitals",
+      "en": "Dallas Stars – Washington Capitals"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Washington Capitals"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Philadelphia Flyers – New York Rangers",
+      "en": "Philadelphia Flyers – New York Rangers"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "New York Rangers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Colorado Avalanche – New York Islanders",
+      "en": "Colorado Avalanche – New York Islanders"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "New York Islanders"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Anaheim Ducks – Vancouver Canucks",
+      "en": "Anaheim Ducks – Vancouver Canucks"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Vancouver Canucks"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-17",
+     "title": {
+      "it": "Vegas Golden Knights – San Jose Sharks",
+      "en": "Vegas Golden Knights – San Jose Sharks"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "San Jose Sharks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Boston Bruins – St. Louis Blues",
+      "en": "Boston Bruins – St. Louis Blues"
+     },
+     "teams": [
+      "Boston Bruins",
+      "St. Louis Blues"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Tampa Bay Lightning – Calgary Flames",
+      "en": "Tampa Bay Lightning – Calgary Flames"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Calgary Flames"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Pittsburgh Penguins – Los Angeles Kings",
+      "en": "Pittsburgh Penguins – Los Angeles Kings"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Los Angeles Kings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Washington Capitals – Detroit Red Wings",
+      "en": "Washington Capitals – Detroit Red Wings"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Columbus Blue Jackets – Seattle Kraken",
+      "en": "Columbus Blue Jackets – Seattle Kraken"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Seattle Kraken"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "New Jersey Devils – Toronto Maple Leafs",
+      "en": "New Jersey Devils – Toronto Maple Leafs"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Edmonton Oilers – Dallas Stars",
+      "en": "Edmonton Oilers – Dallas Stars"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Dallas Stars"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Utah Mammoth – Carolina Hurricanes",
+      "en": "Utah Mammoth – Carolina Hurricanes"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "Carolina Hurricanes"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-18",
+     "title": {
+      "it": "Ottawa Senators – Chicago Blackhawks",
+      "en": "Ottawa Senators – Chicago Blackhawks"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Chicago Blackhawks"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "New York Rangers – Nashville Predators",
+      "en": "New York Rangers – Nashville Predators"
+     },
+     "teams": [
+      "New York Rangers",
+      "Nashville Predators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Philadelphia Flyers – Detroit Red Wings",
+      "en": "Philadelphia Flyers – Detroit Red Wings"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Pittsburgh Penguins – Seattle Kraken",
+      "en": "Pittsburgh Penguins – Seattle Kraken"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Seattle Kraken"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Buffalo Sabres – Montreal Canadiens",
+      "en": "Buffalo Sabres – Montreal Canadiens"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Montreal Canadiens"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Minnesota Wild – Anaheim Ducks",
+      "en": "Minnesota Wild – Anaheim Ducks"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Anaheim Ducks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Colorado Avalanche – Carolina Hurricanes",
+      "en": "Colorado Avalanche – Carolina Hurricanes"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Carolina Hurricanes"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Vegas Golden Knights – New York Islanders",
+      "en": "Vegas Golden Knights – New York Islanders"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "New York Islanders"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "New Jersey Devils – Boston Bruins",
+      "en": "New Jersey Devils – Boston Bruins"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Boston Bruins"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Florida Panthers – Calgary Flames",
+      "en": "Florida Panthers – Calgary Flames"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Calgary Flames"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-19",
+     "title": {
+      "it": "Edmonton Oilers – Utah Mammoth",
+      "en": "Edmonton Oilers – Utah Mammoth"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Utah Mammoth"
+     ],
+     "time": "21:30"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Toronto Maple Leafs – Tampa Bay Lightning",
+      "en": "Toronto Maple Leafs – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Tampa Bay Lightning"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Washington Capitals – St. Louis Blues",
+      "en": "Washington Capitals – St. Louis Blues"
+     },
+     "teams": [
+      "Washington Capitals",
+      "St. Louis Blues"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Columbus Blue Jackets – Los Angeles Kings",
+      "en": "Columbus Blue Jackets – Los Angeles Kings"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Los Angeles Kings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Minnesota Wild – Montreal Canadiens",
+      "en": "Minnesota Wild – Montreal Canadiens"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Montreal Canadiens"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Winnipeg Jets – Dallas Stars",
+      "en": "Winnipeg Jets – Dallas Stars"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Dallas Stars"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Vancouver Canucks – San Jose Sharks",
+      "en": "Vancouver Canucks – San Jose Sharks"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "San Jose Sharks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Ottawa Senators – Chicago Blackhawks",
+      "en": "Ottawa Senators – Chicago Blackhawks"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Chicago Blackhawks"
+     ],
+     "time": "14:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Boston Bruins – Philadelphia Flyers",
+      "en": "Boston Bruins – Philadelphia Flyers"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Philadelphia Flyers"
+     ],
+     "time": "19:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Detroit Red Wings – Tampa Bay Lightning",
+      "en": "Detroit Red Wings – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Tampa Bay Lightning"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-20",
+     "title": {
+      "it": "Winnipeg Jets – Dallas Stars",
+      "en": "Winnipeg Jets – Dallas Stars"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "Dallas Stars"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Buffalo Sabres – Los Angeles Kings",
+      "en": "Buffalo Sabres – Los Angeles Kings"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Los Angeles Kings"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "New Jersey Devils – Nashville Predators",
+      "en": "New Jersey Devils – Nashville Predators"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Nashville Predators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "New York Islanders – New York Rangers",
+      "en": "New York Islanders – New York Rangers"
+     },
+     "teams": [
+      "New York Islanders",
+      "New York Rangers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Edmonton Oilers – Anaheim Ducks",
+      "en": "Edmonton Oilers – Anaheim Ducks"
+     },
+     "teams": [
+      "Edmonton Oilers",
+      "Anaheim Ducks"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Colorado Avalanche – Seattle Kraken",
+      "en": "Colorado Avalanche – Seattle Kraken"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "Seattle Kraken"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-21",
+     "title": {
+      "it": "Toronto Maple Leafs – Washington Capitals",
+      "en": "Toronto Maple Leafs – Washington Capitals"
+     },
+     "teams": [
+      "Toronto Maple Leafs",
+      "Washington Capitals"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Florida Panthers – St. Louis Blues",
+      "en": "Florida Panthers – St. Louis Blues"
+     },
+     "teams": [
+      "Florida Panthers",
+      "St. Louis Blues"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Philadelphia Flyers – Columbus Blue Jackets",
+      "en": "Philadelphia Flyers – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Philadelphia Flyers",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Vancouver Canucks – Utah Mammoth",
+      "en": "Vancouver Canucks – Utah Mammoth"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Utah Mammoth"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-22",
+     "title": {
+      "it": "Vegas Golden Knights – Carolina Hurricanes",
+      "en": "Vegas Golden Knights – Carolina Hurricanes"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "Carolina Hurricanes"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Tampa Bay Lightning – St. Louis Blues",
+      "en": "Tampa Bay Lightning – St. Louis Blues"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "St. Louis Blues"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "New York Islanders – Boston Bruins",
+      "en": "New York Islanders – Boston Bruins"
+     },
+     "teams": [
+      "New York Islanders",
+      "Boston Bruins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "New York Rangers – New Jersey Devils",
+      "en": "New York Rangers – New Jersey Devils"
+     },
+     "teams": [
+      "New York Rangers",
+      "New Jersey Devils"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Pittsburgh Penguins – Buffalo Sabres",
+      "en": "Pittsburgh Penguins – Buffalo Sabres"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Buffalo Sabres"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Columbus Blue Jackets – Montreal Canadiens",
+      "en": "Columbus Blue Jackets – Montreal Canadiens"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Montreal Canadiens"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Detroit Red Wings – Toronto Maple Leafs",
+      "en": "Detroit Red Wings – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Nashville Predators – Winnipeg Jets",
+      "en": "Nashville Predators – Winnipeg Jets"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Winnipeg Jets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Dallas Stars – Calgary Flames",
+      "en": "Dallas Stars – Calgary Flames"
+     },
+     "teams": [
+      "Dallas Stars",
+      "Calgary Flames"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Minnesota Wild – Los Angeles Kings",
+      "en": "Minnesota Wild – Los Angeles Kings"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Los Angeles Kings"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Anaheim Ducks – Vegas Golden Knights",
+      "en": "Anaheim Ducks – Vegas Golden Knights"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Vegas Golden Knights"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-23",
+     "title": {
+      "it": "Seattle Kraken – San Jose Sharks",
+      "en": "Seattle Kraken – San Jose Sharks"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "San Jose Sharks"
+     ],
+     "time": "03:40"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Florida Panthers – Tampa Bay Lightning",
+      "en": "Florida Panthers – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Tampa Bay Lightning"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Boston Bruins – New York Islanders",
+      "en": "Boston Bruins – New York Islanders"
+     },
+     "teams": [
+      "Boston Bruins",
+      "New York Islanders"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Buffalo Sabres – New Jersey Devils",
+      "en": "Buffalo Sabres – New Jersey Devils"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "New Jersey Devils"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Montreal Canadiens – Toronto Maple Leafs",
+      "en": "Montreal Canadiens – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Toronto Maple Leafs"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Carolina Hurricanes – Pittsburgh Penguins",
+      "en": "Carolina Hurricanes – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Pittsburgh Penguins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Nashville Predators – Detroit Red Wings",
+      "en": "Nashville Predators – Detroit Red Wings"
+     },
+     "teams": [
+      "Nashville Predators",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Minnesota Wild – Winnipeg Jets",
+      "en": "Minnesota Wild – Winnipeg Jets"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Winnipeg Jets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Washington Capitals – Columbus Blue Jackets",
+      "en": "Washington Capitals – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Columbus Blue Jackets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Calgary Flames – Vancouver Canucks",
+      "en": "Calgary Flames – Vancouver Canucks"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Vancouver Canucks"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Los Angeles Kings – Utah Mammoth",
+      "en": "Los Angeles Kings – Utah Mammoth"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Utah Mammoth"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "San Jose Sharks – Vegas Golden Knights",
+      "en": "San Jose Sharks – Vegas Golden Knights"
+     },
+     "teams": [
+      "San Jose Sharks",
+      "Vegas Golden Knights"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "Chicago Blackhawks – Philadelphia Flyers",
+      "en": "Chicago Blackhawks – Philadelphia Flyers"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Philadelphia Flyers"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-27",
+     "title": {
+      "it": "St. Louis Blues – New York Rangers",
+      "en": "St. Louis Blues – New York Rangers"
+     },
+     "teams": [
+      "St. Louis Blues",
+      "New York Rangers"
+     ],
+     "time": "23:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Columbus Blue Jackets – Edmonton Oilers",
+      "en": "Columbus Blue Jackets – Edmonton Oilers"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Edmonton Oilers"
+     ],
+     "time": "00:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Montreal Canadiens – Dallas Stars",
+      "en": "Montreal Canadiens – Dallas Stars"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Dallas Stars"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "New Jersey Devils – Boston Bruins",
+      "en": "New Jersey Devils – Boston Bruins"
+     },
+     "teams": [
+      "New Jersey Devils",
+      "Boston Bruins"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "New York Islanders – Ottawa Senators",
+      "en": "New York Islanders – Ottawa Senators"
+     },
+     "teams": [
+      "New York Islanders",
+      "Ottawa Senators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Anaheim Ducks – Colorado Avalanche",
+      "en": "Anaheim Ducks – Colorado Avalanche"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Colorado Avalanche"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-28",
+     "title": {
+      "it": "Minnesota Wild – Vegas Golden Knights",
+      "en": "Minnesota Wild – Vegas Golden Knights"
+     },
+     "teams": [
+      "Minnesota Wild",
+      "Vegas Golden Knights"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Buffalo Sabres – Detroit Red Wings",
+      "en": "Buffalo Sabres – Detroit Red Wings"
+     },
+     "teams": [
+      "Buffalo Sabres",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Florida Panthers – Nashville Predators",
+      "en": "Florida Panthers – Nashville Predators"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Nashville Predators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Washington Capitals – Edmonton Oilers",
+      "en": "Washington Capitals – Edmonton Oilers"
+     },
+     "teams": [
+      "Washington Capitals",
+      "Edmonton Oilers"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Carolina Hurricanes – Tampa Bay Lightning",
+      "en": "Carolina Hurricanes – Tampa Bay Lightning"
+     },
+     "teams": [
+      "Carolina Hurricanes",
+      "Tampa Bay Lightning"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Winnipeg Jets – San Jose Sharks",
+      "en": "Winnipeg Jets – San Jose Sharks"
+     },
+     "teams": [
+      "Winnipeg Jets",
+      "San Jose Sharks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-29",
+     "title": {
+      "it": "Vancouver Canucks – Los Angeles Kings",
+      "en": "Vancouver Canucks – Los Angeles Kings"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Los Angeles Kings"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Montreal Canadiens – Columbus Blue Jackets",
+      "en": "Montreal Canadiens – Columbus Blue Jackets"
+     },
+     "teams": [
+      "Montreal Canadiens",
+      "Columbus Blue Jackets"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Ottawa Senators – Dallas Stars",
+      "en": "Ottawa Senators – Dallas Stars"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Dallas Stars"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Tampa Bay Lightning – Nashville Predators",
+      "en": "Tampa Bay Lightning – Nashville Predators"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Nashville Predators"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "New York Rangers – Detroit Red Wings",
+      "en": "New York Rangers – Detroit Red Wings"
+     },
+     "teams": [
+      "New York Rangers",
+      "Detroit Red Wings"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Pittsburgh Penguins – Carolina Hurricanes",
+      "en": "Pittsburgh Penguins – Carolina Hurricanes"
+     },
+     "teams": [
+      "Pittsburgh Penguins",
+      "Carolina Hurricanes"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Chicago Blackhawks – Vegas Golden Knights",
+      "en": "Chicago Blackhawks – Vegas Golden Knights"
+     },
+     "teams": [
+      "Chicago Blackhawks",
+      "Vegas Golden Knights"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Calgary Flames – San Jose Sharks",
+      "en": "Calgary Flames – San Jose Sharks"
+     },
+     "teams": [
+      "Calgary Flames",
+      "San Jose Sharks"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Colorado Avalanche – St. Louis Blues",
+      "en": "Colorado Avalanche – St. Louis Blues"
+     },
+     "teams": [
+      "Colorado Avalanche",
+      "St. Louis Blues"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Utah Mammoth – New Jersey Devils",
+      "en": "Utah Mammoth – New Jersey Devils"
+     },
+     "teams": [
+      "Utah Mammoth",
+      "New Jersey Devils"
+     ],
+     "time": "03:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Seattle Kraken – Philadelphia Flyers",
+      "en": "Seattle Kraken – Philadelphia Flyers"
+     },
+     "teams": [
+      "Seattle Kraken",
+      "Philadelphia Flyers"
+     ],
+     "time": "03:40"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "Anaheim Ducks – Toronto Maple Leafs",
+      "en": "Anaheim Ducks – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Anaheim Ducks",
+      "Toronto Maple Leafs"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-30",
+     "title": {
+      "it": "New York Islanders – Washington Capitals",
+      "en": "New York Islanders – Washington Capitals"
+     },
+     "teams": [
+      "New York Islanders",
+      "Washington Capitals"
+     ],
+     "time": "22:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Florida Panthers – Buffalo Sabres",
+      "en": "Florida Panthers – Buffalo Sabres"
+     },
+     "teams": [
+      "Florida Panthers",
+      "Buffalo Sabres"
+     ],
+     "time": "01:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Boston Bruins – Edmonton Oilers",
+      "en": "Boston Bruins – Edmonton Oilers"
+     },
+     "teams": [
+      "Boston Bruins",
+      "Edmonton Oilers"
+     ],
+     "time": "01:30"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Vancouver Canucks – Seattle Kraken",
+      "en": "Vancouver Canucks – Seattle Kraken"
+     },
+     "teams": [
+      "Vancouver Canucks",
+      "Seattle Kraken"
+     ],
+     "time": "03:30"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Los Angeles Kings – Toronto Maple Leafs",
+      "en": "Los Angeles Kings – Toronto Maple Leafs"
+     },
+     "teams": [
+      "Los Angeles Kings",
+      "Toronto Maple Leafs"
+     ],
+     "time": "04:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Ottawa Senators – Pittsburgh Penguins",
+      "en": "Ottawa Senators – Pittsburgh Penguins"
+     },
+     "teams": [
+      "Ottawa Senators",
+      "Pittsburgh Penguins"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Detroit Red Wings – Carolina Hurricanes",
+      "en": "Detroit Red Wings – Carolina Hurricanes"
+     },
+     "teams": [
+      "Detroit Red Wings",
+      "Carolina Hurricanes"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Tampa Bay Lightning – Montreal Canadiens",
+      "en": "Tampa Bay Lightning – Montreal Canadiens"
+     },
+     "teams": [
+      "Tampa Bay Lightning",
+      "Montreal Canadiens"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Columbus Blue Jackets – Washington Capitals",
+      "en": "Columbus Blue Jackets – Washington Capitals"
+     },
+     "teams": [
+      "Columbus Blue Jackets",
+      "Washington Capitals"
+     ],
+     "time": "20:00"
+    },
+    {
+     "date": "2026-12-31",
+     "title": {
+      "it": "Vegas Golden Knights – St. Louis Blues",
+      "en": "Vegas Golden Knights – St. Louis Blues"
+     },
+     "teams": [
+      "Vegas Golden Knights",
+      "St. Louis Blues"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Calgary Flames – Winnipeg Jets",
+      "en": "Calgary Flames – Winnipeg Jets"
+     },
+     "teams": [
+      "Calgary Flames",
+      "Winnipeg Jets"
+     ],
+     "time": "02:00"
+    },
+    {
+     "date": "2027-01-01",
+     "title": {
+      "it": "Dallas Stars – New York Rangers",
+      "en": "Dallas Stars – New York Rangers"
+     },
+     "teams": [
+      "Dallas Stars",
+      "New York Rangers"
+     ],
+     "time": "03:00"
+    }
+   ],
+   "teams": [
+    "Anaheim Ducks",
+    "Boston Bruins",
+    "Buffalo Sabres",
+    "Calgary Flames",
+    "Carolina Hurricanes",
+    "Chicago Blackhawks",
+    "Colorado Avalanche",
+    "Columbus Blue Jackets",
+    "Dallas Stars",
+    "Detroit Red Wings",
+    "Edmonton Oilers",
+    "Florida Panthers",
+    "Los Angeles Kings",
+    "Minnesota Wild",
+    "Montreal Canadiens",
+    "Nashville Predators",
+    "New Jersey Devils",
+    "New York Islanders",
+    "New York Rangers",
+    "Ottawa Senators",
+    "Philadelphia Flyers",
+    "Pittsburgh Penguins",
+    "San Jose Sharks",
+    "Seattle Kraken",
+    "St. Louis Blues",
+    "Tampa Bay Lightning",
+    "Toronto Maple Leafs",
+    "Utah Mammoth",
+    "Vancouver Canucks",
+    "Vegas Golden Knights",
+    "Washington Capitals",
+    "Winnipeg Jets"
+   ]
+  },
+  {
+   "id": "sports.mlb",
+   "block": "sports",
+   "title": {
+    "it": "MLB 2027",
+    "en": "MLB 2027"
+   },
+   "events": [],
+   "teams": [
+    "Arizona Diamondbacks",
+    "Athletics",
+    "Atlanta Braves",
+    "Baltimore Orioles",
+    "Boston Red Sox",
+    "Chicago Cubs",
+    "Chicago White Sox",
+    "Cincinnati Reds",
+    "Cleveland Guardians",
+    "Colorado Rockies",
+    "Detroit Tigers",
+    "Houston Astros",
+    "Kansas City Royals",
+    "Los Angeles Angels",
+    "Los Angeles Dodgers",
+    "Miami Marlins",
+    "Milwaukee Brewers",
+    "Minnesota Twins",
+    "New York Mets",
+    "New York Yankees",
+    "Philadelphia Phillies",
+    "Pittsburgh Pirates",
+    "San Diego Padres",
+    "San Francisco Giants",
+    "Seattle Mariners",
+    "St. Louis Cardinals",
+    "Tampa Bay Rays",
+    "Texas Rangers",
+    "Toronto Blue Jays",
+    "Washington Nationals"
    ]
   },
   {
