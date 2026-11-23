@@ -1,8 +1,8 @@
 {
  "format": 1,
  "minimumAppVersion": "0.1.0",
- "version": 202611231859,
- "generated": "2026-11-23T18:59:49Z",
+ "version": 202611231910,
+ "generated": "2026-11-23T19:10:17Z",
  "calendars": [
   {
    "id": "national.AT",
@@ -6746,6 +6746,15 @@
      "time": "15:00"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇮🇹",
    "teams": [
     "Atalanta",
     "Bologna",
@@ -8506,6 +8515,15 @@
      "time": "21:00"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇪🇺",
    "teams": [
     "Anderlecht",
     "Ararat-Armenia",
@@ -10218,6 +10236,15 @@
      "time": "21:00"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇪🇺",
    "teams": [
     "AEK Atene",
     "Arsenal",
@@ -11226,6 +11253,15 @@
      "time": "21:15"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
    "teams": [
     "Arsenal",
     "Aston Villa",
@@ -11765,6 +11801,15 @@
      "time": "21:00"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇪🇸",
    "teams": [
     "Alavés",
     "Athletic Bilbao",
@@ -12334,6 +12379,15 @@
      "time": "19:30"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇩🇪",
    "teams": [
     "Amburgo",
     "Augusta",
@@ -12798,6 +12852,15 @@
      "time": "20:45"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇫🇷",
    "teams": [
     "Angers",
     "Auxerre",
@@ -13354,6 +13417,15 @@
      "time": "20:00"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇳🇱",
    "teams": [
     "ADO Den Haag",
     "AZ Alkmaar",
@@ -13681,6 +13753,15 @@
      ]
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇵🇹",
    "teams": [
     "Académico de Viseu",
     "Alverca",
@@ -14229,6 +14310,15 @@
      "time": "18:30"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇸🇦",
    "teams": [
     "Abha",
     "Al Ahli",
@@ -14467,6 +14557,15 @@
      "time": "22:30"
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇺🇸",
    "teams": [
     "Charlotte FC",
     "Chicago Fire FC",
@@ -14574,6 +14673,15 @@
      ]
     }
    ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🇺🇸",
    "teams": [
     "Angel City FC",
     "Bay FC",
@@ -14592,6 +14700,2312 @@
     "Utah Royals",
     "Washington Spirit"
    ]
+  },
+  {
+   "id": "sports.nazionali",
+   "block": "sports",
+   "title": {
+    "it": "Nazionali di calcio 2026/27",
+    "en": "Football national teams 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Andorra – Malta",
+      "en": "Andorra – Malta"
+     },
+     "teams": [
+      "Andorra",
+      "Malta"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Austria – Israele",
+      "en": "Austria – Israel"
+     },
+     "teams": [
+      "Austria",
+      "Israele"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Kosovo – Irlanda",
+      "en": "Kosovo – Republic of Ireland"
+     },
+     "teams": [
+      "Kosovo",
+      "Irlanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Liechtenstein – Lituania",
+      "en": "Liechtenstein – Lithuania"
+     },
+     "teams": [
+      "Liechtenstein",
+      "Lituania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Paesi Bassi – Germania",
+      "en": "Netherlands – Germany"
+     },
+     "teams": [
+      "Paesi Bassi",
+      "Germania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Norvegia – Danimarca",
+      "en": "Norway – Denmark"
+     },
+     "teams": [
+      "Norvegia",
+      "Danimarca"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Portogallo – Galles",
+      "en": "Portugal – Wales"
+     },
+     "teams": [
+      "Portogallo",
+      "Galles"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-24",
+     "title": {
+      "it": "Serbia – Grecia",
+      "en": "Serbia – Greece"
+     },
+     "teams": [
+      "Serbia",
+      "Grecia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Armenia – Lettonia",
+      "en": "Armenia – Latvia"
+     },
+     "teams": [
+      "Armenia",
+      "Lettonia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Georgia – Irlanda del Nord",
+      "en": "Georgia – Northern Ireland"
+     },
+     "teams": [
+      "Georgia",
+      "Irlanda del Nord"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Ungheria – Ucraina",
+      "en": "Hungary – Ukraine"
+     },
+     "teams": [
+      "Ungheria",
+      "Ucraina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Italia – Belgio",
+      "en": "Italy – Belgium"
+     },
+     "teams": [
+      "Italia",
+      "Belgio"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Montenegro – Cipro",
+      "en": "Montenegro – Cyprus"
+     },
+     "teams": [
+      "Montenegro",
+      "Cipro"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Polonia – Bosnia ed Erzegovina",
+      "en": "Poland – Bosnia and Herzegovina"
+     },
+     "teams": [
+      "Polonia",
+      "Bosnia ed Erzegovina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Svezia – Romania",
+      "en": "Sweden – Romania"
+     },
+     "teams": [
+      "Svezia",
+      "Romania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-25",
+     "title": {
+      "it": "Turchia – Francia",
+      "en": "Türkiye – France"
+     },
+     "teams": [
+      "Turchia",
+      "Francia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Slovenia – Scozia",
+      "en": "Slovenia – Scotland"
+     },
+     "teams": [
+      "Slovenia",
+      "Scozia"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Bulgaria – Lussemburgo",
+      "en": "Bulgaria – Luxembourg"
+     },
+     "teams": [
+      "Bulgaria",
+      "Lussemburgo"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Isole Fær Øer – Kazakistan",
+      "en": "Faroe Islands – Kazakhstan"
+     },
+     "teams": [
+      "Isole Fær Øer",
+      "Kazakistan"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Islanda – Estonia",
+      "en": "Iceland – Estonia"
+     },
+     "teams": [
+      "Islanda",
+      "Estonia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "San Marino – Finlandia",
+      "en": "San Marino – Finland"
+     },
+     "teams": [
+      "San Marino",
+      "Finlandia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Albania – Bielorussia",
+      "en": "Albania – Belarus"
+     },
+     "teams": [
+      "Albania",
+      "Bielorussia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Cechia – Croazia",
+      "en": "Czechia – Croatia"
+     },
+     "teams": [
+      "Cechia",
+      "Croazia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Inghilterra – Spagna",
+      "en": "England – Spain"
+     },
+     "teams": [
+      "Inghilterra",
+      "Spagna"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Macedonia del Nord – Svizzera",
+      "en": "North Macedonia – Switzerland"
+     },
+     "teams": [
+      "Macedonia del Nord",
+      "Svizzera"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-26",
+     "title": {
+      "it": "Slovacchia – Moldavia",
+      "en": "Slovakia – Moldova"
+     },
+     "teams": [
+      "Slovacchia",
+      "Moldavia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Lituania – Azerbaigian",
+      "en": "Lithuania – Azerbaijan"
+     },
+     "teams": [
+      "Lituania",
+      "Azerbaigian"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Austria – Kosovo",
+      "en": "Austria – Kosovo"
+     },
+     "teams": [
+      "Austria",
+      "Kosovo"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Danimarca – Galles",
+      "en": "Denmark – Wales"
+     },
+     "teams": [
+      "Danimarca",
+      "Galles"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Gibilterra – Andorra",
+      "en": "Gibraltar – Andorra"
+     },
+     "teams": [
+      "Gibilterra",
+      "Andorra"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Serbia – Paesi Bassi",
+      "en": "Serbia – Netherlands"
+     },
+     "teams": [
+      "Serbia",
+      "Paesi Bassi"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Germania – Grecia",
+      "en": "Germany – Greece"
+     },
+     "teams": [
+      "Germania",
+      "Grecia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Israele – Irlanda",
+      "en": "Israel – Republic of Ireland"
+     },
+     "teams": [
+      "Israele",
+      "Irlanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-27",
+     "title": {
+      "it": "Norvegia – Portogallo",
+      "en": "Norway – Portugal"
+     },
+     "teams": [
+      "Norvegia",
+      "Portogallo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Armenia – Montenegro",
+      "en": "Armenia – Montenegro"
+     },
+     "teams": [
+      "Armenia",
+      "Montenegro"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Georgia – Ucraina",
+      "en": "Georgia – Ukraine"
+     },
+     "teams": [
+      "Georgia",
+      "Ucraina"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Lettonia – Cipro",
+      "en": "Latvia – Cyprus"
+     },
+     "teams": [
+      "Lettonia",
+      "Cipro"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Belgio – Francia",
+      "en": "Belgium – France"
+     },
+     "teams": [
+      "Belgio",
+      "Francia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Irlanda del Nord – Ungheria",
+      "en": "Northern Ireland – Hungary"
+     },
+     "teams": [
+      "Irlanda del Nord",
+      "Ungheria"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Romania – Bosnia ed Erzegovina",
+      "en": "Romania – Bosnia and Herzegovina"
+     },
+     "teams": [
+      "Romania",
+      "Bosnia ed Erzegovina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Svezia – Polonia",
+      "en": "Sweden – Poland"
+     },
+     "teams": [
+      "Svezia",
+      "Polonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-28",
+     "title": {
+      "it": "Turchia – Italia",
+      "en": "Türkiye – Italy"
+     },
+     "teams": [
+      "Turchia",
+      "Italia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Finlandia – Bielorussia",
+      "en": "Finland – Belarus"
+     },
+     "teams": [
+      "Finlandia",
+      "Bielorussia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Moldavia – Isole Fær Øer",
+      "en": "Moldova – Faroe Islands"
+     },
+     "teams": [
+      "Moldavia",
+      "Isole Fær Øer"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Bulgaria – Estonia",
+      "en": "Bulgaria – Estonia"
+     },
+     "teams": [
+      "Bulgaria",
+      "Estonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Cechia – Inghilterra",
+      "en": "Czechia – England"
+     },
+     "teams": [
+      "Cechia",
+      "Inghilterra"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Lussemburgo – Islanda",
+      "en": "Luxembourg – Iceland"
+     },
+     "teams": [
+      "Lussemburgo",
+      "Islanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "San Marino – Albania",
+      "en": "San Marino – Albania"
+     },
+     "teams": [
+      "San Marino",
+      "Albania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Scozia – Svizzera",
+      "en": "Scotland – Switzerland"
+     },
+     "teams": [
+      "Scozia",
+      "Svizzera"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Slovacchia – Kazakistan",
+      "en": "Slovakia – Kazakhstan"
+     },
+     "teams": [
+      "Slovacchia",
+      "Kazakistan"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Slovenia – Macedonia del Nord",
+      "en": "Slovenia – North Macedonia"
+     },
+     "teams": [
+      "Slovenia",
+      "Macedonia del Nord"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-09-29",
+     "title": {
+      "it": "Spagna – Croazia",
+      "en": "Spain – Croatia"
+     },
+     "teams": [
+      "Spagna",
+      "Croazia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Azerbaigian – Liechtenstein",
+      "en": "Azerbaijan – Liechtenstein"
+     },
+     "teams": [
+      "Azerbaigian",
+      "Liechtenstein"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Danimarca – Portogallo",
+      "en": "Denmark – Portugal"
+     },
+     "teams": [
+      "Danimarca",
+      "Portogallo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Germania – Serbia",
+      "en": "Germany – Serbia"
+     },
+     "teams": [
+      "Germania",
+      "Serbia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Grecia – Paesi Bassi",
+      "en": "Greece – Netherlands"
+     },
+     "teams": [
+      "Grecia",
+      "Paesi Bassi"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Israele – Kosovo",
+      "en": "Israel – Kosovo"
+     },
+     "teams": [
+      "Israele",
+      "Kosovo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Malta – Gibilterra",
+      "en": "Malta – Gibraltar"
+     },
+     "teams": [
+      "Malta",
+      "Gibilterra"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Irlanda – Austria",
+      "en": "Republic of Ireland – Austria"
+     },
+     "teams": [
+      "Irlanda",
+      "Austria"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-01",
+     "title": {
+      "it": "Galles – Norvegia",
+      "en": "Wales – Norway"
+     },
+     "teams": [
+      "Galles",
+      "Norvegia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Kazakistan – Moldavia",
+      "en": "Kazakhstan – Moldova"
+     },
+     "teams": [
+      "Kazakistan",
+      "Moldavia"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Cipro – Armenia",
+      "en": "Cyprus – Armenia"
+     },
+     "teams": [
+      "Cipro",
+      "Armenia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Lettonia – Montenegro",
+      "en": "Latvia – Montenegro"
+     },
+     "teams": [
+      "Lettonia",
+      "Montenegro"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Belgio – Turchia",
+      "en": "Belgium – Türkiye"
+     },
+     "teams": [
+      "Belgio",
+      "Turchia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Bosnia ed Erzegovina – Svezia",
+      "en": "Bosnia and Herzegovina – Sweden"
+     },
+     "teams": [
+      "Bosnia ed Erzegovina",
+      "Svezia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Isole Fær Øer – Slovacchia",
+      "en": "Faroe Islands – Slovakia"
+     },
+     "teams": [
+      "Isole Fær Øer",
+      "Slovacchia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Francia – Italia",
+      "en": "France – Italy"
+     },
+     "teams": [
+      "Francia",
+      "Italia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Ungheria – Georgia",
+      "en": "Hungary – Georgia"
+     },
+     "teams": [
+      "Ungheria",
+      "Georgia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Polonia – Romania",
+      "en": "Poland – Romania"
+     },
+     "teams": [
+      "Polonia",
+      "Romania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-02",
+     "title": {
+      "it": "Ucraina – Irlanda del Nord",
+      "en": "Ukraine – Northern Ireland"
+     },
+     "teams": [
+      "Ucraina",
+      "Irlanda del Nord"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Finlandia – Albania",
+      "en": "Finland – Albania"
+     },
+     "teams": [
+      "Finlandia",
+      "Albania"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Bielorussia – San Marino",
+      "en": "Belarus – San Marino"
+     },
+     "teams": [
+      "Bielorussia",
+      "San Marino"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Croazia – Inghilterra",
+      "en": "Croatia – England"
+     },
+     "teams": [
+      "Croazia",
+      "Inghilterra"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Estonia – Lussemburgo",
+      "en": "Estonia – Luxembourg"
+     },
+     "teams": [
+      "Estonia",
+      "Lussemburgo"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Islanda – Bulgaria",
+      "en": "Iceland – Bulgaria"
+     },
+     "teams": [
+      "Islanda",
+      "Bulgaria"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Macedonia del Nord – Scozia",
+      "en": "North Macedonia – Scotland"
+     },
+     "teams": [
+      "Macedonia del Nord",
+      "Scozia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Spagna – Cechia",
+      "en": "Spain – Czechia"
+     },
+     "teams": [
+      "Spagna",
+      "Cechia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-03",
+     "title": {
+      "it": "Svizzera – Slovenia",
+      "en": "Switzerland – Slovenia"
+     },
+     "teams": [
+      "Svizzera",
+      "Slovenia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Azerbaigian – Lituania",
+      "en": "Azerbaijan – Lithuania"
+     },
+     "teams": [
+      "Azerbaigian",
+      "Lituania"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Kosovo – Austria",
+      "en": "Kosovo – Austria"
+     },
+     "teams": [
+      "Kosovo",
+      "Austria"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Malta – Andorra",
+      "en": "Malta – Andorra"
+     },
+     "teams": [
+      "Malta",
+      "Andorra"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Grecia – Germania",
+      "en": "Greece – Germany"
+     },
+     "teams": [
+      "Grecia",
+      "Germania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Paesi Bassi – Serbia",
+      "en": "Netherlands – Serbia"
+     },
+     "teams": [
+      "Paesi Bassi",
+      "Serbia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Portogallo – Norvegia",
+      "en": "Portugal – Norway"
+     },
+     "teams": [
+      "Portogallo",
+      "Norvegia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Irlanda – Israele",
+      "en": "Republic of Ireland – Israel"
+     },
+     "teams": [
+      "Irlanda",
+      "Israele"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-04",
+     "title": {
+      "it": "Galles – Danimarca",
+      "en": "Wales – Denmark"
+     },
+     "teams": [
+      "Galles",
+      "Danimarca"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Cipro – Lettonia",
+      "en": "Cyprus – Latvia"
+     },
+     "teams": [
+      "Cipro",
+      "Lettonia"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Bosnia ed Erzegovina – Polonia",
+      "en": "Bosnia and Herzegovina – Poland"
+     },
+     "teams": [
+      "Bosnia ed Erzegovina",
+      "Polonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Francia – Belgio",
+      "en": "France – Belgium"
+     },
+     "teams": [
+      "Francia",
+      "Belgio"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Italia – Turchia",
+      "en": "Italy – Türkiye"
+     },
+     "teams": [
+      "Italia",
+      "Turchia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Montenegro – Armenia",
+      "en": "Montenegro – Armenia"
+     },
+     "teams": [
+      "Montenegro",
+      "Armenia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Irlanda del Nord – Georgia",
+      "en": "Northern Ireland – Georgia"
+     },
+     "teams": [
+      "Irlanda del Nord",
+      "Georgia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Romania – Svezia",
+      "en": "Romania – Sweden"
+     },
+     "teams": [
+      "Romania",
+      "Svezia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-05",
+     "title": {
+      "it": "Ucraina – Ungheria",
+      "en": "Ukraine – Hungary"
+     },
+     "teams": [
+      "Ucraina",
+      "Ungheria"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Kazakistan – Isole Fær Øer",
+      "en": "Kazakhstan – Faroe Islands"
+     },
+     "teams": [
+      "Kazakistan",
+      "Isole Fær Øer"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Albania – San Marino",
+      "en": "Albania – San Marino"
+     },
+     "teams": [
+      "Albania",
+      "San Marino"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Bielorussia – Finlandia",
+      "en": "Belarus – Finland"
+     },
+     "teams": [
+      "Bielorussia",
+      "Finlandia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Croazia – Spagna",
+      "en": "Croatia – Spain"
+     },
+     "teams": [
+      "Croazia",
+      "Spagna"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Inghilterra – Cechia",
+      "en": "England – Czechia"
+     },
+     "teams": [
+      "Inghilterra",
+      "Cechia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Estonia – Islanda",
+      "en": "Estonia – Iceland"
+     },
+     "teams": [
+      "Estonia",
+      "Islanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Lussemburgo – Bulgaria",
+      "en": "Luxembourg – Bulgaria"
+     },
+     "teams": [
+      "Lussemburgo",
+      "Bulgaria"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Moldavia – Slovacchia",
+      "en": "Moldova – Slovakia"
+     },
+     "teams": [
+      "Moldavia",
+      "Slovacchia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Scozia – Slovenia",
+      "en": "Scotland – Slovenia"
+     },
+     "teams": [
+      "Scozia",
+      "Slovenia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-10-06",
+     "title": {
+      "it": "Svizzera – Macedonia del Nord",
+      "en": "Switzerland – North Macedonia"
+     },
+     "teams": [
+      "Svizzera",
+      "Macedonia del Nord"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Armenia – Cipro",
+      "en": "Armenia – Cyprus"
+     },
+     "teams": [
+      "Armenia",
+      "Cipro"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Turchia – Belgio",
+      "en": "Türkiye – Belgium"
+     },
+     "teams": [
+      "Turchia",
+      "Belgio"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Albania – Finlandia",
+      "en": "Albania – Finland"
+     },
+     "teams": [
+      "Albania",
+      "Finlandia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Cechia – Spagna",
+      "en": "Czechia – Spain"
+     },
+     "teams": [
+      "Cechia",
+      "Spagna"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Inghilterra – Croazia",
+      "en": "England – Croatia"
+     },
+     "teams": [
+      "Inghilterra",
+      "Croazia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Italia – Francia",
+      "en": "Italy – France"
+     },
+     "teams": [
+      "Italia",
+      "Francia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "Montenegro – Lettonia",
+      "en": "Montenegro – Latvia"
+     },
+     "teams": [
+      "Montenegro",
+      "Lettonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-12",
+     "title": {
+      "it": "San Marino – Bielorussia",
+      "en": "San Marino – Belarus"
+     },
+     "teams": [
+      "San Marino",
+      "Bielorussia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Moldavia – Kazakistan",
+      "en": "Moldova – Kazakhstan"
+     },
+     "teams": [
+      "Moldavia",
+      "Kazakistan"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Andorra – Gibilterra",
+      "en": "Andorra – Gibraltar"
+     },
+     "teams": [
+      "Andorra",
+      "Gibilterra"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Bulgaria – Islanda",
+      "en": "Bulgaria – Iceland"
+     },
+     "teams": [
+      "Bulgaria",
+      "Islanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Liechtenstein – Azerbaigian",
+      "en": "Liechtenstein – Azerbaijan"
+     },
+     "teams": [
+      "Liechtenstein",
+      "Azerbaigian"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Lussemburgo – Estonia",
+      "en": "Luxembourg – Estonia"
+     },
+     "teams": [
+      "Lussemburgo",
+      "Estonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Paesi Bassi – Grecia",
+      "en": "Netherlands – Greece"
+     },
+     "teams": [
+      "Paesi Bassi",
+      "Grecia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Scozia – Macedonia del Nord",
+      "en": "Scotland – North Macedonia"
+     },
+     "teams": [
+      "Scozia",
+      "Macedonia del Nord"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Serbia – Germania",
+      "en": "Serbia – Germany"
+     },
+     "teams": [
+      "Serbia",
+      "Germania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Slovacchia – Isole Fær Øer",
+      "en": "Slovakia – Faroe Islands"
+     },
+     "teams": [
+      "Slovacchia",
+      "Isole Fær Øer"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-13",
+     "title": {
+      "it": "Slovenia – Svizzera",
+      "en": "Slovenia – Switzerland"
+     },
+     "teams": [
+      "Slovenia",
+      "Svizzera"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Kosovo – Israele",
+      "en": "Kosovo – Israel"
+     },
+     "teams": [
+      "Kosovo",
+      "Israele"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Georgia – Ungheria",
+      "en": "Georgia – Hungary"
+     },
+     "teams": [
+      "Georgia",
+      "Ungheria"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Norvegia – Galles",
+      "en": "Norway – Wales"
+     },
+     "teams": [
+      "Norvegia",
+      "Galles"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Austria – Irlanda",
+      "en": "Austria – Republic of Ireland"
+     },
+     "teams": [
+      "Austria",
+      "Irlanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Irlanda del Nord – Ucraina",
+      "en": "Northern Ireland – Ukraine"
+     },
+     "teams": [
+      "Irlanda del Nord",
+      "Ucraina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Portogallo – Danimarca",
+      "en": "Portugal – Denmark"
+     },
+     "teams": [
+      "Portogallo",
+      "Danimarca"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Romania – Polonia",
+      "en": "Romania – Poland"
+     },
+     "teams": [
+      "Romania",
+      "Polonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-14",
+     "title": {
+      "it": "Svezia – Bosnia ed Erzegovina",
+      "en": "Sweden – Bosnia and Herzegovina"
+     },
+     "teams": [
+      "Svezia",
+      "Bosnia ed Erzegovina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Cipro – Montenegro",
+      "en": "Cyprus – Montenegro"
+     },
+     "teams": [
+      "Cipro",
+      "Montenegro"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Lettonia – Armenia",
+      "en": "Latvia – Armenia"
+     },
+     "teams": [
+      "Lettonia",
+      "Armenia"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Bielorussia – Albania",
+      "en": "Belarus – Albania"
+     },
+     "teams": [
+      "Bielorussia",
+      "Albania"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Finlandia – San Marino",
+      "en": "Finland – San Marino"
+     },
+     "teams": [
+      "Finlandia",
+      "San Marino"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Belgio – Italia",
+      "en": "Belgium – Italy"
+     },
+     "teams": [
+      "Belgio",
+      "Italia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Croazia – Cechia",
+      "en": "Croatia – Czechia"
+     },
+     "teams": [
+      "Croazia",
+      "Cechia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Francia – Turchia",
+      "en": "France – Türkiye"
+     },
+     "teams": [
+      "Francia",
+      "Turchia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-15",
+     "title": {
+      "it": "Spagna – Inghilterra",
+      "en": "Spain – England"
+     },
+     "teams": [
+      "Spagna",
+      "Inghilterra"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Isole Fær Øer – Moldavia",
+      "en": "Faroe Islands – Moldova"
+     },
+     "teams": [
+      "Isole Fær Øer",
+      "Moldavia"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Kazakistan – Slovacchia",
+      "en": "Kazakhstan – Slovakia"
+     },
+     "teams": [
+      "Kazakistan",
+      "Slovacchia"
+     ],
+     "time": "16:00"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Estonia – Bulgaria",
+      "en": "Estonia – Bulgaria"
+     },
+     "teams": [
+      "Estonia",
+      "Bulgaria"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Islanda – Lussemburgo",
+      "en": "Iceland – Luxembourg"
+     },
+     "teams": [
+      "Islanda",
+      "Lussemburgo"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Lituania – Liechtenstein",
+      "en": "Lithuania – Liechtenstein"
+     },
+     "teams": [
+      "Lituania",
+      "Liechtenstein"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Germania – Paesi Bassi",
+      "en": "Germany – Netherlands"
+     },
+     "teams": [
+      "Germania",
+      "Paesi Bassi"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Gibilterra – Malta",
+      "en": "Gibraltar – Malta"
+     },
+     "teams": [
+      "Gibilterra",
+      "Malta"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Grecia – Serbia",
+      "en": "Greece – Serbia"
+     },
+     "teams": [
+      "Grecia",
+      "Serbia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Macedonia del Nord – Slovenia",
+      "en": "North Macedonia – Slovenia"
+     },
+     "teams": [
+      "Macedonia del Nord",
+      "Slovenia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-16",
+     "title": {
+      "it": "Svizzera – Scozia",
+      "en": "Switzerland – Scotland"
+     },
+     "teams": [
+      "Svizzera",
+      "Scozia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Bosnia ed Erzegovina – Romania",
+      "en": "Bosnia and Herzegovina – Romania"
+     },
+     "teams": [
+      "Bosnia ed Erzegovina",
+      "Romania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Danimarca – Norvegia",
+      "en": "Denmark – Norway"
+     },
+     "teams": [
+      "Danimarca",
+      "Norvegia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Ungheria – Irlanda del Nord",
+      "en": "Hungary – Northern Ireland"
+     },
+     "teams": [
+      "Ungheria",
+      "Irlanda del Nord"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Israele – Austria",
+      "en": "Israel – Austria"
+     },
+     "teams": [
+      "Israele",
+      "Austria"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Polonia – Svezia",
+      "en": "Poland – Sweden"
+     },
+     "teams": [
+      "Polonia",
+      "Svezia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Irlanda – Kosovo",
+      "en": "Republic of Ireland – Kosovo"
+     },
+     "teams": [
+      "Irlanda",
+      "Kosovo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Ucraina – Georgia",
+      "en": "Ukraine – Georgia"
+     },
+     "teams": [
+      "Ucraina",
+      "Georgia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2026-11-17",
+     "title": {
+      "it": "Galles – Portogallo",
+      "en": "Wales – Portugal"
+     },
+     "teams": [
+      "Galles",
+      "Portogallo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Cipro – Macedonia del Nord",
+      "en": "Cyprus – North Macedonia"
+     },
+     "teams": [
+      "Cipro",
+      "Macedonia del Nord"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Bielorussia – Israele",
+      "en": "Belarus – Israel"
+     },
+     "teams": [
+      "Bielorussia",
+      "Israele"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Belgio – Germania",
+      "en": "Belgium – Germany"
+     },
+     "teams": [
+      "Belgio",
+      "Germania"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Bosnia ed Erzegovina – Danimarca",
+      "en": "Bosnia and Herzegovina – Denmark"
+     },
+     "teams": [
+      "Bosnia ed Erzegovina",
+      "Danimarca"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Ungheria – Serbia",
+      "en": "Hungary – Serbia"
+     },
+     "teams": [
+      "Ungheria",
+      "Serbia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-25",
+     "title": {
+      "it": "Spagna – Francia",
+      "en": "Spain – France"
+     },
+     "teams": [
+      "Spagna",
+      "Francia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Isole Fær Øer – Georgia",
+      "en": "Faroe Islands – Georgia"
+     },
+     "teams": [
+      "Isole Fær Øer",
+      "Georgia"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Estonia – Romania",
+      "en": "Estonia – Romania"
+     },
+     "teams": [
+      "Estonia",
+      "Romania"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Norvegia – Inghilterra",
+      "en": "Norway – England"
+     },
+     "teams": [
+      "Norvegia",
+      "Inghilterra"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Paesi Bassi – Portogallo",
+      "en": "Netherlands – Portugal"
+     },
+     "teams": [
+      "Paesi Bassi",
+      "Portogallo"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Irlanda – Croazia",
+      "en": "Republic of Ireland – Croatia"
+     },
+     "teams": [
+      "Irlanda",
+      "Croazia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-27",
+     "title": {
+      "it": "Slovenia – Galles",
+      "en": "Slovenia – Wales"
+     },
+     "teams": [
+      "Slovenia",
+      "Galles"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Macedonia del Nord – Cipro",
+      "en": "North Macedonia – Cyprus"
+     },
+     "teams": [
+      "Macedonia del Nord",
+      "Cipro"
+     ],
+     "time": "15:00"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Serbia – Ungheria",
+      "en": "Serbia – Hungary"
+     },
+     "teams": [
+      "Serbia",
+      "Ungheria"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Danimarca – Bosnia ed Erzegovina",
+      "en": "Denmark – Bosnia and Herzegovina"
+     },
+     "teams": [
+      "Danimarca",
+      "Bosnia ed Erzegovina"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Francia – Spagna",
+      "en": "France – Spain"
+     },
+     "teams": [
+      "Francia",
+      "Spagna"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Germania – Belgio",
+      "en": "Germany – Belgium"
+     },
+     "teams": [
+      "Germania",
+      "Belgio"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-28",
+     "title": {
+      "it": "Israele – Bielorussia",
+      "en": "Israel – Belarus"
+     },
+     "teams": [
+      "Israele",
+      "Bielorussia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Georgia – Isole Fær Øer",
+      "en": "Georgia – Faroe Islands"
+     },
+     "teams": [
+      "Georgia",
+      "Isole Fær Øer"
+     ],
+     "time": "18:00"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Croazia – Irlanda",
+      "en": "Croatia – Republic of Ireland"
+     },
+     "teams": [
+      "Croazia",
+      "Irlanda"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Inghilterra – Norvegia",
+      "en": "England – Norway"
+     },
+     "teams": [
+      "Inghilterra",
+      "Norvegia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Portogallo – Paesi Bassi",
+      "en": "Portugal – Netherlands"
+     },
+     "teams": [
+      "Portogallo",
+      "Paesi Bassi"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Romania – Estonia",
+      "en": "Romania – Estonia"
+     },
+     "teams": [
+      "Romania",
+      "Estonia"
+     ],
+     "time": "20:45"
+    },
+    {
+     "date": "2027-03-30",
+     "title": {
+      "it": "Galles – Slovenia",
+      "en": "Wales – Slovenia"
+     },
+     "teams": [
+      "Galles",
+      "Slovenia"
+     ],
+     "time": "20:45"
+    }
+   ],
+   "sport": {
+    "id": "football",
+    "title": {
+     "it": "Calcio",
+     "en": "Football"
+    },
+    "emoji": "⚽️"
+   },
+   "flag": "🌍",
+   "teams": [
+    "Albania",
+    "Algeria",
+    "Andorra",
+    "Argentina",
+    "Armenia",
+    "Australia",
+    "Austria",
+    "Azerbaigian",
+    "Belgio",
+    "Bielorussia",
+    "Bosnia ed Erzegovina",
+    "Brasile",
+    "Bulgaria",
+    "Canada",
+    "Cechia",
+    "Cipro",
+    "Colombia",
+    "Corea del Sud",
+    "Costa d'Avorio",
+    "Croazia",
+    "Danimarca",
+    "Ecuador",
+    "Egitto",
+    "Estonia",
+    "Finlandia",
+    "Francia",
+    "Galles",
+    "Georgia",
+    "Germania",
+    "Giappone",
+    "Gibilterra",
+    "Grecia",
+    "Inghilterra",
+    "Iran",
+    "Irlanda",
+    "Irlanda del Nord",
+    "Islanda",
+    "Isole Fær Øer",
+    "Israele",
+    "Italia",
+    "Kazakistan",
+    "Kosovo",
+    "Lettonia",
+    "Liechtenstein",
+    "Lituania",
+    "Lussemburgo",
+    "Macedonia del Nord",
+    "Malta",
+    "Marocco",
+    "Messico",
+    "Moldavia",
+    "Montenegro",
+    "Nigeria",
+    "Norvegia",
+    "Paesi Bassi",
+    "Paraguay",
+    "Polonia",
+    "Portogallo",
+    "RD del Congo",
+    "Romania",
+    "San Marino",
+    "Scozia",
+    "Senegal",
+    "Serbia",
+    "Slovacchia",
+    "Slovenia",
+    "Spagna",
+    "Stati Uniti",
+    "Svezia",
+    "Svizzera",
+    "Turchia",
+    "Ucraina",
+    "Ungheria",
+    "Uruguay"
+   ],
+   "teamNamesEN": {
+    "Azerbaigian": "Azerbaijan",
+    "Belgio": "Belgium",
+    "Bielorussia": "Belarus",
+    "Bosnia ed Erzegovina": "Bosnia and Herzegovina",
+    "Brasile": "Brazil",
+    "Cechia": "Czechia",
+    "Cipro": "Cyprus",
+    "Corea del Sud": "South Korea",
+    "Costa d'Avorio": "Côte d'Ivoire",
+    "Croazia": "Croatia",
+    "Danimarca": "Denmark",
+    "Egitto": "Egypt",
+    "Finlandia": "Finland",
+    "Francia": "France",
+    "Galles": "Wales",
+    "Germania": "Germany",
+    "Giappone": "Japan",
+    "Gibilterra": "Gibraltar",
+    "Grecia": "Greece",
+    "Inghilterra": "England",
+    "Irlanda": "Republic of Ireland",
+    "Irlanda del Nord": "Northern Ireland",
+    "Islanda": "Iceland",
+    "Isole Fær Øer": "Faroe Islands",
+    "Israele": "Israel",
+    "Italia": "Italy",
+    "Kazakistan": "Kazakhstan",
+    "Lettonia": "Latvia",
+    "Lituania": "Lithuania",
+    "Lussemburgo": "Luxembourg",
+    "Macedonia del Nord": "North Macedonia",
+    "Marocco": "Morocco",
+    "Messico": "Mexico",
+    "Moldavia": "Moldova",
+    "Norvegia": "Norway",
+    "Paesi Bassi": "Netherlands",
+    "Polonia": "Poland",
+    "Portogallo": "Portugal",
+    "RD del Congo": "DR Congo",
+    "Scozia": "Scotland",
+    "Slovacchia": "Slovakia",
+    "Spagna": "Spain",
+    "Stati Uniti": "United States",
+    "Svezia": "Sweden",
+    "Svizzera": "Switzerland",
+    "Turchia": "Türkiye",
+    "Ucraina": "Ukraine",
+    "Ungheria": "Hungary"
+   },
+   "teamKind": "nations"
   },
   {
    "id": "sports.nfl",
@@ -15634,6 +18048,15 @@
      "time": "02:15"
     }
    ],
+   "sport": {
+    "id": "americanfootball",
+    "title": {
+     "it": "Football americano",
+     "en": "American football"
+    },
+    "emoji": "🏈"
+   },
+   "flag": "🇺🇸",
    "teams": [
     "Arizona Cardinals",
     "Atlanta Falcons",
@@ -18688,6 +21111,15 @@
      "time": "03:00"
     }
    ],
+   "sport": {
+    "id": "basketball",
+    "title": {
+     "it": "Basket",
+     "en": "Basketball"
+    },
+    "emoji": "🏀"
+   },
+   "flag": "🇺🇸",
    "teams": [
     "Atlanta Hawks",
     "Boston Celtics",
@@ -18719,6 +21151,56 @@
     "Toronto Raptors",
     "Utah Jazz",
     "Washington Wizards"
+   ]
+  },
+  {
+   "id": "sports.mlb",
+   "block": "sports",
+   "title": {
+    "it": "MLB 2027",
+    "en": "MLB 2027"
+   },
+   "events": [],
+   "sport": {
+    "id": "baseball",
+    "title": {
+     "it": "Baseball",
+     "en": "Baseball"
+    },
+    "emoji": "⚾️"
+   },
+   "flag": "🇺🇸",
+   "teams": [
+    "Arizona Diamondbacks",
+    "Athletics",
+    "Atlanta Braves",
+    "Baltimore Orioles",
+    "Boston Red Sox",
+    "Chicago Cubs",
+    "Chicago White Sox",
+    "Cincinnati Reds",
+    "Cleveland Guardians",
+    "Colorado Rockies",
+    "Detroit Tigers",
+    "Houston Astros",
+    "Kansas City Royals",
+    "Los Angeles Angels",
+    "Los Angeles Dodgers",
+    "Miami Marlins",
+    "Milwaukee Brewers",
+    "Minnesota Twins",
+    "New York Mets",
+    "New York Yankees",
+    "Philadelphia Phillies",
+    "Pittsburgh Pirates",
+    "San Diego Padres",
+    "San Francisco Giants",
+    "Seattle Mariners",
+    "St. Louis Cardinals",
+    "Tampa Bay Rays",
+    "Texas Rangers",
+    "Toronto Blue Jays",
+    "Washington Nationals"
    ]
   },
   {
@@ -22323,6 +24805,15 @@
      "time": "03:00"
     }
    ],
+   "sport": {
+    "id": "icehockey",
+    "title": {
+     "it": "Hockey su ghiaccio",
+     "en": "Ice hockey"
+    },
+    "emoji": "🏒"
+   },
+   "flag": "🇨🇦",
    "teams": [
     "Anaheim Ducks",
     "Boston Bruins",
@@ -22357,2344 +24848,6 @@
     "Washington Capitals",
     "Winnipeg Jets"
    ]
-  },
-  {
-   "id": "sports.mlb",
-   "block": "sports",
-   "title": {
-    "it": "MLB 2027",
-    "en": "MLB 2027"
-   },
-   "events": [],
-   "teams": [
-    "Arizona Diamondbacks",
-    "Athletics",
-    "Atlanta Braves",
-    "Baltimore Orioles",
-    "Boston Red Sox",
-    "Chicago Cubs",
-    "Chicago White Sox",
-    "Cincinnati Reds",
-    "Cleveland Guardians",
-    "Colorado Rockies",
-    "Detroit Tigers",
-    "Houston Astros",
-    "Kansas City Royals",
-    "Los Angeles Angels",
-    "Los Angeles Dodgers",
-    "Miami Marlins",
-    "Milwaukee Brewers",
-    "Minnesota Twins",
-    "New York Mets",
-    "New York Yankees",
-    "Philadelphia Phillies",
-    "Pittsburgh Pirates",
-    "San Diego Padres",
-    "San Francisco Giants",
-    "Seattle Mariners",
-    "St. Louis Cardinals",
-    "Tampa Bay Rays",
-    "Texas Rangers",
-    "Toronto Blue Jays",
-    "Washington Nationals"
-   ]
-  },
-  {
-   "id": "sports.nazionali",
-   "block": "sports",
-   "title": {
-    "it": "Nazionali di calcio 2026/27",
-    "en": "Football national teams 2026/27"
-   },
-   "events": [
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Andorra – Malta",
-      "en": "Andorra – Malta"
-     },
-     "teams": [
-      "Andorra",
-      "Malta"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Austria – Israele",
-      "en": "Austria – Israel"
-     },
-     "teams": [
-      "Austria",
-      "Israele"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Kosovo – Irlanda",
-      "en": "Kosovo – Republic of Ireland"
-     },
-     "teams": [
-      "Kosovo",
-      "Irlanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Liechtenstein – Lituania",
-      "en": "Liechtenstein – Lithuania"
-     },
-     "teams": [
-      "Liechtenstein",
-      "Lituania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Paesi Bassi – Germania",
-      "en": "Netherlands – Germany"
-     },
-     "teams": [
-      "Paesi Bassi",
-      "Germania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Norvegia – Danimarca",
-      "en": "Norway – Denmark"
-     },
-     "teams": [
-      "Norvegia",
-      "Danimarca"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Portogallo – Galles",
-      "en": "Portugal – Wales"
-     },
-     "teams": [
-      "Portogallo",
-      "Galles"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-24",
-     "title": {
-      "it": "Serbia – Grecia",
-      "en": "Serbia – Greece"
-     },
-     "teams": [
-      "Serbia",
-      "Grecia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Armenia – Lettonia",
-      "en": "Armenia – Latvia"
-     },
-     "teams": [
-      "Armenia",
-      "Lettonia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Georgia – Irlanda del Nord",
-      "en": "Georgia – Northern Ireland"
-     },
-     "teams": [
-      "Georgia",
-      "Irlanda del Nord"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Ungheria – Ucraina",
-      "en": "Hungary – Ukraine"
-     },
-     "teams": [
-      "Ungheria",
-      "Ucraina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Italia – Belgio",
-      "en": "Italy – Belgium"
-     },
-     "teams": [
-      "Italia",
-      "Belgio"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Montenegro – Cipro",
-      "en": "Montenegro – Cyprus"
-     },
-     "teams": [
-      "Montenegro",
-      "Cipro"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Polonia – Bosnia ed Erzegovina",
-      "en": "Poland – Bosnia and Herzegovina"
-     },
-     "teams": [
-      "Polonia",
-      "Bosnia ed Erzegovina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Svezia – Romania",
-      "en": "Sweden – Romania"
-     },
-     "teams": [
-      "Svezia",
-      "Romania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-25",
-     "title": {
-      "it": "Turchia – Francia",
-      "en": "Türkiye – France"
-     },
-     "teams": [
-      "Turchia",
-      "Francia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Slovenia – Scozia",
-      "en": "Slovenia – Scotland"
-     },
-     "teams": [
-      "Slovenia",
-      "Scozia"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Bulgaria – Lussemburgo",
-      "en": "Bulgaria – Luxembourg"
-     },
-     "teams": [
-      "Bulgaria",
-      "Lussemburgo"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Isole Fær Øer – Kazakistan",
-      "en": "Faroe Islands – Kazakhstan"
-     },
-     "teams": [
-      "Isole Fær Øer",
-      "Kazakistan"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Islanda – Estonia",
-      "en": "Iceland – Estonia"
-     },
-     "teams": [
-      "Islanda",
-      "Estonia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "San Marino – Finlandia",
-      "en": "San Marino – Finland"
-     },
-     "teams": [
-      "San Marino",
-      "Finlandia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Albania – Bielorussia",
-      "en": "Albania – Belarus"
-     },
-     "teams": [
-      "Albania",
-      "Bielorussia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Cechia – Croazia",
-      "en": "Czechia – Croatia"
-     },
-     "teams": [
-      "Cechia",
-      "Croazia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Inghilterra – Spagna",
-      "en": "England – Spain"
-     },
-     "teams": [
-      "Inghilterra",
-      "Spagna"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Macedonia del Nord – Svizzera",
-      "en": "North Macedonia – Switzerland"
-     },
-     "teams": [
-      "Macedonia del Nord",
-      "Svizzera"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-26",
-     "title": {
-      "it": "Slovacchia – Moldavia",
-      "en": "Slovakia – Moldova"
-     },
-     "teams": [
-      "Slovacchia",
-      "Moldavia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Lituania – Azerbaigian",
-      "en": "Lithuania – Azerbaijan"
-     },
-     "teams": [
-      "Lituania",
-      "Azerbaigian"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Austria – Kosovo",
-      "en": "Austria – Kosovo"
-     },
-     "teams": [
-      "Austria",
-      "Kosovo"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Danimarca – Galles",
-      "en": "Denmark – Wales"
-     },
-     "teams": [
-      "Danimarca",
-      "Galles"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Gibilterra – Andorra",
-      "en": "Gibraltar – Andorra"
-     },
-     "teams": [
-      "Gibilterra",
-      "Andorra"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Serbia – Paesi Bassi",
-      "en": "Serbia – Netherlands"
-     },
-     "teams": [
-      "Serbia",
-      "Paesi Bassi"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Germania – Grecia",
-      "en": "Germany – Greece"
-     },
-     "teams": [
-      "Germania",
-      "Grecia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Israele – Irlanda",
-      "en": "Israel – Republic of Ireland"
-     },
-     "teams": [
-      "Israele",
-      "Irlanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-27",
-     "title": {
-      "it": "Norvegia – Portogallo",
-      "en": "Norway – Portugal"
-     },
-     "teams": [
-      "Norvegia",
-      "Portogallo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Armenia – Montenegro",
-      "en": "Armenia – Montenegro"
-     },
-     "teams": [
-      "Armenia",
-      "Montenegro"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Georgia – Ucraina",
-      "en": "Georgia – Ukraine"
-     },
-     "teams": [
-      "Georgia",
-      "Ucraina"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Lettonia – Cipro",
-      "en": "Latvia – Cyprus"
-     },
-     "teams": [
-      "Lettonia",
-      "Cipro"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Belgio – Francia",
-      "en": "Belgium – France"
-     },
-     "teams": [
-      "Belgio",
-      "Francia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Irlanda del Nord – Ungheria",
-      "en": "Northern Ireland – Hungary"
-     },
-     "teams": [
-      "Irlanda del Nord",
-      "Ungheria"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Romania – Bosnia ed Erzegovina",
-      "en": "Romania – Bosnia and Herzegovina"
-     },
-     "teams": [
-      "Romania",
-      "Bosnia ed Erzegovina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Svezia – Polonia",
-      "en": "Sweden – Poland"
-     },
-     "teams": [
-      "Svezia",
-      "Polonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-28",
-     "title": {
-      "it": "Turchia – Italia",
-      "en": "Türkiye – Italy"
-     },
-     "teams": [
-      "Turchia",
-      "Italia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Finlandia – Bielorussia",
-      "en": "Finland – Belarus"
-     },
-     "teams": [
-      "Finlandia",
-      "Bielorussia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Moldavia – Isole Fær Øer",
-      "en": "Moldova – Faroe Islands"
-     },
-     "teams": [
-      "Moldavia",
-      "Isole Fær Øer"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Bulgaria – Estonia",
-      "en": "Bulgaria – Estonia"
-     },
-     "teams": [
-      "Bulgaria",
-      "Estonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Cechia – Inghilterra",
-      "en": "Czechia – England"
-     },
-     "teams": [
-      "Cechia",
-      "Inghilterra"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Lussemburgo – Islanda",
-      "en": "Luxembourg – Iceland"
-     },
-     "teams": [
-      "Lussemburgo",
-      "Islanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "San Marino – Albania",
-      "en": "San Marino – Albania"
-     },
-     "teams": [
-      "San Marino",
-      "Albania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Scozia – Svizzera",
-      "en": "Scotland – Switzerland"
-     },
-     "teams": [
-      "Scozia",
-      "Svizzera"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Slovacchia – Kazakistan",
-      "en": "Slovakia – Kazakhstan"
-     },
-     "teams": [
-      "Slovacchia",
-      "Kazakistan"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Slovenia – Macedonia del Nord",
-      "en": "Slovenia – North Macedonia"
-     },
-     "teams": [
-      "Slovenia",
-      "Macedonia del Nord"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-09-29",
-     "title": {
-      "it": "Spagna – Croazia",
-      "en": "Spain – Croatia"
-     },
-     "teams": [
-      "Spagna",
-      "Croazia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Azerbaigian – Liechtenstein",
-      "en": "Azerbaijan – Liechtenstein"
-     },
-     "teams": [
-      "Azerbaigian",
-      "Liechtenstein"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Danimarca – Portogallo",
-      "en": "Denmark – Portugal"
-     },
-     "teams": [
-      "Danimarca",
-      "Portogallo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Germania – Serbia",
-      "en": "Germany – Serbia"
-     },
-     "teams": [
-      "Germania",
-      "Serbia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Grecia – Paesi Bassi",
-      "en": "Greece – Netherlands"
-     },
-     "teams": [
-      "Grecia",
-      "Paesi Bassi"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Israele – Kosovo",
-      "en": "Israel – Kosovo"
-     },
-     "teams": [
-      "Israele",
-      "Kosovo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Malta – Gibilterra",
-      "en": "Malta – Gibraltar"
-     },
-     "teams": [
-      "Malta",
-      "Gibilterra"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Irlanda – Austria",
-      "en": "Republic of Ireland – Austria"
-     },
-     "teams": [
-      "Irlanda",
-      "Austria"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-01",
-     "title": {
-      "it": "Galles – Norvegia",
-      "en": "Wales – Norway"
-     },
-     "teams": [
-      "Galles",
-      "Norvegia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Kazakistan – Moldavia",
-      "en": "Kazakhstan – Moldova"
-     },
-     "teams": [
-      "Kazakistan",
-      "Moldavia"
-     ],
-     "time": "16:00"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Cipro – Armenia",
-      "en": "Cyprus – Armenia"
-     },
-     "teams": [
-      "Cipro",
-      "Armenia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Lettonia – Montenegro",
-      "en": "Latvia – Montenegro"
-     },
-     "teams": [
-      "Lettonia",
-      "Montenegro"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Belgio – Turchia",
-      "en": "Belgium – Türkiye"
-     },
-     "teams": [
-      "Belgio",
-      "Turchia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Bosnia ed Erzegovina – Svezia",
-      "en": "Bosnia and Herzegovina – Sweden"
-     },
-     "teams": [
-      "Bosnia ed Erzegovina",
-      "Svezia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Isole Fær Øer – Slovacchia",
-      "en": "Faroe Islands – Slovakia"
-     },
-     "teams": [
-      "Isole Fær Øer",
-      "Slovacchia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Francia – Italia",
-      "en": "France – Italy"
-     },
-     "teams": [
-      "Francia",
-      "Italia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Ungheria – Georgia",
-      "en": "Hungary – Georgia"
-     },
-     "teams": [
-      "Ungheria",
-      "Georgia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Polonia – Romania",
-      "en": "Poland – Romania"
-     },
-     "teams": [
-      "Polonia",
-      "Romania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-02",
-     "title": {
-      "it": "Ucraina – Irlanda del Nord",
-      "en": "Ukraine – Northern Ireland"
-     },
-     "teams": [
-      "Ucraina",
-      "Irlanda del Nord"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Finlandia – Albania",
-      "en": "Finland – Albania"
-     },
-     "teams": [
-      "Finlandia",
-      "Albania"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Bielorussia – San Marino",
-      "en": "Belarus – San Marino"
-     },
-     "teams": [
-      "Bielorussia",
-      "San Marino"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Croazia – Inghilterra",
-      "en": "Croatia – England"
-     },
-     "teams": [
-      "Croazia",
-      "Inghilterra"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Estonia – Lussemburgo",
-      "en": "Estonia – Luxembourg"
-     },
-     "teams": [
-      "Estonia",
-      "Lussemburgo"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Islanda – Bulgaria",
-      "en": "Iceland – Bulgaria"
-     },
-     "teams": [
-      "Islanda",
-      "Bulgaria"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Macedonia del Nord – Scozia",
-      "en": "North Macedonia – Scotland"
-     },
-     "teams": [
-      "Macedonia del Nord",
-      "Scozia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Spagna – Cechia",
-      "en": "Spain – Czechia"
-     },
-     "teams": [
-      "Spagna",
-      "Cechia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-03",
-     "title": {
-      "it": "Svizzera – Slovenia",
-      "en": "Switzerland – Slovenia"
-     },
-     "teams": [
-      "Svizzera",
-      "Slovenia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Azerbaigian – Lituania",
-      "en": "Azerbaijan – Lithuania"
-     },
-     "teams": [
-      "Azerbaigian",
-      "Lituania"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Kosovo – Austria",
-      "en": "Kosovo – Austria"
-     },
-     "teams": [
-      "Kosovo",
-      "Austria"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Malta – Andorra",
-      "en": "Malta – Andorra"
-     },
-     "teams": [
-      "Malta",
-      "Andorra"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Grecia – Germania",
-      "en": "Greece – Germany"
-     },
-     "teams": [
-      "Grecia",
-      "Germania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Paesi Bassi – Serbia",
-      "en": "Netherlands – Serbia"
-     },
-     "teams": [
-      "Paesi Bassi",
-      "Serbia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Portogallo – Norvegia",
-      "en": "Portugal – Norway"
-     },
-     "teams": [
-      "Portogallo",
-      "Norvegia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Irlanda – Israele",
-      "en": "Republic of Ireland – Israel"
-     },
-     "teams": [
-      "Irlanda",
-      "Israele"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-04",
-     "title": {
-      "it": "Galles – Danimarca",
-      "en": "Wales – Denmark"
-     },
-     "teams": [
-      "Galles",
-      "Danimarca"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Cipro – Lettonia",
-      "en": "Cyprus – Latvia"
-     },
-     "teams": [
-      "Cipro",
-      "Lettonia"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Bosnia ed Erzegovina – Polonia",
-      "en": "Bosnia and Herzegovina – Poland"
-     },
-     "teams": [
-      "Bosnia ed Erzegovina",
-      "Polonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Francia – Belgio",
-      "en": "France – Belgium"
-     },
-     "teams": [
-      "Francia",
-      "Belgio"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Italia – Turchia",
-      "en": "Italy – Türkiye"
-     },
-     "teams": [
-      "Italia",
-      "Turchia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Montenegro – Armenia",
-      "en": "Montenegro – Armenia"
-     },
-     "teams": [
-      "Montenegro",
-      "Armenia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Irlanda del Nord – Georgia",
-      "en": "Northern Ireland – Georgia"
-     },
-     "teams": [
-      "Irlanda del Nord",
-      "Georgia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Romania – Svezia",
-      "en": "Romania – Sweden"
-     },
-     "teams": [
-      "Romania",
-      "Svezia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-05",
-     "title": {
-      "it": "Ucraina – Ungheria",
-      "en": "Ukraine – Hungary"
-     },
-     "teams": [
-      "Ucraina",
-      "Ungheria"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Kazakistan – Isole Fær Øer",
-      "en": "Kazakhstan – Faroe Islands"
-     },
-     "teams": [
-      "Kazakistan",
-      "Isole Fær Øer"
-     ],
-     "time": "16:00"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Albania – San Marino",
-      "en": "Albania – San Marino"
-     },
-     "teams": [
-      "Albania",
-      "San Marino"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Bielorussia – Finlandia",
-      "en": "Belarus – Finland"
-     },
-     "teams": [
-      "Bielorussia",
-      "Finlandia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Croazia – Spagna",
-      "en": "Croatia – Spain"
-     },
-     "teams": [
-      "Croazia",
-      "Spagna"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Inghilterra – Cechia",
-      "en": "England – Czechia"
-     },
-     "teams": [
-      "Inghilterra",
-      "Cechia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Estonia – Islanda",
-      "en": "Estonia – Iceland"
-     },
-     "teams": [
-      "Estonia",
-      "Islanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Lussemburgo – Bulgaria",
-      "en": "Luxembourg – Bulgaria"
-     },
-     "teams": [
-      "Lussemburgo",
-      "Bulgaria"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Moldavia – Slovacchia",
-      "en": "Moldova – Slovakia"
-     },
-     "teams": [
-      "Moldavia",
-      "Slovacchia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Scozia – Slovenia",
-      "en": "Scotland – Slovenia"
-     },
-     "teams": [
-      "Scozia",
-      "Slovenia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-10-06",
-     "title": {
-      "it": "Svizzera – Macedonia del Nord",
-      "en": "Switzerland – North Macedonia"
-     },
-     "teams": [
-      "Svizzera",
-      "Macedonia del Nord"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Armenia – Cipro",
-      "en": "Armenia – Cyprus"
-     },
-     "teams": [
-      "Armenia",
-      "Cipro"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Turchia – Belgio",
-      "en": "Türkiye – Belgium"
-     },
-     "teams": [
-      "Turchia",
-      "Belgio"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Albania – Finlandia",
-      "en": "Albania – Finland"
-     },
-     "teams": [
-      "Albania",
-      "Finlandia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Cechia – Spagna",
-      "en": "Czechia – Spain"
-     },
-     "teams": [
-      "Cechia",
-      "Spagna"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Inghilterra – Croazia",
-      "en": "England – Croatia"
-     },
-     "teams": [
-      "Inghilterra",
-      "Croazia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Italia – Francia",
-      "en": "Italy – France"
-     },
-     "teams": [
-      "Italia",
-      "Francia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "Montenegro – Lettonia",
-      "en": "Montenegro – Latvia"
-     },
-     "teams": [
-      "Montenegro",
-      "Lettonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-12",
-     "title": {
-      "it": "San Marino – Bielorussia",
-      "en": "San Marino – Belarus"
-     },
-     "teams": [
-      "San Marino",
-      "Bielorussia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Moldavia – Kazakistan",
-      "en": "Moldova – Kazakhstan"
-     },
-     "teams": [
-      "Moldavia",
-      "Kazakistan"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Andorra – Gibilterra",
-      "en": "Andorra – Gibraltar"
-     },
-     "teams": [
-      "Andorra",
-      "Gibilterra"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Bulgaria – Islanda",
-      "en": "Bulgaria – Iceland"
-     },
-     "teams": [
-      "Bulgaria",
-      "Islanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Liechtenstein – Azerbaigian",
-      "en": "Liechtenstein – Azerbaijan"
-     },
-     "teams": [
-      "Liechtenstein",
-      "Azerbaigian"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Lussemburgo – Estonia",
-      "en": "Luxembourg – Estonia"
-     },
-     "teams": [
-      "Lussemburgo",
-      "Estonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Paesi Bassi – Grecia",
-      "en": "Netherlands – Greece"
-     },
-     "teams": [
-      "Paesi Bassi",
-      "Grecia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Scozia – Macedonia del Nord",
-      "en": "Scotland – North Macedonia"
-     },
-     "teams": [
-      "Scozia",
-      "Macedonia del Nord"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Serbia – Germania",
-      "en": "Serbia – Germany"
-     },
-     "teams": [
-      "Serbia",
-      "Germania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Slovacchia – Isole Fær Øer",
-      "en": "Slovakia – Faroe Islands"
-     },
-     "teams": [
-      "Slovacchia",
-      "Isole Fær Øer"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-13",
-     "title": {
-      "it": "Slovenia – Svizzera",
-      "en": "Slovenia – Switzerland"
-     },
-     "teams": [
-      "Slovenia",
-      "Svizzera"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Kosovo – Israele",
-      "en": "Kosovo – Israel"
-     },
-     "teams": [
-      "Kosovo",
-      "Israele"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Georgia – Ungheria",
-      "en": "Georgia – Hungary"
-     },
-     "teams": [
-      "Georgia",
-      "Ungheria"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Norvegia – Galles",
-      "en": "Norway – Wales"
-     },
-     "teams": [
-      "Norvegia",
-      "Galles"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Austria – Irlanda",
-      "en": "Austria – Republic of Ireland"
-     },
-     "teams": [
-      "Austria",
-      "Irlanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Irlanda del Nord – Ucraina",
-      "en": "Northern Ireland – Ukraine"
-     },
-     "teams": [
-      "Irlanda del Nord",
-      "Ucraina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Portogallo – Danimarca",
-      "en": "Portugal – Denmark"
-     },
-     "teams": [
-      "Portogallo",
-      "Danimarca"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Romania – Polonia",
-      "en": "Romania – Poland"
-     },
-     "teams": [
-      "Romania",
-      "Polonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-14",
-     "title": {
-      "it": "Svezia – Bosnia ed Erzegovina",
-      "en": "Sweden – Bosnia and Herzegovina"
-     },
-     "teams": [
-      "Svezia",
-      "Bosnia ed Erzegovina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Cipro – Montenegro",
-      "en": "Cyprus – Montenegro"
-     },
-     "teams": [
-      "Cipro",
-      "Montenegro"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Lettonia – Armenia",
-      "en": "Latvia – Armenia"
-     },
-     "teams": [
-      "Lettonia",
-      "Armenia"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Bielorussia – Albania",
-      "en": "Belarus – Albania"
-     },
-     "teams": [
-      "Bielorussia",
-      "Albania"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Finlandia – San Marino",
-      "en": "Finland – San Marino"
-     },
-     "teams": [
-      "Finlandia",
-      "San Marino"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Belgio – Italia",
-      "en": "Belgium – Italy"
-     },
-     "teams": [
-      "Belgio",
-      "Italia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Croazia – Cechia",
-      "en": "Croatia – Czechia"
-     },
-     "teams": [
-      "Croazia",
-      "Cechia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Francia – Turchia",
-      "en": "France – Türkiye"
-     },
-     "teams": [
-      "Francia",
-      "Turchia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-15",
-     "title": {
-      "it": "Spagna – Inghilterra",
-      "en": "Spain – England"
-     },
-     "teams": [
-      "Spagna",
-      "Inghilterra"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Isole Fær Øer – Moldavia",
-      "en": "Faroe Islands – Moldova"
-     },
-     "teams": [
-      "Isole Fær Øer",
-      "Moldavia"
-     ],
-     "time": "16:00"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Kazakistan – Slovacchia",
-      "en": "Kazakhstan – Slovakia"
-     },
-     "teams": [
-      "Kazakistan",
-      "Slovacchia"
-     ],
-     "time": "16:00"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Estonia – Bulgaria",
-      "en": "Estonia – Bulgaria"
-     },
-     "teams": [
-      "Estonia",
-      "Bulgaria"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Islanda – Lussemburgo",
-      "en": "Iceland – Luxembourg"
-     },
-     "teams": [
-      "Islanda",
-      "Lussemburgo"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Lituania – Liechtenstein",
-      "en": "Lithuania – Liechtenstein"
-     },
-     "teams": [
-      "Lituania",
-      "Liechtenstein"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Germania – Paesi Bassi",
-      "en": "Germany – Netherlands"
-     },
-     "teams": [
-      "Germania",
-      "Paesi Bassi"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Gibilterra – Malta",
-      "en": "Gibraltar – Malta"
-     },
-     "teams": [
-      "Gibilterra",
-      "Malta"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Grecia – Serbia",
-      "en": "Greece – Serbia"
-     },
-     "teams": [
-      "Grecia",
-      "Serbia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Macedonia del Nord – Slovenia",
-      "en": "North Macedonia – Slovenia"
-     },
-     "teams": [
-      "Macedonia del Nord",
-      "Slovenia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-16",
-     "title": {
-      "it": "Svizzera – Scozia",
-      "en": "Switzerland – Scotland"
-     },
-     "teams": [
-      "Svizzera",
-      "Scozia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Bosnia ed Erzegovina – Romania",
-      "en": "Bosnia and Herzegovina – Romania"
-     },
-     "teams": [
-      "Bosnia ed Erzegovina",
-      "Romania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Danimarca – Norvegia",
-      "en": "Denmark – Norway"
-     },
-     "teams": [
-      "Danimarca",
-      "Norvegia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Ungheria – Irlanda del Nord",
-      "en": "Hungary – Northern Ireland"
-     },
-     "teams": [
-      "Ungheria",
-      "Irlanda del Nord"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Israele – Austria",
-      "en": "Israel – Austria"
-     },
-     "teams": [
-      "Israele",
-      "Austria"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Polonia – Svezia",
-      "en": "Poland – Sweden"
-     },
-     "teams": [
-      "Polonia",
-      "Svezia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Irlanda – Kosovo",
-      "en": "Republic of Ireland – Kosovo"
-     },
-     "teams": [
-      "Irlanda",
-      "Kosovo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Ucraina – Georgia",
-      "en": "Ukraine – Georgia"
-     },
-     "teams": [
-      "Ucraina",
-      "Georgia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2026-11-17",
-     "title": {
-      "it": "Galles – Portogallo",
-      "en": "Wales – Portugal"
-     },
-     "teams": [
-      "Galles",
-      "Portogallo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Cipro – Macedonia del Nord",
-      "en": "Cyprus – North Macedonia"
-     },
-     "teams": [
-      "Cipro",
-      "Macedonia del Nord"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Bielorussia – Israele",
-      "en": "Belarus – Israel"
-     },
-     "teams": [
-      "Bielorussia",
-      "Israele"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Belgio – Germania",
-      "en": "Belgium – Germany"
-     },
-     "teams": [
-      "Belgio",
-      "Germania"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Bosnia ed Erzegovina – Danimarca",
-      "en": "Bosnia and Herzegovina – Denmark"
-     },
-     "teams": [
-      "Bosnia ed Erzegovina",
-      "Danimarca"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Ungheria – Serbia",
-      "en": "Hungary – Serbia"
-     },
-     "teams": [
-      "Ungheria",
-      "Serbia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-25",
-     "title": {
-      "it": "Spagna – Francia",
-      "en": "Spain – France"
-     },
-     "teams": [
-      "Spagna",
-      "Francia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Isole Fær Øer – Georgia",
-      "en": "Faroe Islands – Georgia"
-     },
-     "teams": [
-      "Isole Fær Øer",
-      "Georgia"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Estonia – Romania",
-      "en": "Estonia – Romania"
-     },
-     "teams": [
-      "Estonia",
-      "Romania"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Norvegia – Inghilterra",
-      "en": "Norway – England"
-     },
-     "teams": [
-      "Norvegia",
-      "Inghilterra"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Paesi Bassi – Portogallo",
-      "en": "Netherlands – Portugal"
-     },
-     "teams": [
-      "Paesi Bassi",
-      "Portogallo"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Irlanda – Croazia",
-      "en": "Republic of Ireland – Croatia"
-     },
-     "teams": [
-      "Irlanda",
-      "Croazia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-27",
-     "title": {
-      "it": "Slovenia – Galles",
-      "en": "Slovenia – Wales"
-     },
-     "teams": [
-      "Slovenia",
-      "Galles"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Macedonia del Nord – Cipro",
-      "en": "North Macedonia – Cyprus"
-     },
-     "teams": [
-      "Macedonia del Nord",
-      "Cipro"
-     ],
-     "time": "15:00"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Serbia – Ungheria",
-      "en": "Serbia – Hungary"
-     },
-     "teams": [
-      "Serbia",
-      "Ungheria"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Danimarca – Bosnia ed Erzegovina",
-      "en": "Denmark – Bosnia and Herzegovina"
-     },
-     "teams": [
-      "Danimarca",
-      "Bosnia ed Erzegovina"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Francia – Spagna",
-      "en": "France – Spain"
-     },
-     "teams": [
-      "Francia",
-      "Spagna"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Germania – Belgio",
-      "en": "Germany – Belgium"
-     },
-     "teams": [
-      "Germania",
-      "Belgio"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-28",
-     "title": {
-      "it": "Israele – Bielorussia",
-      "en": "Israel – Belarus"
-     },
-     "teams": [
-      "Israele",
-      "Bielorussia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Georgia – Isole Fær Øer",
-      "en": "Georgia – Faroe Islands"
-     },
-     "teams": [
-      "Georgia",
-      "Isole Fær Øer"
-     ],
-     "time": "18:00"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Croazia – Irlanda",
-      "en": "Croatia – Republic of Ireland"
-     },
-     "teams": [
-      "Croazia",
-      "Irlanda"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Inghilterra – Norvegia",
-      "en": "England – Norway"
-     },
-     "teams": [
-      "Inghilterra",
-      "Norvegia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Portogallo – Paesi Bassi",
-      "en": "Portugal – Netherlands"
-     },
-     "teams": [
-      "Portogallo",
-      "Paesi Bassi"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Romania – Estonia",
-      "en": "Romania – Estonia"
-     },
-     "teams": [
-      "Romania",
-      "Estonia"
-     ],
-     "time": "20:45"
-    },
-    {
-     "date": "2027-03-30",
-     "title": {
-      "it": "Galles – Slovenia",
-      "en": "Wales – Slovenia"
-     },
-     "teams": [
-      "Galles",
-      "Slovenia"
-     ],
-     "time": "20:45"
-    }
-   ],
-   "teams": [
-    "Albania",
-    "Algeria",
-    "Andorra",
-    "Argentina",
-    "Armenia",
-    "Australia",
-    "Austria",
-    "Azerbaigian",
-    "Belgio",
-    "Bielorussia",
-    "Bosnia ed Erzegovina",
-    "Brasile",
-    "Bulgaria",
-    "Canada",
-    "Cechia",
-    "Cipro",
-    "Colombia",
-    "Corea del Sud",
-    "Costa d'Avorio",
-    "Croazia",
-    "Danimarca",
-    "Ecuador",
-    "Egitto",
-    "Estonia",
-    "Finlandia",
-    "Francia",
-    "Galles",
-    "Georgia",
-    "Germania",
-    "Giappone",
-    "Gibilterra",
-    "Grecia",
-    "Inghilterra",
-    "Iran",
-    "Irlanda",
-    "Irlanda del Nord",
-    "Islanda",
-    "Isole Fær Øer",
-    "Israele",
-    "Italia",
-    "Kazakistan",
-    "Kosovo",
-    "Lettonia",
-    "Liechtenstein",
-    "Lituania",
-    "Lussemburgo",
-    "Macedonia del Nord",
-    "Malta",
-    "Marocco",
-    "Messico",
-    "Moldavia",
-    "Montenegro",
-    "Nigeria",
-    "Norvegia",
-    "Paesi Bassi",
-    "Paraguay",
-    "Polonia",
-    "Portogallo",
-    "RD del Congo",
-    "Romania",
-    "San Marino",
-    "Scozia",
-    "Senegal",
-    "Serbia",
-    "Slovacchia",
-    "Slovenia",
-    "Spagna",
-    "Stati Uniti",
-    "Svezia",
-    "Svizzera",
-    "Turchia",
-    "Ucraina",
-    "Ungheria",
-    "Uruguay"
-   ],
-   "teamNamesEN": {
-    "Azerbaigian": "Azerbaijan",
-    "Belgio": "Belgium",
-    "Bielorussia": "Belarus",
-    "Bosnia ed Erzegovina": "Bosnia and Herzegovina",
-    "Brasile": "Brazil",
-    "Cechia": "Czechia",
-    "Cipro": "Cyprus",
-    "Corea del Sud": "South Korea",
-    "Costa d'Avorio": "Côte d'Ivoire",
-    "Croazia": "Croatia",
-    "Danimarca": "Denmark",
-    "Egitto": "Egypt",
-    "Finlandia": "Finland",
-    "Francia": "France",
-    "Galles": "Wales",
-    "Germania": "Germany",
-    "Giappone": "Japan",
-    "Gibilterra": "Gibraltar",
-    "Grecia": "Greece",
-    "Inghilterra": "England",
-    "Irlanda": "Republic of Ireland",
-    "Irlanda del Nord": "Northern Ireland",
-    "Islanda": "Iceland",
-    "Isole Fær Øer": "Faroe Islands",
-    "Israele": "Israel",
-    "Italia": "Italy",
-    "Kazakistan": "Kazakhstan",
-    "Lettonia": "Latvia",
-    "Lituania": "Lithuania",
-    "Lussemburgo": "Luxembourg",
-    "Macedonia del Nord": "North Macedonia",
-    "Marocco": "Morocco",
-    "Messico": "Mexico",
-    "Moldavia": "Moldova",
-    "Norvegia": "Norway",
-    "Paesi Bassi": "Netherlands",
-    "Polonia": "Poland",
-    "Portogallo": "Portugal",
-    "RD del Congo": "DR Congo",
-    "Scozia": "Scotland",
-    "Slovacchia": "Slovakia",
-    "Spagna": "Spain",
-    "Stati Uniti": "United States",
-    "Svezia": "Sweden",
-    "Svizzera": "Switzerland",
-    "Turchia": "Türkiye",
-    "Ucraina": "Ukraine",
-    "Ungheria": "Hungary"
-   },
-   "teamKind": "nations"
   }
  ]
 }
