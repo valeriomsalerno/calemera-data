@@ -1,8 +1,8 @@
 {
  "format": 1,
  "minimumAppVersion": "0.1.0",
- "version": 202611221037,
- "generated": "2026-11-22T10:37:16Z",
+ "version": 202611231715,
+ "generated": "2026-11-23T17:15:07Z",
  "calendars": [
   {
    "id": "national.AT",
@@ -8551,6 +8551,1719 @@
     "OFI Creta": "OFI Crete",
     "Salisburgo": "Salzburg",
     "Sparta Praga": "Sparta Prague"
+   }
+  },
+  {
+   "id": "sports.championsleague",
+   "block": "sports",
+   "title": {
+    "it": "UEFA Champions League 2026/27",
+    "en": "UEFA Champions League 2026/27"
+   },
+   "events": [
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "AEK Atene – LASK",
+      "en": "AEK Athens – LASK"
+     },
+     "teams": [
+      "AEK Atene",
+      "LASK"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "Club Brugge – Aston Villa",
+      "en": "Club Brugge – Aston Villa"
+     },
+     "teams": [
+      "Club Brugge",
+      "Aston Villa"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "Borussia Dortmund – Villarreal",
+      "en": "Borussia Dortmund – Villarreal"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "Villarreal"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "Porto – Manchester City",
+      "en": "Porto – Manchester City"
+     },
+     "teams": [
+      "Porto",
+      "Manchester City"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "Lille – Real Betis",
+      "en": "Lille – Real Betis"
+     },
+     "teams": [
+      "Lille",
+      "Real Betis"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "title": {
+      "it": "Real Madrid – Inter",
+      "en": "Real Madrid – Inter"
+     },
+     "teams": [
+      "Real Madrid",
+      "Inter"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Barcellona – Feyenoord",
+      "en": "Barcelona – Feyenoord"
+     },
+     "teams": [
+      "Barcellona",
+      "Feyenoord"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Stoccarda – Viking",
+      "en": "Stuttgart – Viking"
+     },
+     "teams": [
+      "Stoccarda",
+      "Viking"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Liverpool – Atlético Madrid",
+      "en": "Liverpool – Atlético Madrid"
+     },
+     "teams": [
+      "Liverpool",
+      "Atlético Madrid"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Paris Saint-Germain – Slovan Bratislava",
+      "en": "Paris Saint-Germain – Slovan Bratislava"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Slovan Bratislava"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Sporting Lisbona – Galatasaray",
+      "en": "Sporting CP – Galatasaray"
+     },
+     "teams": [
+      "Sporting Lisbona",
+      "Galatasaray"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "title": {
+      "it": "Napoli – Arsenal",
+      "en": "Napoli – Arsenal"
+     },
+     "teams": [
+      "Napoli",
+      "Arsenal"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "Fenerbahçe – Roma",
+      "en": "Fenerbahçe – Roma"
+     },
+     "teams": [
+      "Fenerbahçe",
+      "Roma"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "PSV Eindhoven – Shakhtar Donetsk",
+      "en": "PSV Eindhoven – Shakhtar Donetsk"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Shakhtar Donetsk"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "Como – Lipsia",
+      "en": "Como – RB Leipzig"
+     },
+     "teams": [
+      "Como",
+      "Lipsia"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "Bayern Monaco – Bodø/Glimt",
+      "en": "Bayern Munich – Bodø/Glimt"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Bodø/Glimt"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "Manchester United – Sabah",
+      "en": "Manchester United – Sabah"
+     },
+     "teams": [
+      "Manchester United",
+      "Sabah"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "title": {
+      "it": "Slavia Praga – Lens",
+      "en": "Slavia Prague – Lens"
+     },
+     "teams": [
+      "Slavia Praga",
+      "Lens"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Lens – Sporting Lisbona",
+      "en": "Lens – Sporting CP"
+     },
+     "teams": [
+      "Lens",
+      "Sporting Lisbona"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Sabah – Slavia Praga",
+      "en": "Sabah – Slavia Prague"
+     },
+     "teams": [
+      "Sabah",
+      "Slavia Praga"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Arsenal – Lille",
+      "en": "Arsenal – Lille"
+     },
+     "teams": [
+      "Arsenal",
+      "Lille"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Atlético Madrid – Manchester United",
+      "en": "Atlético Madrid – Manchester United"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Manchester United"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Inter – Club Brugge",
+      "en": "Inter – Club Brugge"
+     },
+     "teams": [
+      "Inter",
+      "Club Brugge"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Galatasaray – Barcellona",
+      "en": "Galatasaray – Barcelona"
+     },
+     "teams": [
+      "Galatasaray",
+      "Barcellona"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Lipsia – PSV Eindhoven",
+      "en": "RB Leipzig – PSV Eindhoven"
+     },
+     "teams": [
+      "Lipsia",
+      "PSV Eindhoven"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Viking – Bayern Monaco",
+      "en": "Viking – Bayern Munich"
+     },
+     "teams": [
+      "Viking",
+      "Bayern Monaco"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "title": {
+      "it": "Villarreal – Napoli",
+      "en": "Villarreal – Napoli"
+     },
+     "teams": [
+      "Villarreal",
+      "Napoli"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Feyenoord – Como",
+      "en": "Feyenoord – Como"
+     },
+     "teams": [
+      "Feyenoord",
+      "Como"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "LASK – Liverpool",
+      "en": "LASK – Liverpool"
+     },
+     "teams": [
+      "LASK",
+      "Liverpool"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Roma – Real Madrid",
+      "en": "Roma – Real Madrid"
+     },
+     "teams": [
+      "Roma",
+      "Real Madrid"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Aston Villa – Fenerbahçe",
+      "en": "Aston Villa – Fenerbahçe"
+     },
+     "teams": [
+      "Aston Villa",
+      "Fenerbahçe"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Shakhtar Donetsk – AEK Atene",
+      "en": "Shakhtar Donetsk – AEK Athens"
+     },
+     "teams": [
+      "Shakhtar Donetsk",
+      "AEK Atene"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Bodø/Glimt – Borussia Dortmund",
+      "en": "Bodø/Glimt – Borussia Dortmund"
+     },
+     "teams": [
+      "Bodø/Glimt",
+      "Borussia Dortmund"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Manchester City – Paris Saint-Germain",
+      "en": "Manchester City – Paris Saint-Germain"
+     },
+     "teams": [
+      "Manchester City",
+      "Paris Saint-Germain"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Real Betis – Porto",
+      "en": "Real Betis – Porto"
+     },
+     "teams": [
+      "Real Betis",
+      "Porto"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "title": {
+      "it": "Slovan Bratislava – Stoccarda",
+      "en": "Slovan Bratislava – Stuttgart"
+     },
+     "teams": [
+      "Slovan Bratislava",
+      "Stoccarda"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Fenerbahçe – Slavia Praga",
+      "en": "Fenerbahçe – Slavia Prague"
+     },
+     "teams": [
+      "Fenerbahçe",
+      "Slavia Praga"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Sabah – Borussia Dortmund",
+      "en": "Sabah – Borussia Dortmund"
+     },
+     "teams": [
+      "Sabah",
+      "Borussia Dortmund"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Roma – Slovan Bratislava",
+      "en": "Roma – Slovan Bratislava"
+     },
+     "teams": [
+      "Roma",
+      "Slovan Bratislava"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Porto – PSV Eindhoven",
+      "en": "Porto – PSV Eindhoven"
+     },
+     "teams": [
+      "Porto",
+      "PSV Eindhoven"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Liverpool – Villarreal",
+      "en": "Liverpool – Villarreal"
+     },
+     "teams": [
+      "Liverpool",
+      "Villarreal"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Manchester City – AEK Atene",
+      "en": "Manchester City – AEK Athens"
+     },
+     "teams": [
+      "Manchester City",
+      "AEK Atene"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Paris Saint-Germain – Barcellona",
+      "en": "Paris Saint-Germain – Barcelona"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Barcellona"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Napoli – Bodø/Glimt",
+      "en": "Napoli – Bodø/Glimt"
+     },
+     "teams": [
+      "Napoli",
+      "Bodø/Glimt"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "title": {
+      "it": "Stoccarda – Atlético Madrid",
+      "en": "Stuttgart – Atlético Madrid"
+     },
+     "teams": [
+      "Stoccarda",
+      "Atlético Madrid"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Como – Manchester United",
+      "en": "Como – Manchester United"
+     },
+     "teams": [
+      "Como",
+      "Manchester United"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Lille – Galatasaray",
+      "en": "Lille – Galatasaray"
+     },
+     "teams": [
+      "Lille",
+      "Galatasaray"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Aston Villa – Viking",
+      "en": "Aston Villa – Viking"
+     },
+     "teams": [
+      "Aston Villa",
+      "Viking"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Club Brugge – Lens",
+      "en": "Club Brugge – Lens"
+     },
+     "teams": [
+      "Club Brugge",
+      "Lens"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Bayern Monaco – Arsenal",
+      "en": "Bayern Munich – Arsenal"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Arsenal"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Inter – Shakhtar Donetsk",
+      "en": "Inter – Shakhtar Donetsk"
+     },
+     "teams": [
+      "Inter",
+      "Shakhtar Donetsk"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Real Madrid – Lipsia",
+      "en": "Real Madrid – RB Leipzig"
+     },
+     "teams": [
+      "Real Madrid",
+      "Lipsia"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Real Betis – Feyenoord",
+      "en": "Real Betis – Feyenoord"
+     },
+     "teams": [
+      "Real Betis",
+      "Feyenoord"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "title": {
+      "it": "Sporting Lisbona – LASK",
+      "en": "Sporting CP – LASK"
+     },
+     "teams": [
+      "Sporting Lisbona",
+      "LASK"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Shakhtar Donetsk – Sporting Lisbona",
+      "en": "Shakhtar Donetsk – Sporting CP"
+     },
+     "teams": [
+      "Shakhtar Donetsk",
+      "Sporting Lisbona"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Galatasaray – Stoccarda",
+      "en": "Galatasaray – Stuttgart"
+     },
+     "teams": [
+      "Galatasaray",
+      "Stoccarda"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Atlético Madrid – Bayern Monaco",
+      "en": "Atlético Madrid – Bayern Munich"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Bayern Monaco"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Barcellona – Aston Villa",
+      "en": "Barcelona – Aston Villa"
+     },
+     "teams": [
+      "Barcellona",
+      "Aston Villa"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Feyenoord – Inter",
+      "en": "Feyenoord – Inter"
+     },
+     "teams": [
+      "Feyenoord",
+      "Inter"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Bodø/Glimt – Lille",
+      "en": "Bodø/Glimt – Lille"
+     },
+     "teams": [
+      "Bodø/Glimt",
+      "Lille"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "LASK – Slovan Bratislava",
+      "en": "LASK – Slovan Bratislava"
+     },
+     "teams": [
+      "LASK",
+      "Slovan Bratislava"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Manchester United – Roma",
+      "en": "Manchester United – Roma"
+     },
+     "teams": [
+      "Manchester United",
+      "Roma"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "title": {
+      "it": "Villarreal – Paris Saint-Germain",
+      "en": "Villarreal – Paris Saint-Germain"
+     },
+     "teams": [
+      "Villarreal",
+      "Paris Saint-Germain"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "AEK Atene – Real Madrid",
+      "en": "AEK Athens – Real Madrid"
+     },
+     "teams": [
+      "AEK Atene",
+      "Real Madrid"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Fenerbahçe – Liverpool",
+      "en": "Fenerbahçe – Liverpool"
+     },
+     "teams": [
+      "Fenerbahçe",
+      "Liverpool"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Borussia Dortmund – Real Betis",
+      "en": "Borussia Dortmund – Real Betis"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "Real Betis"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Porto – Napoli",
+      "en": "Porto – Napoli"
+     },
+     "teams": [
+      "Porto",
+      "Napoli"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "PSV Eindhoven – Club Brugge",
+      "en": "PSV Eindhoven – Club Brugge"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Club Brugge"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Lipsia – Manchester City",
+      "en": "RB Leipzig – Manchester City"
+     },
+     "teams": [
+      "Lipsia",
+      "Manchester City"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Lens – Como",
+      "en": "Lens – Como"
+     },
+     "teams": [
+      "Lens",
+      "Como"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Slavia Praga – Arsenal",
+      "en": "Slavia Prague – Arsenal"
+     },
+     "teams": [
+      "Slavia Praga",
+      "Arsenal"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "title": {
+      "it": "Viking – Sabah",
+      "en": "Viking – Sabah"
+     },
+     "teams": [
+      "Viking",
+      "Sabah"
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Bodø/Glimt – LASK",
+      "en": "Bodø/Glimt – LASK"
+     },
+     "teams": [
+      "Bodø/Glimt",
+      "LASK"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Galatasaray – Aston Villa",
+      "en": "Galatasaray – Aston Villa"
+     },
+     "teams": [
+      "Galatasaray",
+      "Aston Villa"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Arsenal – Borussia Dortmund",
+      "en": "Arsenal – Borussia Dortmund"
+     },
+     "teams": [
+      "Arsenal",
+      "Borussia Dortmund"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Como – AEK Atene",
+      "en": "Como – AEK Athens"
+     },
+     "teams": [
+      "Como",
+      "AEK Atene"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Feyenoord – Porto",
+      "en": "Feyenoord – Porto"
+     },
+     "teams": [
+      "Feyenoord",
+      "Porto"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Manchester City – Napoli",
+      "en": "Manchester City – Napoli"
+     },
+     "teams": [
+      "Manchester City",
+      "Napoli"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Lipsia – Lens",
+      "en": "RB Leipzig – Lens"
+     },
+     "teams": [
+      "Lipsia",
+      "Lens"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Real Madrid – PSV Eindhoven",
+      "en": "Real Madrid – PSV Eindhoven"
+     },
+     "teams": [
+      "Real Madrid",
+      "PSV Eindhoven"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-24",
+     "title": {
+      "it": "Slovan Bratislava – Real Betis",
+      "en": "Slovan Bratislava – Real Betis"
+     },
+     "teams": [
+      "Slovan Bratislava",
+      "Real Betis"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Sabah – Barcellona",
+      "en": "Sabah – Barcelona"
+     },
+     "teams": [
+      "Sabah",
+      "Barcellona"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Slavia Praga – Villarreal",
+      "en": "Slavia Prague – Villarreal"
+     },
+     "teams": [
+      "Slavia Praga",
+      "Villarreal"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Atlético Madrid – Viking",
+      "en": "Atlético Madrid – Viking"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Viking"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Club Brugge – Liverpool",
+      "en": "Club Brugge – Liverpool"
+     },
+     "teams": [
+      "Club Brugge",
+      "Liverpool"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Inter – Stoccarda",
+      "en": "Inter – Stuttgart"
+     },
+     "teams": [
+      "Inter",
+      "Stoccarda"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Shakhtar Donetsk – Fenerbahçe",
+      "en": "Shakhtar Donetsk – Fenerbahçe"
+     },
+     "teams": [
+      "Shakhtar Donetsk",
+      "Fenerbahçe"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Lille – Bayern Monaco",
+      "en": "Lille – Bayern Munich"
+     },
+     "teams": [
+      "Lille",
+      "Bayern Monaco"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Paris Saint-Germain – Roma",
+      "en": "Paris Saint-Germain – Roma"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Roma"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-11-25",
+     "title": {
+      "it": "Sporting Lisbona – Manchester United",
+      "en": "Sporting CP – Manchester United"
+     },
+     "teams": [
+      "Sporting Lisbona",
+      "Manchester United"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Viking – Feyenoord",
+      "en": "Viking – Feyenoord"
+     },
+     "teams": [
+      "Viking",
+      "Feyenoord"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Villarreal – Sabah",
+      "en": "Villarreal – Sabah"
+     },
+     "teams": [
+      "Villarreal",
+      "Sabah"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "AEK Atene – Galatasaray",
+      "en": "AEK Athens – Galatasaray"
+     },
+     "teams": [
+      "AEK Atene",
+      "Galatasaray"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Roma – Sporting Lisbona",
+      "en": "Roma – Sporting CP"
+     },
+     "teams": [
+      "Roma",
+      "Sporting Lisbona"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Aston Villa – Paris Saint-Germain",
+      "en": "Aston Villa – Paris Saint-Germain"
+     },
+     "teams": [
+      "Aston Villa",
+      "Paris Saint-Germain"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Barcellona – Manchester City",
+      "en": "Barcelona – Manchester City"
+     },
+     "teams": [
+      "Barcellona",
+      "Manchester City"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Bayern Monaco – Slavia Praga",
+      "en": "Bayern Munich – Slavia Prague"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Slavia Praga"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Manchester United – Lipsia",
+      "en": "Manchester United – RB Leipzig"
+     },
+     "teams": [
+      "Manchester United",
+      "Lipsia"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-08",
+     "title": {
+      "it": "Napoli – Club Brugge",
+      "en": "Napoli – Club Brugge"
+     },
+     "teams": [
+      "Napoli",
+      "Club Brugge"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Real Betis – Como",
+      "en": "Real Betis – Como"
+     },
+     "teams": [
+      "Real Betis",
+      "Como"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Slovan Bratislava – Shakhtar Donetsk",
+      "en": "Slovan Bratislava – Shakhtar Donetsk"
+     },
+     "teams": [
+      "Slovan Bratislava",
+      "Shakhtar Donetsk"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Arsenal – Real Madrid",
+      "en": "Arsenal – Real Madrid"
+     },
+     "teams": [
+      "Arsenal",
+      "Real Madrid"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Borussia Dortmund – Inter",
+      "en": "Borussia Dortmund – Inter"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "Inter"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "LASK – Fenerbahçe",
+      "en": "LASK – Fenerbahçe"
+     },
+     "teams": [
+      "LASK",
+      "Fenerbahçe"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Liverpool – Porto",
+      "en": "Liverpool – Porto"
+     },
+     "teams": [
+      "Liverpool",
+      "Porto"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Lens – Bodø/Glimt",
+      "en": "Lens – Bodø/Glimt"
+     },
+     "teams": [
+      "Lens",
+      "Bodø/Glimt"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "PSV Eindhoven – Atlético Madrid",
+      "en": "PSV Eindhoven – Atlético Madrid"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Atlético Madrid"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2026-12-09",
+     "title": {
+      "it": "Stoccarda – Lille",
+      "en": "Stuttgart – Lille"
+     },
+     "teams": [
+      "Stoccarda",
+      "Lille"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Bodø/Glimt – Atlético Madrid",
+      "en": "Bodø/Glimt – Atlético Madrid"
+     },
+     "teams": [
+      "Bodø/Glimt",
+      "Atlético Madrid"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Galatasaray – Feyenoord",
+      "en": "Galatasaray – Feyenoord"
+     },
+     "teams": [
+      "Galatasaray",
+      "Feyenoord"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "AEK Atene – Roma",
+      "en": "AEK Athens – Roma"
+     },
+     "teams": [
+      "AEK Atene",
+      "Roma"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Aston Villa – Borussia Dortmund",
+      "en": "Aston Villa – Borussia Dortmund"
+     },
+     "teams": [
+      "Aston Villa",
+      "Borussia Dortmund"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Inter – Liverpool",
+      "en": "Inter – Liverpool"
+     },
+     "teams": [
+      "Inter",
+      "Liverpool"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Porto – Slavia Praga",
+      "en": "Porto – Slavia Prague"
+     },
+     "teams": [
+      "Porto",
+      "Slavia Praga"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Lille – Slovan Bratislava",
+      "en": "Lille – Slovan Bratislava"
+     },
+     "teams": [
+      "Lille",
+      "Slovan Bratislava"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Real Madrid – LASK",
+      "en": "Real Madrid – LASK"
+     },
+     "teams": [
+      "Real Madrid",
+      "LASK"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-19",
+     "title": {
+      "it": "Stoccarda – Club Brugge",
+      "en": "Stuttgart – Club Brugge"
+     },
+     "teams": [
+      "Stoccarda",
+      "Club Brugge"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Fenerbahçe – Villarreal",
+      "en": "Fenerbahçe – Villarreal"
+     },
+     "teams": [
+      "Fenerbahçe",
+      "Villarreal"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Sabah – Napoli",
+      "en": "Sabah – Napoli"
+     },
+     "teams": [
+      "Sabah",
+      "Napoli"
+     ],
+     "time": "18:45"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Como – Paris Saint-Germain",
+      "en": "Como – Paris Saint-Germain"
+     },
+     "teams": [
+      "Como",
+      "Paris Saint-Germain"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Manchester United – Bayern Monaco",
+      "en": "Manchester United – Bayern Munich"
+     },
+     "teams": [
+      "Manchester United",
+      "Bayern Monaco"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Lipsia – Shakhtar Donetsk",
+      "en": "RB Leipzig – Shakhtar Donetsk"
+     },
+     "teams": [
+      "Lipsia",
+      "Shakhtar Donetsk"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Lens – Manchester City",
+      "en": "Lens – Manchester City"
+     },
+     "teams": [
+      "Lens",
+      "Manchester City"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Real Betis – Arsenal",
+      "en": "Real Betis – Arsenal"
+     },
+     "teams": [
+      "Real Betis",
+      "Arsenal"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Sporting Lisbona – Barcellona",
+      "en": "Sporting CP – Barcelona"
+     },
+     "teams": [
+      "Sporting Lisbona",
+      "Barcellona"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-20",
+     "title": {
+      "it": "Viking – PSV Eindhoven",
+      "en": "Viking – PSV Eindhoven"
+     },
+     "teams": [
+      "Viking",
+      "PSV Eindhoven"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Arsenal – Sabah",
+      "en": "Arsenal – Sabah"
+     },
+     "teams": [
+      "Arsenal",
+      "Sabah"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Roma – Lille",
+      "en": "Roma – Lille"
+     },
+     "teams": [
+      "Roma",
+      "Lille"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Atlético Madrid – Fenerbahçe",
+      "en": "Atlético Madrid – Fenerbahçe"
+     },
+     "teams": [
+      "Atlético Madrid",
+      "Fenerbahçe"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Borussia Dortmund – AEK Atene",
+      "en": "Borussia Dortmund – AEK Athens"
+     },
+     "teams": [
+      "Borussia Dortmund",
+      "AEK Atene"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Club Brugge – Bodø/Glimt",
+      "en": "Club Brugge – Bodø/Glimt"
+     },
+     "teams": [
+      "Club Brugge",
+      "Bodø/Glimt"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Bayern Monaco – Real Betis",
+      "en": "Bayern Munich – Real Betis"
+     },
+     "teams": [
+      "Bayern Monaco",
+      "Real Betis"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Barcellona – Como",
+      "en": "Barcelona – Como"
+     },
+     "teams": [
+      "Barcellona",
+      "Como"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Shakhtar Donetsk – Real Madrid",
+      "en": "Shakhtar Donetsk – Real Madrid"
+     },
+     "teams": [
+      "Shakhtar Donetsk",
+      "Real Madrid"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Feyenoord – Lipsia",
+      "en": "Feyenoord – RB Leipzig"
+     },
+     "teams": [
+      "Feyenoord",
+      "Lipsia"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "LASK – Porto",
+      "en": "LASK – Porto"
+     },
+     "teams": [
+      "LASK",
+      "Porto"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Liverpool – Lens",
+      "en": "Liverpool – Lens"
+     },
+     "teams": [
+      "Liverpool",
+      "Lens"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Manchester City – Sporting Lisbona",
+      "en": "Manchester City – Sporting CP"
+     },
+     "teams": [
+      "Manchester City",
+      "Sporting Lisbona"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Paris Saint-Germain – Galatasaray",
+      "en": "Paris Saint-Germain – Galatasaray"
+     },
+     "teams": [
+      "Paris Saint-Germain",
+      "Galatasaray"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "PSV Eindhoven – Stoccarda",
+      "en": "PSV Eindhoven – Stuttgart"
+     },
+     "teams": [
+      "PSV Eindhoven",
+      "Stoccarda"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Slavia Praga – Aston Villa",
+      "en": "Slavia Prague – Aston Villa"
+     },
+     "teams": [
+      "Slavia Praga",
+      "Aston Villa"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Napoli – Viking",
+      "en": "Napoli – Viking"
+     },
+     "teams": [
+      "Napoli",
+      "Viking"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Villarreal – Manchester United",
+      "en": "Villarreal – Manchester United"
+     },
+     "teams": [
+      "Villarreal",
+      "Manchester United"
+     ],
+     "time": "21:00"
+    },
+    {
+     "date": "2027-01-27",
+     "title": {
+      "it": "Slovan Bratislava – Inter",
+      "en": "Slovan Bratislava – Inter"
+     },
+     "teams": [
+      "Slovan Bratislava",
+      "Inter"
+     ],
+     "time": "21:00"
+    }
+   ],
+   "teams": [
+    "AEK Atene",
+    "Arsenal",
+    "Aston Villa",
+    "Atlético Madrid",
+    "Barcellona",
+    "Bayern Monaco",
+    "Bodø/Glimt",
+    "Borussia Dortmund",
+    "Club Brugge",
+    "Como",
+    "Fenerbahçe",
+    "Feyenoord",
+    "Galatasaray",
+    "Inter",
+    "LASK",
+    "Lens",
+    "Lille",
+    "Lipsia",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Napoli",
+    "PSV Eindhoven",
+    "Paris Saint-Germain",
+    "Porto",
+    "Real Betis",
+    "Real Madrid",
+    "Roma",
+    "Sabah",
+    "Shakhtar Donetsk",
+    "Slavia Praga",
+    "Slovan Bratislava",
+    "Sporting Lisbona",
+    "Stoccarda",
+    "Viking",
+    "Villarreal"
+   ],
+   "teamNamesEN": {
+    "AEK Atene": "AEK Athens",
+    "Barcellona": "Barcelona",
+    "Bayern Monaco": "Bayern Munich",
+    "Lipsia": "RB Leipzig",
+    "Slavia Praga": "Slavia Prague",
+    "Sporting Lisbona": "Sporting CP",
+    "Stoccarda": "Stuttgart"
    }
   },
   {
